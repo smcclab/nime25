@@ -13,4 +13,6 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 4.3"
+  spec.add_runtime_dependency "jekyll-fontawesome-svg", "~> 0.4.0"
+  spec.add_runtime_dependency "jekyll-toc", "~> 0.19.0"
 end
