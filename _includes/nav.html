@@ -1,13 +1,10 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-lg">
   <a class="navbar-brand" href="#">
-    {% if site.logo | slice: -3, 3 == "svg" %}
-    <svg width="120" class="d-inline-block align-top logo-svg" alt="{{ site.title }}">
-      <use href="{{ site.logo | relative_url }}"></use>
-    </svg>
-    {% else %}
+    {% if site.logo | slice: -3, 3 == "svg" %} 
+    <!-- special treatment if it's an SVG? -->
+    {% endif %} 
     <img src="{{ site.logo | relative_url }}" width="120" class="d-inline-block align-top" alt="{{ site.title }}">
-    {% endif %}
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>

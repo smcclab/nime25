@@ -121,19 +121,3 @@ $ui-4: #4d4bcd;
     background-position: center center;
     background-repeat: no-repeat;
 }
-
-svg { 
-    fill: currentColor;
-}
-
-:root {
-    --logo-color: #000000; /* Dark color for light mode */
-  }
-  
-  [data-bs-theme="dark"] {
-    --logo-color: #ffffff; /* Light color for dark mode */
-  }
-  
-  .logo-svg {
-    color: var(--logo-color);
-  }
