@@ -2,6 +2,8 @@
 
 This is a Jekyll Theme for creating website for academic conferences, groups, and organisations. Having an advanced blog layout page, a complicated landing page, or providing lots of "profile"-style social media links is less important than providing clear and consistent pages.
 
+This theme started out from a basic theme I developed for [my homepage](https://charlesmartin.au), and then for the [NIME community](https://nime.org).
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
