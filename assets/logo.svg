@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 500 500" width="500" height="500">
+  <defs/>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <g id="Group_3">
+          <g id="Graphic_4">
+            <path d="M 269.18055 54.5 L 230.81867 54.5 L 51.58677 318.63322 L 69.0068 351.5 L 430.9932 351.5 L 448.41323 318.63322 Z M 237.22369 66.58691 L 254.57396 66.58691 L 97.12639 298.62065 L 314.4613 298.62065 L 314.4613 286.53452 L 151.87284 286.53452 L 250.00116 141.91946 L 366.07035 312.97458 L 70.03374 312.97458 Z M 76.27987 339.41387 L 68.67275 325.05994 L 388.87853 325.05994 L 257.30446 131.15711 L 265.96952 118.38739 L 415.9526 339.41464 L 76.27987 339.41464 Z M 426.7196 333.75445 L 265.96952 96.86037 L 137.26624 286.53374 L 119.93457 286.53374 L 265.97805 71.30619 L 434.3267 319.40052 Z" fill="black"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(52 373.5)" fill="black">
+          <tspan font-family="PT Mono" font-weight="bold" font-size="60" fill="black" x="0" y="53" xml:space="preserve">ASSOCIATION</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

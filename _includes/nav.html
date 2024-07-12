@@ -1,7 +1,13 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-lg">
   <a class="navbar-brand" href="#">
-    <img src="{% link /assets/logos/nime.svg %}" width="120" class="d-inline-block align-top" alt="NIME">
+    {% if site.logo | slice: -3, 3 == "svg" %}
+    <svg width="120" class="d-inline-block align-top logo-svg" alt="{{ site.title }}">
+      <use href="{{ site.logo | relative_url }}"></use>
+    </svg>
+    {% else %}
+    <img src="{{ site.logo | relative_url }}" width="120" class="d-inline-block align-top" alt="{{ site.title }}">
+    {% endif %}
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
@@ -19,6 +25,11 @@
       {% endfor %}
     </ul>
 
+    <button id="themeToggle" class="btn btn-outline-secondary">
+      <i class="bi bi-sun-fill"></i> Light
+    </button>
+
+
     {% comment %}
     <!-- Colour Mode Toggling Icon ~~ a bit of custom CPM code. -->
     <!-- <ul class="navbar-nav">
@@ -35,6 +46,25 @@
   </div>
   </div>
 </nav>
+
+<script>
+  const themeToggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+
+  themeToggle.addEventListener('click', () => {
+      if (html.getAttribute('data-bs-theme') === 'light') {
+          html.setAttribute('data-bs-theme', 'dark');
+          themeToggle.innerHTML = '<i class="bi bi-moon-fill"></i> Dark';
+          themeToggle.classList.remove('btn-outline-secondary');
+          themeToggle.classList.add('btn-outline-light');
+      } else {
+          html.setAttribute('data-bs-theme', 'light');
+          themeToggle.innerHTML = '<i class="bi bi-sun-fill"></i> Light';
+          themeToggle.classList.remove('btn-outline-light');
+          themeToggle.classList.add('btn-outline-secondary');
+      }
+  });
+</script>
 
 {% comment %}
 <!-- Colour Mode Toggling Code -->
