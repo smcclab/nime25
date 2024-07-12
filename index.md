@@ -4,8 +4,46 @@ layout: page
 feature_image: assets/charles-martin-ventilation.jpg
 ---
 
-Qui sit dolor laborum laborum fugiat Lorem pariatur ullamco excepteur tempor anim minim. Pariatur nulla ipsum enim incididunt reprehenderit cillum qui ea id qui minim elit. Incididunt consectetur culpa ullamco non excepteur culpa aute minim aliquip aliquip nulla tempor Lorem. Ipsum do culpa labore proident. Ullamco eu mollit laboris aliqua cupidatat.
+Voluptate voluptate nostrud ad cupidatat. Culpa nostrud dolore ullamco laboris exercitation adipisicing labore ipsum aliquip sint sint eu culpa. Non consequat qui eu reprehenderit aute aliquip elit sint cillum non consectetur in nostrud esse. Ullamco incididunt enim incididunt minim voluptate fugiat commodo ea mollit commodo nisi magna.
 
-Sunt mollit nulla aute do. Sint nulla ex ut nulla excepteur dolore. Consequat elit exercitation anim et officia ad. Cillum velit minim commodo cupidatat in. Commodo enim nulla ea proident duis ipsum. Lorem ad pariatur veniam esse reprehenderit.
+## Typography
 
-Do amet veniam id aliquip deserunt fugiat adipisicing dolor voluptate deserunt duis. Incididunt magna enim do consequat reprehenderit. Tempor incididunt dolor cillum labore exercitation duis duis. Nulla non consectetur in laboris velit cillum eu sint ipsum duis anim reprehenderit id enim. Officia elit consequat sit cillum ullamco. Velit ea dolore duis in enim aliqua laborum minim eu pariatur sunt. Ut laboris Lorem commodo veniam occaecat.
+This is a paragraph with **bold text**, *italicized text*, and `inline code`. You can also use ~~strikethrough~~ text.
+
+Ad aliquip ut occaecat sit laborum esse occaecat deserunt consectetur ad labore duis. Aliquip est ea pariatur magna ea mollit. Amet incididunt qui adipisicing laborum. Mollit consequat id deserunt aliqua dolore quis consequat veniam voluptate excepteur consectetur aute adipisicing. Qui sint nostrud aliqua ut voluptate irure do excepteur.
+
+### Unordered List
+
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+- Item 3
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+   1. Subitem 3.1
+   2. Subitem 3.2
+
+## Links and Images
+
+[This is a link to Google](https://www.google.com)
+
+## Blockquotes
+
+> This is a blockquote. It can span multiple lines and can contain other markdown elements.
+>
+> - Like this list item
+> - And another one
+
+## Code Blocks
+
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+```
