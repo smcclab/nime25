@@ -4,6 +4,34 @@ title: Program
 permalink: /program/
 ---
 
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
+<script>
+
+
+  document.addEventListener('DOMContentLoaded', function() {
+    let sessionsData = {{ site.data.sessions | jsonify }};
+    <!-- TODO: loop over the array and set url property to the session page. -->
+
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      timeZone: 'AEST',
+      initialView: 'timeGridWeek',
+      events: sessionsData,
+    });
+    calendar.render();
+
+    <!-- experiments with the session data... -->
+    console.log(sessionsData)
+    var event = calendar.getEventById('research1')
+    console.log(event)
+
+    var start = event.start // a property (a Date object)
+    console.log(start.toISOString()) // "2018-09-01T00:00:00.000Z"
+  });
+</script>
+<div id='calendar'></div>
+
+<h2>Sessions</h2>
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}
 
