@@ -49,4 +49,4 @@ page_gen:
   title: title
   extension: html
   page_data_prefix: entry
-  debug: true
+  debug: false
