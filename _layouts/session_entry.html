@@ -24,7 +24,21 @@ layout: default
       {% if page.entry.type %}<li>Type: {{ page.entry.type }}</li>{% endif %}
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
     </ul>
+
+    {% assign session_papers = site.data.proceedings | where: "session_code", page.entry.id %}
+
     <h2>Presentations:</h2>
-    <p>TODO</p>
+    <ul>
+    {% for paper in session_papers %}
+    {% capture proceeding_entry_url %}{{ paper.id | datapage_url: "proceedings" | relative_url }}{% endcapture %}
+
+      <li>
+        <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a><br>
+        by {{ paper.authors }}<br>
+      </li>
+    {% endfor %}
+    </ul>
+
+
   </div>
 </article>

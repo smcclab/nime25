@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% capture session_url %}{{ page.entry.session_code | datapage_url: "sessions" | relative_url }}{% endcapture %}
+
+
 <article>
   {% if page.title %}
   <div class="my-4">
@@ -20,7 +23,7 @@ layout: default
     {% endif %}
     <ul>
       {% if page.entry.format %}<li>Format: {{ page.entry.format }}</li>{% endif %}
-      {% if page.entry.session_name %}<li>Session: {{ page.entry.session_name }}</li>{% endif %}
+      {% if page.entry.session_name %}<li>Session: <a href="{{ session_url }}">{{ page.entry.session_name }}</a></li>{% endif %}
       {% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
       {% if page.entry.slides_url %}<li><a href="{{ page.entry.slides_url }}">Slides link</a></li>{% endif %}
