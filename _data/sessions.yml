@@ -1,0 +1,17 @@
+- id: research1
+  title: Sustainable Engineering
+  chair: Sophee Nguyen
+  date: Monday 2024-06-03 11:00-12:30 AEST
+  location: "Council of Experts Theatre"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+
+- id: poster1
+  title: Human-Computer Interaction
+  chair: Rajesh Patel
+  date: Monday 2024-06-03 14:00-15:30 AEST
+  location: "Rising Stars Hall"
+  type: poster
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/Q8z7hx4g2bg

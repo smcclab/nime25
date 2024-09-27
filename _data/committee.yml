@@ -1,0 +1,29 @@
+- name: Sophee Nguyen
+  aff: Quantum Valley University
+  im: "assets/committee/default-person.jpg"
+  role: General Chair
+  url: "https://sophiang.edu"
+
+- name: Rajesh Patel
+  aff: Neodigital Academy of Sciences
+  im: "assets/committee/default-person.jpg"
+  role: Keynote Speaker Coordinator
+  url: "https://rajeshpatel.edu"
+
+- name: Elane Rodriguez
+  aff: Global Synergy Institute
+  im: "assets/committee/default-person.jpg"
+  role: Poster Session Chair
+  url: "https://elenaml.edu"
+
+- name: Alexander Ivanov
+  aff: Futuristic Horizons University
+  im: "assets/committee/default-person.jpg"
+  role: Sponsorship Chair
+  url: "https://aivanov-fhu.edu"
+
+- name: Yuki Tanaka
+  aff: Innovate Tech College
+  im: "assets/committee/default-person.jpg"
+  role: Local Arrangements Chair
+  url: "https://tanaka-lab.edu"

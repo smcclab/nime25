@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<article>
+  {% if page.title %}
+  <div class="my-4">
+    <h1 class="">{{ page.entry.title }}</h1>
+    <h4>{{ page.entry.authors }}</h4>
+  </div>
+  {% endif %}
+
+  {% include tocdiv.html %}
+
+  <div class="my-4 p-2">
+    {% if page.entry.image_url %}
+    <div class="entry-image">
+      <img src="{{ site.baseurl }}/{{ page.entry.image_url }}" alt="{{ page.title }}" class="img-fluid rounded">
+    </div>
+    {% endif %}
+    <ul>
+      {% if page.entry.format %}<li>Format: {{ page.entry.format }}</li>{% endif %}
+      {% if page.entry.session_name %}<li>Session: {{ page.entry.session_name }}</li>{% endif %}
+      {% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}
+      {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
+      {% if page.entry.slides_url %}<li><a href="{{ page.entry.slides_url }}">Slides link</a></li>{% endif %}
+    </ul>
+    <h2>Abstract:</h2>
+    <p>{{ page.entry.abstract }}</p>
+  </div>
+</article>

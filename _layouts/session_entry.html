@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article>
+  {% if page.title %}
+  <div class="my-4">
+    <h1 class="">Session: {{ page.entry.title }}</h1>
+    {% if page.entry.chair %}<h4>Chair: {{ page.entry.chair }}</h4>{% endif %}
+  </div>
+  {% endif %}
+
+  {% include tocdiv.html %}
+
+  <div class="my-4 p-2">
+    {% if page.entry.image_url %}
+    <div class="entry-image">
+      <img src="{{ site.baseurl }}/{{ page.entry.image_url }}" alt="{{ page.title }}" class="img-fluid rounded">
+    </div>
+    {% endif %}
+    <ul>
+      {% if page.entry.date %}<li>{{ page.entry.date }}</li>{% endif %}
+      {% if page.entry.location %}<li>Location: {{ page.entry.location }}</li>{% endif %}
+      {% if page.entry.type %}<li>Type: {{ page.entry.type }}</li>{% endif %}
+      {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
+    </ul>
+    <h2>Presentations:</h2>
+    <p>TODO</p>
+  </div>
+</article>

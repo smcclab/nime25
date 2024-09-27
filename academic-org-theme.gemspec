@@ -15,4 +15,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 4.3"
   spec.add_runtime_dependency "jekyll-fontawesome-svg", "~> 0.4.0"
   spec.add_runtime_dependency "jekyll-toc", "~> 0.19.0"
+  spec.add_runtime_dependency "jekyll-datapage-generator", "~> 1.4"
 end

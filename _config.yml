@@ -13,12 +13,40 @@ footer_copyright: Name of Copyright Holder
 logo: /assets/logo.svg
 favicon: /assets/logo.svg
 
+plugins:
+  - jekyll-datapage-generator
+
 navigation_header:
 - title: Home
   url: /
-- title: One
-  url: /one/
-- title: Two
-  url: /two/
-- title: Three
-  url: /three/
+- title: Call
+  url: /call
+- title: Committee
+  url: /committee
+- title: Program
+  url: /program
+- title: Location
+  url: /location
+- title: Contact
+  url: /
+
+# this is the setup for the page_gen plugin which generates individual pages for data files in the _data directory.
+page_gen:
+- data: proceedings
+  template: proceeding_entry
+  dir: proceedings
+  index_files: false
+  name: id
+  title: title
+  extension: html
+  page_data_prefix: entry
+  debug: false
+- data: sessions
+  template: session_entry
+  dir: sessions
+  index_files: false
+  name: id
+  title: title
+  extension: html
+  page_data_prefix: entry
+  debug: true
