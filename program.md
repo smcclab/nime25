@@ -4,19 +4,26 @@ title: Program
 permalink: /program/
 ---
 
+{% assign sorted_sessions = site.data.sessions | sort: "date" %}
+
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
 <script>
-
-
   document.addEventListener('DOMContentLoaded', function() {
-    let sessionsData = {{ site.data.sessions | jsonify }};
+    let sessionsData = {{ sorted_sessions | jsonify }};
+    let firstEventDate = sessionsData[0]["start"]
     <!-- TODO: loop over the array and set url property to the session page. -->
-
+    console.log(sessionsData)
+    for (i in sessionsData) {
+        let sessionId = sessionsData[i]["id"]
+        sessionsData[i]["url"] = `{{ site.baseurl }}/sessions/${sessionId}.html`
+    }
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      timeZone: 'AEST',
-      initialView: 'timeGridWeek',
-      events: sessionsData,
+        themeSystem: 'bootstrap5',
+        timeZone: 'AEST',
+        initialView: 'timeGridWeek',
+        events: sessionsData,
+        initialDate: firstEventDate,
     });
     calendar.render();
 
@@ -33,7 +40,6 @@ permalink: /program/
 
 <h2>Sessions</h2>
 
-{% assign sorted_sessions = site.data.sessions | sort: "date" %}
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
   {% for session in sorted_sessions %}
