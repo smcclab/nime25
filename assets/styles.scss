@@ -1,10 +1,21 @@
 ---
 ---
+// Inter Font
+// @import url('https://rsms.me/inter/inter.css');
+// @supports (font-variation-settings: normal) {
+//   html { font-family: 'Inter var', sans-serif; }
+// }
+
+// $body-font: 'Inter', sans-serif;
+// $header-font: 'Inter', sans-serif;
 
 // Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+
 $header-font: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $body-font: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $code-font: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+
 
 html {
     font-family: $body-font;
@@ -13,6 +24,7 @@ html {
 body {
   font-family: $body-font;
   font-weight: normal;
+  padding-top: 1em;
 }
 
 p {
@@ -106,7 +118,8 @@ $ui-4: #4d4bcd;
 }
 
 .feature-image {
-    height: 12rem;
-    background-position: center center;
+    height: 25em;
+    // background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
 }

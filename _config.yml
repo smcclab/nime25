@@ -1,20 +1,21 @@
 # This is a demo config file showing a minimal set of default keys and keys used by the theme.
-title: Your awesome title
+title: NIME 2025
 email: your-email@example.com
 tagline: Write a short description of the site here. # a short description
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the official website of NIME'25.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-footer_copyright: Name of Copyright Holder
-logo: /assets/logo.svg
-favicon: /assets/logo.svg
+footer_copyright: The Australian National University
+# logo: /assets/NIME2025_type.svg
+logo_light: /assets/NIME2025_type_light-1.svg
+logo_dark: /assets/NIME2025_type_dark.svg
+favicon: /assets/NIME2025_type.svg
 
 plugins:
+  - jekyll-figure
   - jekyll-datapage-generator
   - jekyll-seo-tag
 

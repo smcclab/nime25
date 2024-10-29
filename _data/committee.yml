@@ -1,29 +1,40 @@
-- name: Sophee Nguyen
-  aff: Quantum Valley University
-  im: "assets/committee/default-person.jpg"
+- name: Charles Martin
+  aff: ANU School of Computing
+  im: "assets/committee/charles-martin.jpg"
   role: General Chair
-  url: "https://sophiang.edu"
-
-- name: Rajesh Patel
-  aff: Neodigital Academy of Sciences
-  im: "assets/committee/default-person.jpg"
-  role: Keynote Speaker Coordinator
-  url: "https://rajeshpatel.edu"
-
-- name: Elane Rodriguez
-  aff: Global Synergy Institute
-  im: "assets/committee/default-person.jpg"
-  role: Poster Session Chair
-  url: "https://elenaml.edu"
-
-- name: Alexander Ivanov
-  aff: Futuristic Horizons University
-  im: "assets/committee/default-person.jpg"
-  role: Sponsorship Chair
-  url: "https://aivanov-fhu.edu"
-
-- name: Yuki Tanaka
-  aff: Innovate Tech College
-  im: "assets/committee/default-person.jpg"
-  role: Local Arrangements Chair
-  url: "https://tanaka-lab.edu"
+  url: "https://charlesmartin.au"
+- name: Pia van Gelder
+  aff: ANU School of Art and Design
+  im: "assets/committee/pia-van-gelder.jpg"
+  role: General Chair
+  url: "https://researchportalplus.anu.edu.au/en/persons/pia-van-gelder"
+- name: Doga Buse Cavdir
+  aff: IT University of Copenhagen
+  im: "assets/committee/doga-buse-cavdir.jpg"
+  role: Paper Chair
+  url: "https://www.dogacavdir.com/"
+- name: Yichen Wang
+  aff: ANU School of Computing
+  im: "assets/committee/yichen-wang.jpg"
+  role: Poster and Demo Chair
+  url: "https://yichenwangs.github.io/"
+- name: Jos Mulder
+  aff: ANU School of Music
+  im: "assets/committee/jos-mulder.jpg"
+  role: Music Chair
+  url: "https://researchportalplus.anu.edu.au/en/persons/jos-mulder"
+- name: Nicole Carroll
+  aff: Queensland University of Technology
+  im: ""
+  role: Music Chair
+  url: "http://nicolecarrollmusic.com"
+- name: Alexander Hunter
+  aff: ANU School of Music
+  im: "assets/committee/alexander-hunter.jpg"
+  role: Accessibility Chair
+  url: "https://www.alexanderhunter.com.au"
+- name: Minsik Choi
+  aff: ANU School of Computing
+  im: "assets/committee/minsik-choi.jpg"
+  role: Workshop Chair
+  url: "https://yorkcla.github.io"
