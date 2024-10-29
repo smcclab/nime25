@@ -1,23 +1,95 @@
+- id: workshops
+  title: Workshops
+  chair: TBA
+  date: Tuesday 2025-06-24 09:00-17:30 AEST
+  start: '2025-06-24T09:00:00'
+  end: '2025-06-24T17:30:00'
+  location: "ANU CSIT Building"
+  type: workshops
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: concert1
+  title: Opening Concert
+  chair: TBA
+  date: Tuesday 2025-06-24 19:00-23:00 AEST
+  start: '2025-06-24T19:00:00'
+  end: '2025-06-24T23:00:00'
+  location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
 - id: research1
-  title: Sustainable Engineering
-  chair: Sophee Nguyen
-  date: Monday 2024-06-03 11:00-12:30 AEST
-  start: '2024-06-03T11:00:00'
-  end: '2024-06-03T12:30:00'
-  location: "Council of Experts Theatre"
+  title: NIME Day 1
+  chair: TBA
+  date: Wednesday 2025-06-25 09:00-17:30 AEST
+  start: '2025-06-25T09:00:00'
+  end: '2025-06-25T17:30:00'
+  location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: poster1
-  title: Human-Computer Interaction
-  chair: Rajesh Patel
-  date: Monday 2024-06-03 14:00-15:30 AEST
-  start: '2024-06-03T14:00:00'
-  end: '2024-06-03T15:30:00'
-  location: "Rising Stars Hall"
-  type: poster
+- id: concert2
+  title: Concert 2
+  chair: TBA
+  date: Wednesday 2025-06-25 19:00-23:00 AEST
+  start: '2025-06-25T19:00:00'
+  end: '2025-06-25T23:00:00'
+  location: "Kambri T2 Theatre"
+  type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/Q8z7hx4g2bg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: research2
+  title: NIME Day 2
+  chair: TBA
+  date: Thursday 2025-06-26 09:00-17:30 AEST
+  start: '2025-06-26T09:00:00'
+  end: '2025-06-26T17:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: concert3
+  title: Concert 3
+  chair: TBA
+  date: Thursday 2025-06-26 19:00-23:00 AEST
+  start: '2025-06-26T19:00:00'
+  end: '2025-06-26T23:00:00'
+  location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: research3
+  title: NIME Day 3
+  chair: TBA
+  date: Friday 2025-06-27 09:00-17:30 AEST
+  start: '2025-06-27T09:00:00'
+  end: '2025-06-27T17:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: concert4
+  title: Closing Concert
+  chair: TBA
+  date: Friday 2025-06-27 19:00-23:00 AEST
+  start: '2025-06-27T19:00:00'
+  end: '2025-06-27T23:00:00'
+  location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
