@@ -1,12 +1,8 @@
 ---
 layout: page  
-title: Location
+title: "Location: About Canberra and the ANU"
 permalink: /location/
 ---
-
-Information about Canberra and the Australian National University.
-
-## About Canberra and ANU
 
 Canberra is the capital city of Australia and home to around 450,000 people. The city sits on the land of the [Ngunnawal](https://www.ngunnawal.org) and [Ngambri](http://www.ngambri.org) Aboriginal people and we acknowledge their elders past and present and unceded sovereignty. Canberra is a planned city laid out in early 20th century to include significant areas of native bushland, parks, gardens and artificial lakes. Canberra is home to Parliament House and many other national institutions related to government, research and culture including the National Gallery of Australia, National Library of Australia, National Film and Sound Archive, the Commonwealth Scientific and Industrial Research Organisation (CSIRO), and the Australian National University.
 
