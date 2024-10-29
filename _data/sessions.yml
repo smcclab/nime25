@@ -1,11 +1,37 @@
-- id: workshops
-  title: Workshops
+# Workshop Day
+
+- id: workshops1
+  title: Workshops 1
   chair: TBA
-  date: Tuesday 2025-06-24 09:00-17:30 AEST
-  start: '2025-06-24T09:00:00'
-  end: '2025-06-24T17:30:00'
-  location: "ANU CSIT Building"
+  date: Tuesday 2025-06-24 09:30-12:30 AEST
+  start: '2025-06-24T09:30:00'
+  end: '2025-06-24T12:30:00'
+  location: "ANU Birch Building"
   type: workshops
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: workshops2
+  title: Workshops 2
+  chair: TBA
+  date: Tuesday 2025-06-24 13:30-16:30 AEST
+  start: '2025-06-24T13:30:00'
+  end: '2025-06-24T16:30:00'
+  location: "ANU Birch Building"
+  type: workshops
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: reception
+  title: Conference Opening and Reception
+  chair: TBA
+  date: Tuesday 2025-06-24 18:30-19:30 AEST
+  start: '2025-06-24T19:00:00'
+  end: '2025-06-24T23:00:00'
+  location: "Kambri Foyer"
+  type: concert
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
@@ -13,7 +39,7 @@
 - id: concert1
   title: Opening Concert
   chair: TBA
-  date: Tuesday 2025-06-24 19:00-23:00 AEST
+  date: Tuesday 2025-06-24 19:30-21:30 AEST
   start: '2025-06-24T19:00:00'
   end: '2025-06-24T23:00:00'
   location: "Kambri T2 Theatre"
@@ -21,6 +47,8 @@
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+
+# Day 1
 
 - id: research1
   title: NIME Day 1
@@ -46,6 +74,8 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
+# Day 2
+
 - id: research2
   title: NIME Day 2
   chair: TBA
@@ -69,6 +99,8 @@
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+
+# Day 3
 
 - id: research3
   title: NIME Day 3
