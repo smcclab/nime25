@@ -1,11 +1,11 @@
 # This is a demo config file showing a minimal set of default keys and keys used by the theme.
 title: NIME 2025
-email: your-email@example.com
+email: charles.martin@anu.edu.au
 tagline: Write a short description of the site here. # a short description
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official website of NIME'25.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nime2025.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 footer_copyright: The Australian National University
