@@ -30,6 +30,8 @@ Or install it yourself as:
 
 TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
 
+The theme uses [`jekyll-seo-tag`](https://github.com/jekyll/jekyll-seo-tag/) to provide metadata in the page headers, you may want to look at the [usage](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) page for that plugin.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/smcclab/academic-org-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.

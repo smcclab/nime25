@@ -1,6 +1,7 @@
 # This is a demo config file showing a minimal set of default keys and keys used by the theme.
 title: Your awesome title
 email: your-email@example.com
+tagline: Write a short description of the site here. # a short description
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,6 +16,7 @@ favicon: /assets/logo.svg
 
 plugins:
   - jekyll-datapage-generator
+  - jekyll-seo-tag
 
 navigation_header:
 - title: Home
