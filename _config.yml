@@ -24,6 +24,8 @@ navigation_header:
   url: /
 - title: Call
   url: /call/
+- title: Submissions
+  url: /submissions/
 - title: Committee
   url: /committee/
 - title: Program
