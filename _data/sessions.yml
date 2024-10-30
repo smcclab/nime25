@@ -53,9 +53,9 @@
 - id: research1
   title: NIME Day 1
   chair: TBA
-  date: Wednesday 2025-06-25 09:00-17:30 AEST
+  date: Wednesday 2025-06-25 09:00-17:00 AEST
   start: '2025-06-25T09:00:00'
-  end: '2025-06-25T17:30:00'
+  end: '2025-06-25T17:00:00'
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
@@ -65,10 +65,22 @@
 - id: concert2
   title: Concert 2
   chair: TBA
-  date: Wednesday 2025-06-25 19:00-23:00 AEST
+  date: Wednesday 2025-06-25 19:00-21:00 AEST
   start: '2025-06-25T19:00:00'
-  end: '2025-06-25T23:00:00'
+  end: '2025-06-25T21:00:00'
   location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: club1
+  title: Club Concert 1
+  chair: TBA
+  date: Wednesday 2025-06-25 21:30-23:00 AEST
+  start: '2025-06-25T21:30:00'
+  end: '2025-06-25T23:00:00'
+  location: "Big Band Room"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
@@ -79,9 +91,9 @@
 - id: research2
   title: NIME Day 2
   chair: TBA
-  date: Thursday 2025-06-26 09:00-17:30 AEST
+  date: Thursday 2025-06-26 09:00-17:00 AEST
   start: '2025-06-26T09:00:00'
-  end: '2025-06-26T17:30:00'
+  end: '2025-06-26T17:00:00'
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
@@ -91,10 +103,22 @@
 - id: concert3
   title: Concert 3
   chair: TBA
-  date: Thursday 2025-06-26 19:00-23:00 AEST
+  date: Thursday 2025-06-26 19:00-21:00 AEST
   start: '2025-06-26T19:00:00'
-  end: '2025-06-26T23:00:00'
+  end: '2025-06-26T21:00:00'
   location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: club2
+  title: Club Concert 2
+  chair: TBA
+  date: Thursday 2025-06-26 21:30-23:00 AEST
+  start: '2025-06-26T21:30:00'
+  end: '2025-06-26T23:00:00'
+  location: "Big Band Room"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
@@ -105,9 +129,9 @@
 - id: research3
   title: NIME Day 3
   chair: TBA
-  date: Friday 2025-06-27 09:00-17:30 AEST
+  date: Friday 2025-06-27 09:00-17:00 AEST
   start: '2025-06-27T09:00:00'
-  end: '2025-06-27T17:30:00'
+  end: '2025-06-27T17:00:00'
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
@@ -119,6 +143,18 @@
   chair: TBA
   date: Friday 2025-06-27 19:00-23:00 AEST
   start: '2025-06-27T19:00:00'
+  end: '2025-06-27T21:00:00'
+  location: "Kambri T2 Theatre"
+  type: concert
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: club3
+  title: Club Concert 3 
+  chair: TBA
+  date: Friday 2025-06-27 21:30-23:00 AEST
+  start: '2025-06-27T21:30:00'
   end: '2025-06-27T23:00:00'
   location: "Kambri T2 Theatre"
   type: concert
