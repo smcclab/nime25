@@ -8,16 +8,16 @@
   im: "assets/committee/pia-van-gelder.jpg"
   role: General Chair
   url: "https://researchportalplus.anu.edu.au/en/persons/pia-van-gelder"
-- name: Florent Berthaut
-  aff: Universitié de Lille
-  im: "assets/committee/florent-berthaut.jpg"
-  role: Paper Chair
-  url: "https://pro.univ-lille.fr/florent-berthaut"
 - name: Doga Buse Cavdir
   aff: IT University of Copenhagen
   im: "assets/committee/doga-buse-cavdir.jpg"
   role: Paper Chair
   url: "https://www.dogacavdir.com/"
+- name: Florent Berthaut
+  aff: Universitié de Lille
+  im: "assets/committee/florent-berthaut.jpg"
+  role: Paper Chair
+  url: "https://pro.univ-lille.fr/florent-berthaut"  
 - name: Yichen Wang
   aff: ANU School of Computing
   im: "assets/committee/yichen-wang.jpg"
@@ -25,7 +25,7 @@
   url: "https://yichenwangs.github.io/"
 - name: Sophie Rose
   aff: The Australian Institute of Music
-  im: "assets/committee/sophie-rose.jpg
+  im: "assets/committee/sophie-rose.jpg"
   role: Music Chair
   url: "https://sophiemusicrose.com/Bio/"
 - name: Jos Mulder
