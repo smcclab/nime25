@@ -6,7 +6,7 @@ permalink: /submissions/
 
 This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
 
-## Format
+## Format and Templates
 
 All NIME submissions involve a PDF document using one of our [templates](https://github.com/NIME-conference/nime-template).
 
