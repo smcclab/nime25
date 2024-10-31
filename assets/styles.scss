@@ -85,7 +85,12 @@ article {
         display:block;
         margin:auto;
     }
-
+    
+    .card-img-top {
+        width: 385px;
+        height: 385px;
+        object-fit:contain;
+    }
     .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
         text-align: center;
     }
