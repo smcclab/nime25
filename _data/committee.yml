@@ -48,6 +48,11 @@
   im: "assets/committee/minsik-choi.jpg"
   role: Workshop Chair
   url: "https://yorkcla.github.io"
+- name: Alon Ilsar 
+  aff: SensiLab, Monash University
+  im: "assets/committee/alon-ilsar.jpg"
+  role: Workshop Chair
+  url: "https://yorkcla.github.io"  
 - name: Albert-Ngabo Niyonsenga
   aff:  McGill IDMIL & ANU SMCClab
   im: "assets/committee/albert-niyonsenga.jpg"
