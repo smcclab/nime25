@@ -83,8 +83,8 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: club1
-  title: Club Concert 1
+- id: night1
+  title: Night Concert 1
   chair: TBA
   date: Wednesday 2025-06-25 21:30-23:00 AEST
   start: '2025-06-25T21:30:00'
@@ -121,8 +121,8 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: club2
-  title: Club Concert 2
+- id: night2
+  title: Night Concert 2
   chair: TBA
   date: Thursday 2025-06-26 21:30-23:00 AEST
   start: '2025-06-26T21:30:00'
@@ -159,8 +159,8 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: club3
-  title: Club Concert 3 
+- id: night3
+  title: Night Concert 3 
   chair: TBA
   date: Friday 2025-06-27 21:30-23:00 AEST
   start: '2025-06-27T21:30:00'
