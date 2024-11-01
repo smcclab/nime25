@@ -4,6 +4,9 @@ title: Call for Contributions
 permalink: /call/
 ---
 
+{: .warning-box }
+The NIME call is available now below. [Submission]({% link submissions.md %}) information is available, but the template and CMT site will be available by 4 December, 2024.
+
 We invite you to be a part of NIME2025, _entangled NIME_, the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia with support for in-person and remote presentation.
 
 We invite submissions of new scholarly and creative works in the following categories:
@@ -15,7 +18,7 @@ We invite submissions of new scholarly and creative works in the following categ
 *   Workshop
     
 
-All NIME submissions are made through CMT and use the [NIME Template](https://github.com/NIME-conference/nime-template). We encourage submitters to use the LaTeX templates and tools such as Overleaf where possible.
+All NIME submissions are made through CMT and use the NIME Template. We encourage submitters to use the LaTeX templates and tools such as Overleaf where possible.
 
 Submission deadlines and specific information for each category of submission can be found below.
 

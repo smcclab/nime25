@@ -4,10 +4,10 @@ title: Preparing your submission
 permalink: /submissions/
 ---
 
-This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
-
 {: .warning-box }
 The submission website (CMT) and 2025 templates aren't quite ready yet. These should be complete by *4 December, 2024*
+
+This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
 
 ## Format and Templates
 
