@@ -28,4 +28,8 @@ Through this lens, we invite researchers, artists, and technologists to reflect 
 
 **Canberra** is a small but culturally energetic city holding many of Australia’s cultural institutions. The ANU has a history of engagement with electronic and computer art and music through scholarship, artistic fellowships, and education. The ANU is active in addressing important social issues in Australia such as a commitment to below zero carbon usage and engagement with and celebration of First Nations people.
 
-In addition to showcasing the best of international NIME-related research, scholarship and artistic investigation, NIME2025 will continue building a strong and inclusive scholarly computer music and art community in Australia. This is particularly important for supporting Australian and New Zealand researchers and artists who are young/emerging, historically disadvantaged, have a disability, are First Nations people or who simply work outside of academia and mainstream institutions.
+## Inclusion and Accessibility at NIME
+
+In addition to showcasing the best of international NIME-related research, scholarship and artistic investigation, NIME2025 will continue building a strong and inclusive scholarly computer music and art community in Australia. This is particularly important for supporting Australian and New Zealand researchers and artists who are young/emerging, historically disadvantaged, are Deaf, have a disability, are First Nations people or who simply work outside of academia and mainstream institutions.
+
+We note that NIME submissions (papers, music, workshops) are subject to the [NIME Principles & Code of Practice on Ethical Research](https://nime.org/ethics/) and we ask all submitters to consider accessibility implications that may be relevant to their proposals. We welcome conversations regarding accessibility potential of submissions and look to ways to promote embedded accessibility in all that we do.
