@@ -10,7 +10,8 @@
 // $header-font: 'Inter', sans-serif;
 
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+@use "sass:color";
 
 $header-font: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $body-font: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -135,4 +136,46 @@ $ui-4: #4d4bcd;
     // background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+// nice callout boxes from ANU jekyll themes...
+// swiped from ANU neotheme, but adjusted to use custom colours, not ANU colormap.
+
+@function get-custom-color-level($color, $level: 0) {
+	@return color.mix(#ffffff, $color, $level * 22%);
+}
+
+%callout-box {
+  padding: 1rem;
+  border-top: 4px solid get-color-level(#000000, 3);
+  background-color: get-color-level(#000000, 4);
+  margin: 1rem 0;
+
+  *:first-child {
+    margin-top: 0;
+  }
+
+  *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.callout-box {
+  @extend %callout-box;
+}
+
+$info-color: $ui-3;
+
+.info-box {
+  @extend %callout-box;
+  border-color: $info-color;
+  background: get-custom-color-level($info-color, 4);
+}
+
+$warning-color: #FF4F00;
+
+.warning-box {
+    @extend %callout-box;
+    border-color: $warning-color;
+    background: get-custom-color-level($warning-color, 4);
 }

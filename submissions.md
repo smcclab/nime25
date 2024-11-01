@@ -6,6 +6,9 @@ permalink: /submissions/
 
 This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
 
+{: .warning-box }
+The submission website (CMT) and 2025 templates aren't quite ready yet. These should be complete by *4 December, 2024*
+
 ## Format and Templates
 
 All NIME submissions involve a PDF document using one of our [templates](https://github.com/NIME-conference/nime-template).
@@ -19,6 +22,7 @@ The template you use should depends on the type of submission you are making:
 | paper    | paper    | 2       | yes             |
 | music    | music    | 1       | soft (no names) |
 | workshop | music    | 1       | no              |
+{: .table }
 
 We provide templates in LaTeX `.tex` and Word `.docx` format. We **highly** suggest using the LaTeX templates as they produce a much more consistent end product. Many NIME authors use [Overleaf](https://www.overleaf.com/) as their LaTeX editor/word processor which provides code and rich text views of your work. 
 
@@ -34,7 +38,10 @@ Workshop submissions do not need to be anonymised.
 
 ## Submission Website
 
-- All NIME submissions need to be uploaded to CMT. (opens **4 December, 2024**)
+{: .info-box }
+The NIME CMT submission website will open by **4 December, 2024**
+
+All NIME submissions need to be uploaded to our submission website on CMT. 
 
 Please note that author names must be entered accurately in CMT by the submission deadline. Authors cannot be added or removed to papers after they have been submitted.
 
