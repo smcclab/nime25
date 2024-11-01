@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Call for Contributions
+description: The call for paper, music, and workshop contributions for NIME2025.
 permalink: /call/
 ---
 

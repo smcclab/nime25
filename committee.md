@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Conference Committee
+description: The organising committee and their roles.
 permalink: /committee/
 ---
 

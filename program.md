@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Program
+description: The program of events for NIME2025.
 permalink: /program/
 ---
 

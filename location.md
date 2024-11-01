@@ -1,6 +1,8 @@
 ---
 layout: page  
 title: "Location: About Canberra and the ANU"
+description: Local information about Canberra and the ANU and venues that will be used for NIME2025.
+image: /assets/location/smc-students.jpg
 permalink: /location/
 ---
 

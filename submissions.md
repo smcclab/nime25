@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Preparing your submission
+description: Information on how to prepare and submit paper, music, or workshop submissions for NIME2025.
 permalink: /submissions/
 ---
 
