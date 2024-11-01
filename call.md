@@ -219,7 +219,7 @@ Submission information is available here: [https://nime2025.org/submissions/](ht
 #### Important Notes for Workshop Submissions:
 
 *   At least one author of accepted workshops must purchase conference registration by the publication-ready deadline to be included in the conference.
-    
+
 
 #### Workshop Review Process:
 
