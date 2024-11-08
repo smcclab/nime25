@@ -14,8 +14,6 @@ This page contains information on how to prepare your submission for NIME2025. Y
 
 All NIME submissions involve a PDF document using one of our [templates](https://github.com/NIME-conference/nime-template).
 
-**Updates to the NIME template for 2025 will be released by 4 December, 2024**
-
 The template you use should depends on the type of submission you are making:
 
 | Track    | Template | Columns | Anonymised?     |
