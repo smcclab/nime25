@@ -2,7 +2,7 @@
 title: Entangled NIME
 layout: page
 description: The homepage for NIME2025 which will take place at the Australian National University, Canberra.
-image: /assets/NIME2025_background_light.png
+image: /assets/NIME2025-favicon.png
 feature_image_light: /assets/NIME2025_background_light.png
 feature_image_dark: /assets/NIME2025_background_dark.png
 ---
