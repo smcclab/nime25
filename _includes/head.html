@@ -3,6 +3,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description }}">
+
+<!-- Open Graph Meta Tags for Link Preview -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+
 <!-- favicons --> 
 <link rel="icon" href="{{ site.favicon | relative_url }}">
 <link rel=”mask-icon” href="{{ site.favicon | relative_url }}" color="#000000">
