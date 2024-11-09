@@ -40,7 +40,7 @@ Workshop submissions do not need to be anonymised.
 {: .info-box }
 The NIME CMT submission website will open by **4 December, 2024**
 
-All NIME submissions need to be uploaded to our submission website on CMT. 
+All NIME submissions need to be uploaded to our submission website on CMT: <https://cmt3.research.microsoft.com/NIME2025>
 
 Please note that author names must be entered accurately in CMT by the submission deadline. Authors cannot be added or removed to papers after they have been submitted.
 

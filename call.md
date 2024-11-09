@@ -16,7 +16,7 @@ We invite submissions of new scholarly and creative works in the following categ
 - Music (live performance, installation, remote)
 - Workshop
 
-All NIME submissions are made through CMT (link TBA) and use the NIME Template: <https://github.com/NIME-conference/nime-template>. 
+All NIME submissions are made through [CMT](https://cmt3.research.microsoft.com/NIME2025) and use the NIME Template: <https://github.com/NIME-conference/nime-template>. 
 We encourage submitters to use the LaTeX templates and tools such as Overleaf where possible.
 
 Submission deadlines and specific information for each category of submission can be found below.
@@ -29,7 +29,7 @@ We note that travel is not required to publish and present work at NIME 2025. De
 
 All dates are 23:59 AoE [(Anywhere on Earth)](https://www.timeanddate.com/time/zones/aoe)
 
-- **4 December, 2024: Submission site (CMT) opens**
+- **4 December, 2024: Submission [CMT site](https://cmt3.research.microsoft.com/NIME2025) opens**
 - **29 January, 2025: Paper and Music - Titles, abstracts and author lists due in CMT**
 - **5 February, 2025: Paper and Music -  Final submissions due in CMT**
 - **19 February, 2025: Workshop submissions due in CMT**

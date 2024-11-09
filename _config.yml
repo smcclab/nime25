@@ -55,3 +55,5 @@ page_gen:
   extension: html
   page_data_prefix: entry
   debug: false
+
+submission_site: https://cmt3.research.microsoft.com/NIME2025
