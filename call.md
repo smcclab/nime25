@@ -50,7 +50,6 @@ We welcome submissions of original research on scientific and artistic use of ne
 - 4000 words (formerly “short”)
 - 2000 words (formerly “demo”)
 
-
 Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will go through the same review process with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for oral or poster presentation if accepted. Papers are expected to have a contribution commensurate with their length.
 
 Original contributions are encouraged in, but not limited to, the following topics:
@@ -78,7 +77,6 @@ Original contributions are encouraged in, but not limited to, the following topi
 - Sonic interaction design
 - Pedagogical perspectives or reports on student projects in the framework of NIME-related courses
 - Practice-based research approaches/methodologies/criticism
-  
 
 #### Important notes for Papers:
 
@@ -86,6 +84,8 @@ Original contributions are encouraged in, but not limited to, the following topi
 - All paper category submissions must be completely anonymised, including, but not limited to authors, references, and specific project names that can clearly identify the author(s).
 - A manuscript submitted for review cannot be already under review for publication elsewhere or be submitted for a second review elsewhere while under review for NIME.
 - At least one author of accepted submissions must purchase conference registration by the publication-ready deadline to be included in the conference.
+- Accepted submissions presented remotely in oral paper sessions will preferably be a live synchronous presentation (we expect to use [this setup](https://charlesmartin.au/blog/2023/07/20/hybrid-conference) for streaming).
+- Accepted submissions presented remotely for poster/demo sessions will be by asynchronous pre-recorded video presentation.
 
 Submission information is available here: [https://nime2025.org/submissions/](https://nime2025.org/submissions/) 
 
@@ -101,7 +101,7 @@ The review process is double-blind, meaning reviewers remain anonymous to the au
 
 If you’d like to register as a NIME reviewer (or are unsure if you’re already a reviewer), please register as a reviewer using **this form.**
 
-### Call for Music 
+### Call for Music
 
 We invite submission of proposals that showcase new interfaces for musical expression in composition and performance. We look forward to receiving submissions that expand and reshape our understanding of NIME in the performance, conceptualisation, and reception of music.
 
@@ -122,7 +122,7 @@ Submission information is available here: [https://nime2025.org/submissions/](ht
 - All music submissions must include a PDF submission document using the NIME music template: [https://nime2025.org/submissions/](https://nime2025.org/submissions/) 
 - Music submissions should have the following sections: **Project Description, Technical Notes, Program Notes, Media Links, Acknowledgements (optional), Ethical Standards, References**. Submissions should include images and diagrams as necessary to help reviewers understand the work and how it might be staged. 
 - Submissions without an appropriate PDF document may not be reviewed.
-- Music submissions must include a link to video documentation of the proposed work.
+- Music submissions must include a link to **video documentation** of the proposed work.
 - Submissions will be published on the conference website and on [NIME.org](http://nime.org/) as part of the Music Proceedings of the International Conference on New Interfaces for Musical Expression.
 - We ask for soft anonymisation of music submissions: author names should not appear in the PDF submission, video documentation or account names that are linked from submissions. You don’t have to blur or obscure faces in videos or images.
 - The NIME organisers cannot provide funding to support performers’ travel or accommodation at the conference.
