@@ -121,7 +121,7 @@ Submission information is available here: [https://nime2025.org/submissions/](ht
 
 - All music submissions must include a PDF submission document using the NIME music template: [https://nime2025.org/submissions/](https://nime2025.org/submissions/) 
 - Music submissions should have the following sections: **Project Description, Technical Notes, Program Notes, Media Links, Acknowledgements (optional), Ethical Standards, References**. Submissions should include images and diagrams as necessary to help reviewers understand the work and how it might be staged. 
-- Submissions without an appropriate PDF document may not be reviewed.
+- Submissions without an appropriate PDF document including the above sections may not be reviewed.
 - Music submissions must include a link to **video documentation** of the proposed work.
 - Submissions will be published on the conference website and on [NIME.org](http://nime.org/) as part of the Music Proceedings of the International Conference on New Interfaces for Musical Expression.
 - We ask for soft anonymisation of music submissions: author names should not appear in the PDF submission, video documentation or account names that are linked from submissions. You don’t have to blur or obscure faces in videos or images.
