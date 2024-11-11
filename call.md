@@ -99,8 +99,6 @@ All paper submissions will be subjected to a rigorous double-blind peer review p
 
 The review process is double-blind, meaning reviewers remain anonymous to the authors and vice-versa. It is expected that authors respect the NIME Ethical guidelines for NIME publications.
 
-If you’d like to register as a NIME reviewer (or are unsure if you’re already a reviewer), please register as a reviewer using **this form.**
-
 ### Call for Music
 
 We invite submission of proposals that showcase new interfaces for musical expression in composition and performance. We look forward to receiving submissions that expand and reshape our understanding of NIME in the performance, conceptualisation, and reception of music.
