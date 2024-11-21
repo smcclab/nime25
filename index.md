@@ -16,7 +16,7 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 - June 24--27, 2025 
 - The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia
 
-The call for submissions has been released [here](./call.md). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
+The call for submissions has been released [here](https://nime2025.org/call/). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
 
 [**New Interfaces for Musical Expression (NIME)**](https://nime.org), is an international conference about new musical interfaces, their artistic use and the technologies involved in building them. Researchers from all over the world share their knowledge and late breaking work during the conference. The conference started as a workshop at the CHI conference in 2001 and, since then, has been held annually around the world.
 
