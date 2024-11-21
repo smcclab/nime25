@@ -35,3 +35,20 @@ Through this lens, we invite researchers, artists, and technologists to reflect 
 In addition to showcasing the best of international NIME-related research, scholarship and artistic investigation, NIME2025 will continue building a strong and inclusive scholarly computer music and art community in Australia. This is particularly important for supporting Australian and New Zealand researchers and artists who are young/emerging, historically disadvantaged, are Deaf, have a disability, are First Nations people or who simply work outside of academia and mainstream institutions.
 
 We note that NIME submissions (papers, music, workshops) are subject to the [NIME Principles & Code of Practice on Ethical Research](https://nime.org/ethics/) and we ask all submitters to consider accessibility implications that may be relevant to their proposals. We welcome conversations regarding accessibility potential of submissions and look to ways to promote embedded accessibility in all that we do.
+
+## Important Dates:
+
+All dates are 23:59 AoE [(Anywhere on Earth)](https://www.timeanddate.com/time/zones/aoe).
+
+- **4 December, 2024: Submission [CMT site](https://cmt3.research.microsoft.com/NIME2025) opens**
+- **29 January, 2025: Paper and Music - Titles, abstracts and author lists due in CMT**
+- **5 February, 2025: Paper and Music -  Final submissions due in CMT**
+- **19 February, 2025: Workshop submissions due in CMT**
+- **2 April, 2025: Acceptance decisions and reviews released**
+- **30 April, 2025: Camera ready and presenter registration deadline**
+- **24 June, 2025: NIME Workshops**
+- **25 - 27 June, 2025: NIME Conference**
+
+Submission information for all tracks is available here: [https://nime2025.org/submissions/](https://nime2025.org/submissions/). 
+
+If you’d like to register as a NIME reviewer (or are unsure if you’re already a reviewer), please register as a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
