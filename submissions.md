@@ -3,6 +3,8 @@ layout: page
 title: Preparing your submission
 description: Information on how to prepare and submit paper, music, or workshop submissions for NIME2025.
 permalink: /submissions/
+template_link: https://github.com/NIME-conference/nime-template/releases/tag/v2024.12.02
+cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
 {: .warning-box }
@@ -12,7 +14,7 @@ This page contains information on how to prepare your submission for NIME2025. Y
 
 ## Format and Templates
 
-All NIME submissions involve a PDF document using the latest release of our [templates](https://github.com/NIME-conference/nime-template/releases).
+All NIME submissions involve a PDF document using the latest release of our [templates]({{ page.template_link }}).
 
 The template you use should depends on the type of submission you are making:
 
@@ -25,7 +27,7 @@ The template you use should depends on the type of submission you are making:
 
 We provide templates in LaTeX `.tex` and Word `.docx` format. We **highly** suggest using the LaTeX templates as they produce a much more consistent end product. Many NIME authors use [Overleaf](https://www.overleaf.com/) as their LaTeX editor/word processor which provides code and rich text views of your work. 
 
-You can easily download the respective `.zip` file and upload it directly on Overleaf for editing.
+You can easily [download]({{ page.template_link }}) the respective `.zip` file and upload it directly on Overleaf for editing.
 
 ## Anonymisation
 
