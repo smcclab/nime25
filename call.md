@@ -46,11 +46,13 @@ If you’d like to register as a NIME reviewer (or are unsure if you’re alread
 
 We welcome submissions of original research on scientific and artistic use of new interfaces for musical expression. A non-exhaustive list of NIME-related topics is found below. There are three different paper submission classes by word lengths:
 
-- 6000 words (formerly “long”)
-- 4000 words (formerly “short”)
-- 2000 words (formerly “demo”)
+- 6000 words (now "long", formerly “long”)
+- 4000 words (now "medium", formerly “short”)
+- 2000 words (now "short", formerly “demo”)
 
-Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will go through the same review process with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for oral or poster presentation if accepted. Papers are expected to have a contribution commensurate with their length.
+Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will undergo the same review process. with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for _oral_ or _poster_ presentation if accepted. Papers are expected to have a contribution commensurate with their length. For the short paper category, we welcome submission that proposes an original and innovation technology, technical approaches, or prototype (with or without an accompanying evaluation) that provokes novel conversations and contribute meaningfully to the NIME field.
+
+
 
 Original contributions are encouraged in, but not limited to, the following topics:
 
