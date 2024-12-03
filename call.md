@@ -3,6 +3,8 @@ layout: page
 title: Call for Contributions
 description: The call for paper, music, and workshop contributions for NIME2025.
 permalink: /call/
+template_link: https://github.com/NIME-conference/nime-template/releases/tag/v2024.12.02
+cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
 {: .warning-box }
@@ -16,7 +18,7 @@ We invite submissions of new scholarly and creative works in the following categ
 - Music (live performance, installation, remote)
 - Workshop
 
-All NIME submissions are made through [CMT](https://cmt3.research.microsoft.com/NIME2025) and use the NIME Template: <https://github.com/NIME-conference/nime-template>. 
+All NIME submissions are made through [CMT](https://cmt3.research.microsoft.com/NIME2025) and use the [NIME Template]({{ template_link }}). 
 We encourage submitters to use the LaTeX templates and tools such as Overleaf where possible.
 
 Submission deadlines and specific information for each category of submission can be found below.
@@ -119,7 +121,7 @@ Submission information is available here: [https://nime2025.org/submissions/](ht
 
 #### Important Notes for Music Submissions:
 
-- All music submissions must include a PDF submission document using the NIME music template: [https://nime2025.org/submissions/](https://nime2025.org/submissions/) 
+- All music submissions must include a PDF submission document using the [NIME music template]({{ template_link }}). 
 - Music submissions should have the following sections: **Project Description, Technical Notes, Program Notes, Media Links, Acknowledgements (optional), Ethical Standards, References**. Submissions should include images and diagrams as necessary to help reviewers understand the work and how it might be staged. 
 - Submissions without an appropriate PDF document including the above sections may not be reviewed.
 - Music submissions must include a link to **video documentation** of the proposed work.
@@ -142,9 +144,9 @@ All music submissions will be subject to rigorous double-blind peer review by an
 
 We welcome proposals for workshops related to NIME research, topics relevant for the NIME community, NIME performance and this year’s theme. NIME workshops can take the form of community development or co-design events, focussed tutorials on specific NIME topics, sub-conferences on specific topics including presentations by NIME attendees, or other types of events that you propose. Workshops can be proposed to be short (up to three hours) or long (up to six hours).
 
-Workshop proposals should use the music submission template, should not be anonymised,  and should have the following sections:
+Workshop proposals should use the [music submission template]({{ template_link }}), should not be anonymised,  and should have the following sections:
 
-1. Motivation:  Describe the rationale for the workshop, issues that will be addressed, and clear objectives with reference to NIME topics, themes, and previous publications.
+1. Motivation: Describe the rationale for the workshop, issues that will be addressed, and clear objectives with reference to NIME topics, themes, and previous publications.
 2. Workshop Structure: Describe the planned activities or events taking place in the workshop.
 3. Organisers: Include Workshop organiser(s) with short bio(s) up to 200 words including background relating to proposed topic, and affiliation and contact information. Include additional speakers name(s), affiliation(s), and contact information.
 4. Description of technical and space requirements: Including equipment required or brought by organisers; information on whether in-person or hybrid attendance is supported; expected size of event; and specific venue features.
