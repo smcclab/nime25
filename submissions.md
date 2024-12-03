@@ -5,10 +5,11 @@ description: Information on how to prepare and submit paper, music, or workshop 
 permalink: /submissions/
 template_link: https://github.com/NIME-conference/nime-template/releases/tag/v2024.12.02
 cmt_link: https://cmt3.research.microsoft.com/NIME2025
+reviewer_form: https://forms.office.com/r/eZ2qVU8MbE
 ---
 
 {: .warning-box }
-NIME submission information is available below and submissions will open 4 December, 2024. In the meantime, please volunteer to be a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
+NIME submission information is available below and submissions will open 4 December, 2024. In the meantime, please volunteer to be a reviewer using [this form]({{ page.reviewer_form }}).
 
 This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
 
@@ -69,3 +70,9 @@ NIME does not extend deadlines for paper or music submissions. We have two stage
 ## Support during the submission process
 
 The best way to contact the organising committee during the submission period is through the [NIME Forum](https://forum.nime.org) where committee members and the community can help solve problems with templates, CMT, and other issues.
+
+## Become a reviewer!
+
+In general we ask that at least one of the co-authors of every NIME submission joins the review committee to assist with NIME review in at least one track (papers, music, workshops). Reviewing for NIME is a big collaborative task with around 200 people involved, most of these people are the current or recent past authors of NIME submissions.
+
+Please fill in the [reviewer form]({{ page.reviewer_form }}) to let us know you want to join in.
