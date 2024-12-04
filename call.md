@@ -52,7 +52,7 @@ We welcome submissions of original research on scientific and artistic use of ne
 - 4000 words (now "medium", formerly “short”)
 - 2000 words (now "short", formerly “demo”)
 
-Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will undergo the same review process. with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for _oral_ or _poster_ presentation if accepted. Papers are expected to have a contribution commensurate with their length. For the short paper category, we welcome submission that proposes an original and innovation technology, technical approaches, or prototype (with or without an accompanying evaluation) that provokes novel conversations and contribute meaningfully to the NIME field.
+Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will undergo the same review process, with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for _oral_ or _poster_ presentation if accepted. Papers are expected to have a contribution commensurate with their length. For the short paper category, we welcome submission that proposes an original and innovation technology, technical approaches, or prototype (with or without an accompanying evaluation) that provokes novel conversations and contribute meaningfully to the NIME field.
 
 
 
