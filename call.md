@@ -8,7 +8,7 @@ cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
 {: .warning-box }
-The NIME call is available now below. [Submission]({% link submissions.md %}) information is available and submissions will open 4 December, 2024. In the meantime, please volunteer to be a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
+The NIME call is available now below. [Submission]({% link submissions.md %}) information is available and [CMT site](https://cmt3.research.microsoft.com/NIME2025) has opened. Please consider volunteering to be a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
 
 We invite you to be a part of NIME2025, _entangled NIME_, the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia with support for in-person and remote presentation.
 
