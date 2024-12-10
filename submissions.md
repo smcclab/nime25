@@ -8,9 +8,6 @@ cmt_link: https://cmt3.research.microsoft.com/NIME2025
 reviewer_form: https://forms.office.com/r/eZ2qVU8MbE
 ---
 
-<!-- {: .warning-box }
-NIME submission information is available below and submissions will open 4 December, 2024. In the meantime, please volunteer to be a reviewer using [this form]({{ page.reviewer_form }}). -->
-
 This page contains information on how to prepare your submission for NIME2025. You should read this together with the [call for submissions]({% link call.md %})
 
 ## Format and Templates
@@ -41,9 +38,6 @@ The obvious presence of author names in paper or music submissions is grounds fo
 Workshop submissions do not need to be anonymised.
 
 ## Submission Website
-
-{: .info-box }
-The NIME CMT submission website will open by **4 December, 2024**
 
 All NIME submissions need to be uploaded to our submission website on CMT: <https://cmt3.research.microsoft.com/NIME2025>
 

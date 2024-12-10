@@ -7,9 +7,6 @@ template_link: https://github.com/NIME-conference/nime-template/releases/tag/v20
 cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
-{: .warning-box }
-The NIME call is available now below. [Submission]({% link submissions.md %}) information is available and [CMT site](https://cmt3.research.microsoft.com/NIME2025) has opened. Please consider volunteering to be a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
-
 We invite you to be a part of NIME2025, _entangled NIME_, the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia with support for in-person and remote presentation.
 
 We invite submissions of new scholarly and creative works in the following categories:
@@ -42,6 +39,7 @@ All dates are 23:59 AoE [(Anywhere on Earth)](https://www.timeanddate.com/time/z
 
 Submission information for all tracks is available here:[https://nime2025.org/submissions/](https://nime2025.org/submissions/). 
 
+{: .info-box }
 If you’d like to register as a NIME reviewer (or are unsure if you’re already a reviewer), please register as a reviewer using [this form](https://forms.office.com/r/eZ2qVU8MbE).
 
 ### Call for Papers
@@ -53,8 +51,6 @@ We welcome submissions of original research on scientific and artistic use of ne
 - 2000 words (now "short", formerly “demo”)
 
 Authors are encouraged to submit a paper with an appropriate length for the intended contribution. All length classes will undergo the same review process, with guidelines for reviewers expectations. We encourage authors to make use of the shorter classes. All length classes are eligible for _oral_ or _poster_ presentation if accepted. Papers are expected to have a contribution commensurate with their length. For the short paper category, we welcome submission that proposes an original and innovation technology, technical approaches, or prototype (with or without an accompanying evaluation) that provokes novel conversations and contribute meaningfully to the NIME field.
-
-
 
 Original contributions are encouraged in, but not limited to, the following topics:
 
