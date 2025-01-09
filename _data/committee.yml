@@ -60,10 +60,11 @@
   url: "https://www.idmil.org/people/albert-ngabo-niyonsenga/"
 - name: Patrick Hartono
   aff:  Goldsmiths, University of London
-  im: "https://liquidarchitecture.org.au/thumbs/artists/patrick-gunawan-hartono/patrick-hartono-1200x800.jpg"
+  im: "assets/committee/patrick-hartono.jpg"
   role: Social Chair
   url: "https://patrickhartono.com"  
 - name: Sam Trolland
   aff: SensiLab, Monash University
   role: Proceedings Chair
+  im: "assets/committee/sam-trolland.jpg"
   url: "https://sensilab.monash.edu/people/sam-trolland/"
