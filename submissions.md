@@ -43,11 +43,22 @@ All NIME submissions need to be uploaded to our submission website on CMT: <http
 
 Please note that author names must be entered accurately in CMT by the submission deadline. Authors cannot be added or removed to papers after they have been submitted.
 
-## Media and supplementary material
+## Media and supplementary material {#media}
 
-Music submissions must include a link to video documentation of the proposed work. Many papers will also include a link to video documentation of aspects to the work.
+Music submissions must include video documentation of the proposed work as a link or upload as Supplementary Material in CMT. Many papers will also include a link to video documentation of aspects to the work, similarly this can be a link or Supplementary Material.
 
 Linked media is encouraged as part of NIME submissions to gain a full understanding of the work. One media file upload is available in CMT as part of your submission. For external media, please use a link to a streaming site (YouTube, Vimeo, Bilibili) with an account that does not obviously give away author names or contain other videos giving away author names.
+
+Here are instructions for uploading media material, particularly for music track submissions:
+
+1. Prepare **one documentation video** for your submission, please make sure that the video does not contain author names or affiliations. We recommend you use a video compression application such as [Handbrake](https://handbrake.fr) to ensure that your files are a reasonable size. For example, 4mbps 1080p video and 256kbps stereo audio encoding will produce a high quality 15-minute video file under 500MB.
+2. **Option 1 (easiest)**: upload as _Supplementary Material_ in CMT. You need to create a submission first, then the "Upload Supplementary Material" link will appear in CMT's Author Console ([link to help documentation](https://cmt3.research.microsoft.com/docs/help/author/submit-supplementary-material.html)). For music submissions, you can upload a video of up to 700MB in `.mp4`, `.mov`, `.mkv` formats. This is sufficient for a NIME-length videos (e.g., a 15-minute video with 4mbps video encoding and a 256kbps audio track will be ~485MB). You may wish to note in your PDF submission that your video is uploaded as Supplementary Material.
+3. **Option 2 (a bit harder)**: upload to a _streaming site_. You need to create an reasonably anonymous account at a streaming site ([Vimeo](https://vimeo.com) is known to work, see [this example of an anonymised video](https://vimeo.com/911078203)), upload your file, provide the video link in your submission PDF so that reviewers can find it.
+
+Please note:
+
+- Do not submit a video link from an account with obvious author names (e.g., your portfolio YouTube account) or with other videos that contain author names and affiliations.
+- Media submissions for review do not have to include multi-channel uncompressed audio or high-bitrate video. Reasonable quality 1080p files are acceptable (e.g., 4mbps video + 256kbps stereo audio). Keep in mind that reviewers will look at your work on a regular computer, likely with stereo speakers or headphones.
 
 For publication-ready submissions, you may upload one media file in CMT which will be archived on <https://nime.org> with your PDF submission. We prefer that any linked media in submissions are stored on [Zenodo](https://zenodo.org) and linked in your paper as a DOI to help ensure indefinite persistent storage.
 
