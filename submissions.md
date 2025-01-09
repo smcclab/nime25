@@ -59,6 +59,7 @@ Please note:
 
 - Do not submit a video link from an account with obvious author names (e.g., your portfolio YouTube account) or with other videos that contain author names and affiliations.
 - Media submissions for review do not have to include multi-channel uncompressed audio or high-bitrate video. Reasonable quality 1080p files are acceptable (e.g., 4mbps video + 256kbps stereo audio). Keep in mind that reviewers will look at your work on a regular computer, likely with stereo speakers or headphones.
+- We do not suggest using file sharing links (e.g., Dropbox, Google Drive, etc) as they often expire which complicates the review process.
 
 For publication-ready submissions, you may upload one media file in CMT which will be archived on <https://nime.org> with your PDF submission. We prefer that any linked media in submissions are stored on [Zenodo](https://zenodo.org) and linked in your paper as a DOI to help ensure indefinite persistent storage.
 
