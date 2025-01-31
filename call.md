@@ -44,7 +44,7 @@ If you’d like to register as a NIME reviewer (or are unsure if you’re alread
 
 ### Call for Papers
 
-We welcome submissions of original research on scientific and artistic use of new interfaces for musical expression. A non-exhaustive list of NIME-related topics is found below. There are three different paper submission classes by word lengths:
+We welcome submissions of original research on scientific and artistic use of new interfaces for musical expression. A non-exhaustive list of NIME-related topics is found below. There are three different paper submission classes by word lengths (exclusive of references):
 
 - 6000 words (now "long", formerly “long”)
 - 4000 words (now "medium", formerly “short”)
