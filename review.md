@@ -11,6 +11,15 @@ This page includes information about the review process for NIME2025 and informa
 
 # General Information
 
+## NIME reviews build our community
+
+NIME is a genuinely interdisciplinary community studying how, why and what it means to make music with computers. 
+The NIME community includes technologists, academics, artists, musicians, experimental practitioners, theorists, students, teachers and others.
+For this reason, it’s important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
+We ask reviewers to approach every submission with an open mind and intellectual generosity, and decide **whether the submission presents a unique, important, and useful enhancement to NIME community knowledge.**
+
+We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
+
 ## Review Timeline
 
 The review timeline for NIME is tight and we are working hard to keep to the following schedule.
@@ -33,22 +42,7 @@ There are two types of reviewers at NIME: Reviewers, and meta-reviewers, both of
 
 **Meta-reviewers** are experienced NIME scholars and artists with considerable domain knowledge and reviewing experience. Meta-reviewers consider the reviewers' perspectives and their own assessment of a submission to _make an acceptance recommendation to the track chairs_. Meta-reviewers do not simply _average_ reviewers' scores but can engage the reviewers in discussion as well as contribute their own perspective to reach a consensus and ensure that feedback to authors is appropriate.
 
-## A community perspective for NIME reviews
-
-NIME is a genuinely interdisciplinary community studying how, why and what it means to make music with computers. 
-The NIME community includes technologists, academics, artists, musicians, experimental practitioners, theorists, students, teachers and others.
-For this reason, it’s important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
-We ask reviewers to approach every submission with an open mind and intellectual generosity, and decide **whether the submission presents a unique, important, and useful enhancement to NIME community knowledge.**
-
-We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
-
-## Bias and interdisciplinarity
-
-NIME not immune to the effects of conscious and unconscious bias. While we can't guarantee to avoid bias, please keep in mind that we all have our own expectations what makes a submission “good”, “useful”, and “relevant”. NIME is a diverse community that lies across disciplines, and you may encounter submissions that you don’t personally find useful or relevant. In this case, we encourage all reviewers to keep in mind that our judgement should be based on **enhancing community knowledge**.
-
-Contributions come from different research traditions (qualitative, quantitative, design-based and artistic research, etc). It is not usually possible to have 100% matches between reviewers and submissions. While we hope that many in our community have a broad perspective on NIME works, please keep an eye open for critical mismatches. If you feel you cannot review an allocated submission, let your track chair know.
-
-## The review timeline
+## Review Phases
 
 The review time deadlines are above but here is an explanation about each phase:
 
@@ -60,6 +54,13 @@ The review time deadlines are above but here is an explanation about each phase:
 - **Meta-review Phase**: The meta-reviewer submits their meta-review and an Accept/Reject recommendation to the track chairs.
 - **Decision Phase**: Track chairs make final Accept/Reject decisions based on meta-reviews and available space in the conference program.
 - **Decisions and Reviews Released**: Final decisions from track chairs, reviews and meta-reviews are released to authors.
+
+## Bias and interdisciplinarity
+
+NIME not immune to the effects of conscious and unconscious bias. While we can't guarantee to avoid bias, please keep in mind that we all have our own expectations what makes a submission “good”, “useful”, and “relevant”. NIME is a diverse community that lies across disciplines, and you may encounter submissions that you don’t personally find useful or relevant. In this case, we encourage all reviewers to keep in mind that our judgement should be based on **enhancing community knowledge**.
+
+Contributions come from different research traditions (qualitative, quantitative, design-based and artistic research, etc). It is not usually possible to have 100% matches between reviewers and submissions. While we hope that many in our community have a broad perspective on NIME works, please keep an eye open for critical mismatches. If you feel you cannot review an allocated submission, let your track chair know.
+
 
 # What to do as a NIME reviewer
 
@@ -118,7 +119,7 @@ It's very important that your review and rating are well aligned. That is, if yo
 As a meta-reviewers you won’t have to find a group of reviewers; these will be assigned for you after the submission deadline.
 During the review phase you are expected to read/watch the submissions assigned to you so that you are aware of the work you are evaluating.
 
-As a meta-reviewer, it’s your responsibility to contact reviewers and remind them of the review deadline if their reviews are not submitted. Track chairs will also send email reminders but it's a good idea to have many reminders as the deadline approaches. By the review deadline reviews should be complete (score, as well as written review). Meeting this deadline is very important.
+Meta-reviews must contact reviewers and remind them of the review deadline if their reviews are not submitted. Track chairs will also send email reminders but it's a good idea to have many reminders as the deadline approaches. By the review deadline reviews should be complete (score, as well as written review). Meeting this deadline is very important.
 
 After the reviews are in, the meta-reviewers have about a week to read the submitted reviews, lead discussions with reviewers to resolve disagreements, and write the meta-review.
 
@@ -127,8 +128,6 @@ After the reviews are in, the meta-reviewers have about a week to read the submi
 Meta-reviews give track chairs a summary of the reviewer perspectives (including the meta-reviewers' own) and a recommendation for or against acceptance at NIME.
 
 The central, guiding question for all reviews---meta or otherwise---is this: **Does this submission present a unique, important, and useful enhancement to NIME community knowledge?** 
-
-With this question in mind, here’s a guide to writing a NIME meta-review. 
 
 ### Read the submission
 
@@ -194,9 +193,9 @@ There are other fields in the meta-review form that are optional:
 
 **Are any changes required to the submission format? (e.g. length, formatting, ethics statement)** This field is to list minor formatting and content suggestions for authors. Information here should not be serious enough to merit a conditional acceptance but is just to help authors meet formatting and presentation quality standards at NIME or, if rejected, at another publication venue.
 
-## Review Frequently Asked Questions
+# Review Frequently Asked Questions
 
-### Is review anonymous?
+### Is review anonymous? {#anonymous}
 
 The NIME review process for music and paper tracks is double-blind. This means that the authors don’t know who the reviewers are.
 
@@ -225,10 +224,7 @@ Very short reviews (less than 100 words) are generally not acceptable. Very long
 ### If the paper is great, do I need to submit a detailed review?
 
 Yes! Authors depend on feedback, and explaining why you thought something was great is as important as a less positive critique.
-
 It's vitally important to justify **what** is great about a submission and **why** so that a meta-reviewer can use this information to justify acceptance.
-
-Unfortunately, very short positive reviews can harm authors where they are outweighed in the process by exhaustive critiques. If you like a paper, please articulate exactly why it should be accepted. 
 
 ### What happens if the paper content is valuable, but the writing isn’t good?
 
@@ -254,13 +250,12 @@ On the positive side, early feedback can give authors a chance to solve critical
 Since NIME is dependent on reviews to select the proceedings, we ask you to please, please submit your reviews if you have committed to reviewing for this year’s NIME.
 
 If for some reason reviewing is impossible, please tell your meta-reviewer as soon as possible so another reviewer can  be found.
-
 If you fail to submit reviews without explanation, you may not be invited to review in future.
 
 ### Can the results of the reviewing process be contested? 
 
 Since NIME is a small conference with limited resources, we don’t offer a rebuttal phase for reviews. Once the reviews are released, the decisions are final.
 
-## Acknowledgements
+# Acknowledgements
 
 This document was adapted by Charles Martin and the NIME2025 committee from information authored by Astrid Bin and Courtney Reed for NIME 2024.
