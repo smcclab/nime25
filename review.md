@@ -117,7 +117,7 @@ It seems self-explanatory, but it’s important to read the submission, in its e
 
 *   What’s the central idea in this paper? Is it clear?
 *   What’s the contribution that this paper makes?
-*   Is the contribution unique? (This doesn’t mean it’s never been written about before, but rather that there’s something here that is singular - that could be an implementation, a technical aspect, an evaluation technique, a theoretical perspective, an artistic take, etc)
+*   Is the contribution unique? (This doesn’t mean it’s never been written about before, but rather that there’s something here that is singular---that could be an implementation, a technical aspect, an evaluation technique, a theoretical perspective, an artistic take, etc)
 *   Does the contribution add value to the NIME body of knowledge?
 
 ### Read the reviews
