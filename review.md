@@ -91,13 +91,11 @@ We ask reviewers to approach every submission with an open mind and intellectual
 
 We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
 
-
 ## Bias and interdisciplinarity
 
 NIME not immune to the effects of conscious and unconscious bias. While we can't guarantee to avoid bias, please keep in mind that we all have our own expectations what makes a submission “good”, “useful”, and “relevant”. NIME is a diverse community that lies across disciplines, and you may encounter submissions that you don’t personally find useful or relevant. In this case, we encourage all reviewers to keep in mind that our judgement should be based on **enhancing community knowledge**.
 
 Contributions come from different research traditions (qualitative, quantitative, design-based and artistic research, etc). It is not usually possible to have 100% matches between reviewers and submissions. While we hope that many in our community have a broad perspective on NIME works, please keep an eye open for critical mismatches. If you feel you cannot review an allocated submission, let your track chair know.
-
 
 # What to do as a NIME reviewer
 
@@ -149,7 +147,6 @@ It's very important that your review and rating are well aligned. That is, if yo
 ### Tips for Workshop Reviewers
 
 - **Anonymity**: Workshop submissions are not anonymous as it is not practical to include anonymised information related to the presenters.
-
 
 ## What to do as a NIME meta-reviewer
 
