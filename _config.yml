@@ -26,6 +26,8 @@ navigation_header:
   url: /call/
 - title: Submissions
   url: /submissions/
+- title: Reviewing
+  url: /review/
 - title: Committee
   url: /committee/
 - title: Program
