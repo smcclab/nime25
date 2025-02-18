@@ -15,7 +15,7 @@ This page includes information about the review process for NIME2025 and informa
 
 NIME is a genuinely interdisciplinary community studying how, why and what it means to make music with computers. 
 The NIME community includes technologists, academics, artists, musicians, experimental practitioners, theorists, students, teachers and others.
-For this reason, it’s important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
+For this reason, it's important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
 We ask reviewers to approach every submission with an open mind and intellectual generosity, and decide **whether the submission presents a unique, important, and useful enhancement to NIME community knowledge.**
 
 We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
@@ -54,6 +54,43 @@ The review time deadlines are above but here is an explanation about each phase:
 - **Meta-review Phase**: The meta-reviewer submits their meta-review and an Accept/Reject recommendation to the track chairs.
 - **Decision Phase**: Track chairs make final Accept/Reject decisions based on meta-reviews and available space in the conference program.
 - **Decisions and Reviews Released**: Final decisions from track chairs, reviews and meta-reviews are released to authors.
+
+## Expectations for Paper Track Submission Types
+
+Papers are expected to have a contribution commensurate with their length. Here are some guidelines for assessing contributions:
+
+- **6000 words (long)**: Submissions that are comparable in contribution to previous long or 6-page papers at NIME. These would feature original and innovative technologies or ideas and robust scholarly support that may be a form of evaluation or supporting argument. 
+
+- **4000 words (medium)**: Submissions that are comparable in contribution to previous short or 4-page papers at NIME. These would feature original and innovative technologies or ideas and robust scholarly support but would typically have a smaller scope or depth than _long_ papers.
+
+- **2000 words (short)**: Submissions that could propose an original or innovative technology, technical approach, prototype, idea or other novel contribution. They may not have an accompanying evaluation or have one of limited scope. The submission should nevertheless suggest a meaningful contribution to NIME. 
+
+All submissions are expected to be completed to a high scholarly standard including references, clearly articulated text, and excellent formatting.
+
+All submissions are eligible for oral or poster presentation if accepted.
+
+## Expectations for Music Track Submission Types
+
+Music submissions are expected to expand and reshape our understanding of NIME in the performance, conceptualisation, and reception of music. This year, the music track includes live and remote performances as well as installations. Reviewers should be aware of the submitters’ chosen performance type.
+
+- **Live Performance**: Live performances should involve the author and/or collaborators performing in-person at NIME comparable to traditional NIME performances. Feasibility could relate to how the performance and its technical requirements might fit within a busy conference concert program. 
+
+- **Remote Performance**: Remote performances may involve an online connection to an artist not present at NIME, or some other method of performing remotely. Remote performance submissions need to clearly document the technical requirements to produce the work at NIME. Feasibility could include consideration of technical requirements at the NIME end given that the author would not be present to set up equipment.
+
+- **Installation**: Installations could include physical works to be exhibited in foyer, room, or gallery spaces as well as virtual works that exist online. The technical requirements and setup for the installation should be clear from the submission. Feasibility should include consideration of technical scope and space requirements with equipment that the author would contribute. The chairs will consider all submissions on their merits but, as an example, an installation involving a single screen and stereo pair of monitor speakers would be more feasible than one involving 8 screens and 32 speakers.
+
+## Further instructions for reviewers:
+
+Further instructions can be found in the [reviewer guide repository](https://github.com/NIME-conference/reviewing-guide).
+
+- [Paper Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-reviewer.md)
+- [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md)
+- [Music Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/music-reviewer.md)
+- Music Track Meta-Reviewer (see [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md))
+
+
+
+{% comment %}
 
 ## Bias and interdisciplinarity
 
@@ -259,3 +296,5 @@ Since NIME is a small conference with limited resources, we don’t offer a rebu
 # Acknowledgements
 
 This document was adapted by Charles Martin and the NIME2025 committee from information authored by Astrid Bin and Courtney Reed for NIME 2024.
+
+{% endcomment %}
