@@ -2,7 +2,7 @@
 layout: page  
 title: Review Process and Instructions
 description: Information on the review process and instructions for reviewing for NIME2025.
-permalink: /review/
+permalink: /reviewing/
 cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
