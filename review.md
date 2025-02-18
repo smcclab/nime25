@@ -1,28 +1,26 @@
 ---
 layout: page  
 title: Review Process and Instructions
-description: Information on the review process and instructions NIME2025.
+description: Information on the review process and instructions for reviewing for NIME2025.
 permalink: /review/
 cmt_link: https://cmt3.research.microsoft.com/NIME2025
-reviewer_form: https://forms.office.com/r/eZ2qVU8MbE
 ---
 
-This page includes information about the review process for NIME2025 and information for reviewers and meta-reviewers for all tracks.
+This page includes information about the review process for NIME2025 and information for reviewers and meta-reviewers for all tracks. If you are a reviewer please log in to [CMT]({{ cmt_link }}) to see your review assignments.
 
-# General Information
+## Guides for reviewers:
 
-## NIME reviews build our community
+General instructions for NIME reviewers and meta-reviewers can be found in the [reviewer guide repository](https://github.com/NIME-conference/reviewing-guide).
 
-NIME is a genuinely interdisciplinary community studying how, why and what it means to make music with computers. 
-The NIME community includes technologists, academics, artists, musicians, experimental practitioners, theorists, students, teachers and others.
-For this reason, it's important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
-We ask reviewers to approach every submission with an open mind and intellectual generosity, and decide **whether the submission presents a unique, important, and useful enhancement to NIME community knowledge.**
-
-We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
+- [Values and Roles in NIME reviews](https://github.com/NIME-conference/reviewing-guide/blob/main/README.md)
+- [Paper Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-reviewer.md)
+- [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md)
+- [Music Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/music-reviewer.md)
+- Music Track Meta-Reviewer (see [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md))
 
 ## Review Timeline
 
-The review timeline for NIME is tight and we are working hard to keep to the following schedule.
+The review timeline for NIME2025 is:
 
 - 12 February, 2025: Paper and Music - Reviewer Assignments Complete
 - **5 March, 2025: Paper and Music - Reviews Due, discussion phase opens**
@@ -34,21 +32,13 @@ The review timeline for NIME is tight and we are working hard to keep to the fol
 - 24 June, 2025: NIME Workshops
 - 25 - 27 June, 2025: NIME Conference
 
-## Reviewers and Meta-Reviewers
-
-There are two types of reviewers at NIME: Reviewers, and meta-reviewers, both of which are equally vital to the quality of the NIME proceedings. 
-
-**Reviewers** are peers within the NIME community who assess submissions on the basis of quality. In general, all NIME submissions are assigned three reviewers to gather a range of perspectives. Reviewers generally have experience presenting or publishing in the NIME conference or related scholarly venues or events and have experience (e.g., completing graduate studies) that objectively qualify them in peer evaluation.
-
-**Meta-reviewers** are experienced NIME scholars and artists with considerable domain knowledge and reviewing experience. Meta-reviewers consider the reviewers' perspectives and their own assessment of a submission to _make an acceptance recommendation to the track chairs_. Meta-reviewers do not simply _average_ reviewers' scores but can engage the reviewers in discussion as well as contribute their own perspective to reach a consensus and ensure that feedback to authors is appropriate.
-
 ## Review Phases
 
 The review time deadlines are above but here is an explanation about each phase:
 
 - **Reviewer Invitations**: Before the submission deadline and directly after, track chairs invite reviewers and meta-reviewers via the submission system (CMT). Invitations are normally sent to previous NIME reviewers and volunteers from the community, particularly authors of submissions.
 - **Reviewer Allocation**: Directly after the submission deadline, track chairs organise reviewer allocations with a goal of organising allocations in one week. In general, reviewers are allocated 2-4 submissions per track that they are involved with. Meta-reviewers are often responsible for 5-10 submissions.
-- **Identify Un-reviewable submissions**: Track chairs will do an initial pass through submissions to identify those that are not reviewable (see details below). The submissions are removed from the system (desk rejected) so as to not waste reviewer time and provide early feedback to authors.
+- **Identify Un-reviewable submissions**: Track chairs will do an initial pass through submissions to identify those that are not reviewable (see reviewer guides). The submissions are removed from the system (desk rejected) so as to not waste reviewer time and provide early feedback to authors.
 - **Review Phase**: Reviewers consider their assigned submissions, write reviews and answer questions in the review form. Meta-reviewers read and consider the submissions.
 - **Discussion Phase**: Reviewers and Meta-reviewer are now able to see completed reviews. The meta-reviewer leads a discussion in CMT between the reviewers to see if a consensus can be found. If there is no consensus or the meta-reviewer disagrees with the reviewers, a second meta reviewer may also consider the submission.
 - **Meta-review Phase**: The meta-reviewer submits their meta-review and an Accept/Reject recommendation to the track chairs.
@@ -79,18 +69,28 @@ Music submissions are expected to expand and reshape our understanding of NIME i
 
 - **Installation**: Installations could include physical works to be exhibited in foyer, room, or gallery spaces as well as virtual works that exist online. The technical requirements and setup for the installation should be clear from the submission. Feasibility should include consideration of technical scope and space requirements with equipment that the author would contribute. The chairs will consider all submissions on their merits but, as an example, an installation involving a single screen and stereo pair of monitor speakers would be more feasible than one involving 8 screens and 32 speakers.
 
-## Further instructions for reviewers:
+## Contacting Track Chairs
 
-Further instructions can be found in the [reviewer guide repository](https://github.com/NIME-conference/reviewing-guide).
+If you have a problem with a particular submission, for example you can't access some aspect of it or find that you have a conflict of interest, please contact the track chairs for that submission. 
 
-- [Paper Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-reviewer.md)
-- [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md)
-- [Music Track Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/music-reviewer.md)
-- Music Track Meta-Reviewer (see [Paper Track Meta-Reviewer](https://github.com/NIME-conference/reviewing-guide/blob/main/paper-meta-reviewer.md))
+You can do this very easily within the CMT reviewer console by clicking the envelope icon which appears to the right of each submission, for example as in this image:
 
+![Screenshot of CMT showing the link to email track chairs, in this case the "Music" track.]({% link assets/cmt-email-track-chairs.jpg %})
+
+Clicking this link will allow you to email the chairs for that track, including information about teh submission, who can take action to resolve the problem.
 
 
 {% comment %}
+
+## NIME reviews build our community
+
+NIME is a genuinely interdisciplinary community studying how, why and what it means to make music with computers. 
+The NIME community includes technologists, academics, artists, musicians, experimental practitioners, theorists, students, teachers and others.
+For this reason, it's important to approach NIME reviews with a community perspective; for example, a paper may not be the kind of work you like, or what you’re used to seeing but may still be valuable to the community. 
+We ask reviewers to approach every submission with an open mind and intellectual generosity, and decide **whether the submission presents a unique, important, and useful enhancement to NIME community knowledge.**
+
+We want NIME to be the place where we can send our work trusting that it will be given a fair and open-minded evaluation. Ideally, NIME authors should never feel that "the reviewers just didn't get it".
+
 
 ## Bias and interdisciplinarity
 
@@ -101,7 +101,7 @@ Contributions come from different research traditions (qualitative, quantitative
 
 # What to do as a NIME reviewer
 
-You’ll get an email when the reviews have been assigned, and you can submit your reviews any time between then and the review deadline. Note that you will start to receive reminders of increasing urgency and frequency in the week before the review deadline. To avoid email reminders, submit your reviews early!
+You'll get an email when the reviews have been assigned, and you can submit your reviews any time between then and the review deadline. Note that you will start to receive reminders of increasing urgency and frequency in the week before the review deadline. To avoid email reminders, submit your reviews early!
 
 ### Accessing and viewing submissions
 
