@@ -3,10 +3,13 @@ layout: page
 title: Review Process and Instructions
 description: Information on the review process and instructions for reviewing for NIME2025.
 permalink: /reviewing/
-cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
-This page includes information about the review process for NIME2025 and information for reviewers and meta-reviewers for all tracks. If you are a reviewer please log in to [CMT]({{ cmt_link }}) to see your review assignments.
+This page includes information about the review process for NIME2025 and information for reviewers and meta-reviewers for all tracks. 
+
+{: .info-box }
+
+If you are a reviewer please log in to [CMT](https://cmt3.research.microsoft.com/NIME2025) to see your review assignments.
 
 ## Guides for reviewers:
 
