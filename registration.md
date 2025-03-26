@@ -5,7 +5,7 @@ description: Information on attendance and registration for NIME2025
 permalink: /registration/
 ---
 
-Registration costs for NIME2025 are as follows:
+Registration prices for NIME2025 are as follows:
 
 | **Type**                        | **Amount** |
 |---------------------------------|------------|
