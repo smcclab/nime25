@@ -13,6 +13,9 @@ Registration prices for NIME2025 are as follows:
 | Non-student (after 2 June 2025) | 770AUD     |
 | Student (up to 2 June 2025)     | 370AUD     |
 | Student (after 2 June 2025)     | 462AUD     |
+{: .table }
+
+(Total prices include 10% GST)
 
 The student registration tier can be used by those enrolled in full-time study or independent artists on low-/no-income. In both cases, verification of enrolment or career situation may be requested.
 
