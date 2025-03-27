@@ -7,8 +7,12 @@ feature_image_light: /assets/NIME2025_background_light.png
 feature_image_dark: /assets/NIME2025_background_dark.png
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 80%; margin: 0 auto;">
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 80%; margin: 0 auto;">
   <iframe src="https://www.youtube.com/embed/O9L2ZYHiMjY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding-bottom:2em; " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> -->
+
+<div style="position: relative; padding-bottom: 2em; width: 80%; margin: 0 auto;">
+  <lite-youtube videoid="O9L2ZYHiMjY"></lite-youtube>
 </div>
 
 ## About NIME2025
