@@ -9,4 +9,4 @@ The best way to get your questions answered is to post on the [NIME forum](https
 
 - Accessibility concerns or questions should be directed to the [Accessibility Chair (Dr Alexander Hunter)](https://music.cass.anu.edu.au/people/dr-alexander-hunter)
 
-Further contacts will be available in the coming months.
+- We have information on [sponsorship (link)]({% link sponsorship.md %}) and enquiries should be directed to [Charles Martin](https://comp.anu.edu.au/people/charles-martin/)
