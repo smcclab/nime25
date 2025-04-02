@@ -36,3 +36,40 @@ We can provide letters of invitation for visa applications on ANU letterhead ind
 - your name and relevant details required for your application
 - title of your accepted NIME submission (if relevant)
 - receipt / payment confirmation of your NIME2025 registration
+
+## Remote Presentation and Attendance
+
+NIME2025 welcomes and supports remote presentation and attendance. Decoupling publication and travel supports inclusive participation in our field.
+
+Remote participation in NIME will include:
+
+- Access to streamed video of all paper sessions and concerts.
+- Access to live discussion of paper and concert sessions on the [NIME forum](https://forum.nime.org).
+- Access via workshop organisers to selected workshops with hybrid or remote support.
+
+Remote presentation at NIME includes:
+
+- Music track remote performance submissions: Technical support to produce and present accepted remote submissions in live concerts during the conference.
+- Paper track oral presentations: Synchronous live presentation via our live-streaming platform including live Q&A during paper sessions on site.
+- Paper track poster presentations: Asynchronous pre-recorded presentations played via our live-streaming platform and on-site during poster sessions, asynchronous Q&A via the [forum](https://forum.nime.org).
+- All accepted submissions with remote registration: full visibility in the NIME 2025 website and inclusion in the NIME 2025 proceedings. Eligibility for NIME awards. 
+
+We welcome conversations regarding accessibility and remote participation at NIME on the [forum](https://forum.nime.org).
+
+## In-Person Presentation and Attendance
+
+In-person participation in NIME will include:
+
+- Access to on-site venues for accepted workshop, paper, poster and music presentations.
+- Access to streamed video of all paper sessions and concerts.
+- Access to live discussion of paper and concert sessions on the [NIME forum](https://forum.nime.org).
+
+In-person presentation at NIME includes:
+
+- Music track: support to soundcheck and present accepted live performance and installation submissions.
+- Paper track oral presentations: Live presentation during a plenary paper session.
+- Paper track poster presentations: Live presentation during a poster session with space for poster, power point and small table for demonstrations as required.
+- All accepted submissions with in-person registration: full visibility in the NIME 2025 website and inclusion in the NIME 2025 proceedings. Eligibility for NIME awards.
+
+We welcome conversations regarding accessibility and in-person participation at NIME on the [forum](https://forum.nime.org).
+
