@@ -66,9 +66,9 @@ In-person participation in NIME will include:
 
 In-person presentation at NIME includes:
 
-- Music track: support to soundcheck and present accepted live performance and installation submissions.
+- Music track: support to soundcheck and present accepted live performances in a concert and installations in a physical space. Installations may have allocated display time to allow a varied program.
 - Paper track oral presentations: Live presentation during a plenary paper session.
-- Paper track poster presentations: Live presentation during a poster session with space for poster, power point and small table for demonstrations as required.
+- Paper track poster presentations: Live presentation during a poster session with space for poster, power outlet and small table for demonstrations as required.
 - All accepted submissions with in-person registration: full visibility in the NIME 2025 website and inclusion in the NIME 2025 proceedings. Eligibility for NIME awards.
 
 We welcome conversations regarding accessibility and in-person participation at NIME on the [forum](https://forum.nime.org).
