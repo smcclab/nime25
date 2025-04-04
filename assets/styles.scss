@@ -132,11 +132,12 @@ $ui-4: #4d4bcd;
 }
 
 .feature-image {
-    height: 25em;
-    // background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+    position: relative;          
+    width: 100%;                 
+    padding-top: 23.7%;          
+    background-size: cover;      
+    background-position: center; 
+  }
 
 // nice callout boxes from ANU jekyll themes...
 // swiped from ANU neotheme, but adjusted to use custom colours, not ANU colormap.
