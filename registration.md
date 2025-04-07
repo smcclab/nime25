@@ -19,7 +19,11 @@ Registration prices for NIME2025 are as follows:
 
 The student registration tier can be used by those enrolled in full-time study or independent artists on low-/no-income. In both cases, verification of enrolment or career situation may be requested.
 
-A link for our payment portal will be available soon.
+The payment portal for NIME2025 registration is at <https://payments.anu.edu.au/NIME2025>, or click this button:
+
+<div class="d-flex justify-content-center">
+  <a href="https://payments.anu.edu.au/NIME2025" class="btn btn-outline-primary" role="button">NIME2025 Payment Portal</a>
+</div>
 
 ## Registration Policies
 
