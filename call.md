@@ -85,7 +85,7 @@ Original contributions are encouraged in, but not limited to, the following topi
 - A manuscript submitted for review cannot be already under review for publication elsewhere or be submitted for a second review elsewhere while under review for NIME.
 - At least one author of accepted submissions must purchase conference registration by the publication-ready deadline to be included in the conference.
 - Accepted submissions presented remotely in oral paper sessions will preferably be a live synchronous presentation (we expect to use [this setup](https://charlesmartin.au/blog/2023/07/20/hybrid-conference) for streaming).
-- Accepted submissions presented remotely for poster/demo sessions will be by asynchronous pre-recorded video presentation.
+- Accepted submissions presented remotely for poster sessions will be by asynchronous pre-recorded video presentation.
 
 Submission information is available here: [https://nime2025.org/submissions/](https://nime2025.org/submissions/) 
 

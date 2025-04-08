@@ -63,11 +63,13 @@ Please note:
 
 For publication-ready submissions, you may upload one media file in CMT which will be archived on <https://nime.org> with your PDF submission. We prefer that any linked media in submissions are stored on [Zenodo](https://zenodo.org) and linked in your paper as a DOI to help ensure indefinite persistent storage.
 
-## Preparing publication-ready submissions
+## Preparing publication-ready (camera ready) submissions
 
 Accepted submissions will need to submit updated documents and media by the publication-ready (camera-ready) deadline. These documents should have author names in the same order as listed on CMT, should have all anonymous aspects re-identified and should have clearly engaged with requests for revisions by the reviewers and meta-reviewer. Please note that at least one author must register for NIME by the publication-ready deadline in order to confirm that works will be included in the program.
 
 After the publication-ready deadline the organising committee will double check your work for correct formatting and metadata. We may contact authors to make formatting adjustments prior to the conference and we ask that authors are timely in helping us to resolve such issues.
+
+There are checklists for each track's camera ready expectations on the [publication ready (camera ready) page]({% link camera-ready.md %}).
 
 ## No Deadline Extensions
 

@@ -26,6 +26,8 @@ navigation_header:
   url: /call/
 - title: Submissions
   url: /submissions/
+- title: Camera-Ready
+  url: /camera-ready/
 - title: Registration
   url: /registration/
 - title: Reviewing

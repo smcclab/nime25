@@ -7,7 +7,7 @@ cmt_link: https://cmt3.research.microsoft.com/NIME2025
 template_link: https://github.com/NIME-conference/nime-template/releases/tag/v2024.12.02
 ---
 
-This page (will) provide clear and consistent instructions for preparing your accepted or conditionally accepted work for the conference.
+This page (will) provide clear and consistent instructions for preparing your accepted or conditionally accepted work for the conference. You will need to upload your updated submission document and you may have to submit other materials that will enable your work to be presented (e.g., for some forms of remote presentation).
 
 The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your submission is the version that you will be presenting at the conference and will be archived in the [NIME Proceedings Archive](https://nime.org). Every accepted submission will be invited to submit a camera ready version of their accepted document [CMT]({{ cmt_link }}) by the camera ready deadline and **must do so** to be included in the conference (even if minimal or no changes are required).
 
