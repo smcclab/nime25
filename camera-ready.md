@@ -22,12 +22,15 @@ TBA
 
 ## Workshop Track
 
-Checklist:
+# Checklist :clipboard:
+
+{: .warning-box }
+DEADLINE: APRIL 30, 2025
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
 - Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
 - Your submission PDF has the appropriate sections as explained in the [call]({% link call.md %})
 - Your submission PDF includes an ethics statement.
 - If conditionally accepted, your submission PDF has been updated to address any specific requirements of reviewers or meta-reviewer.
-- You have an image of at least 1000px in width to upload in the camera-ready form
+- You have an image of at least 1000px in width to upload in the camera-ready form. This will be used for the paper gallery on the conference website. 
 - You are aware and accept that your submission PDF and image will be published on <https://nime2025.org> under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
