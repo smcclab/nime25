@@ -22,7 +22,7 @@ TBA
 
 ## Workshop Track
 
-# Checklist :clipboard:
+# Checklist 
 
 {: .warning-box }
 DEADLINE: APRIL 30, 2025
