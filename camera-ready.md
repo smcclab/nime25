@@ -22,10 +22,7 @@ TBA
 
 ## Workshop Track
 
-# Checklist 
-
-{: .warning-box }
-DEADLINE: APRIL 30, 2025
+Checklist 
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
 - Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
