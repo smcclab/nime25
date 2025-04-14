@@ -24,7 +24,7 @@ Your submission's presentation falls under of the following four categories, as 
 |---------------|-----------------------------------------------------------------------|-------------------------|
 | **Onsite**    | 5/8/12 minutes by paper category (Short/Medium/Long) + Q&A           | A0 Physical Poster      |
 | **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
-
+{: .table }
 
 ### Key Requirements for All:
 - A teaser image (e.g., 1000px wide, jpeg, jpg or png) to display on the conference website's paper gallery ([example](https://nime2025.org/proceedings/100.htm)).
