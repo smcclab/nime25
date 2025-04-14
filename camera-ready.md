@@ -28,7 +28,7 @@ The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your
 ### Presentation Format
 
 {: .info-box}
-This is only an except of the presentation format, since we received some enquires about it.
+This is the provided presentation format this year, since we received some enquires about it.
 <br>
 The Paper Chairs will communicate the specific format for each submission to the authors soon.
 
