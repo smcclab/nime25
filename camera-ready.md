@@ -20,38 +20,31 @@ All accepted paper submissions (short, medium or long category) receive a presen
 Your submission's presentation falls under of the following four categories, as notified by the Paper Chairs, which will be sent out soon.
 
 
-||Oral Presentation|Poster|
-|-|-|-|
-|Onsite|5/8/12 minutes by paper category (Short/Medium/Long) + Q&A |A0 Physical Poster|
-|Remote|Synchronous remote presentation (live during session) + Q&A |5 minutes recorded video|
+|               | Oral Presentation                                                    | Poster                  |
+|---------------|-----------------------------------------------------------------------|-------------------------|
+| **Onsite**    | 5/8/12 minutes by paper category (Short/Medium/Long) + Q&A           | A0 Physical Poster      |
+| **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
+
 
 ### Key Requirements for All:
 - A teaser image (e.g., 1000px wide, jpeg, jpg or png) to display on the conference website's paper gallery ([example](https://nime2025.org/proceedings/100.htm)).
 - The associated material (if any) as indicated in the table above.
 - This submission is through the **Camera Ready Submission Form** on CMT, the same field used to upload your paper submission file.
 
-### Physical Poster Requirements (Onsite):
+#### Physical Poster Requirements (Onsite):
 
 - Poster size: A0.
 - Orientation: Portrait.
 - Posters should include (1) the title, authors’ names, and affiliations, (2) a concise overview of the research, (3) clear illustrations of key aspects of your presenting work, and (4) a compelling visual design. 
 - **Please print the poster beforehand and bring with it to the conference venue.**
 
-### Remote Video Requirements (For Remote Poster Presentations):
+#### Remote Video Requirements (For Remote Poster Presentations):
 - Duration limit: 5 minutes.
 - All videos must be encoded in MP4 format using the H.264 codec.
 - Resolution must be precisely 1080p (1920 x 1080) or 4k (3840 x 2160), with a 16:9 aspect ratio. 
 - File size limit: 300 MB.
 
-
-
-
-
-
-
-
-
-### Checklist for Camera-Ready:
+#### Checklist for Camera-Ready:
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
 - Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
