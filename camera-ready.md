@@ -17,7 +17,6 @@ The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
 - Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
-- Your submission PDF has the appropriate sections as explained in the [call]({% link call.md %})
 - Your submission PDF includes an ethics statement.
 - Your submission PDF is within the word count of its correct paper category (6000 words for Long Papers, 4000 words for Medium Papers, 2000 words for Short Papers). The word count does not include Abstract, References, Acknowledgements, and References. 
 - If conditionally accepted, your submission PDF has been updated to address any specific requirements of reviewers or meta-reviewer.
