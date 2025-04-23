@@ -80,9 +80,9 @@ Here are the camera-ready and presentation requirements for the music track:
 
 | Type               | Draft scheduling details                                   | Camera Ready Requirements                                                                            |
 |--------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Live Performance   | 20 minutes of concert time for performance and change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
-| Remote Performance | 20 minutes of concert time for performance and  change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
-| Installation       | Installation venue with sound and projection or large screen for at least one day of the conference. | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+| **Live Performance**   | 20 minutes of concert time for performance and change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+| **Remote Performance** | 20 minutes of concert time for performance and  change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+| **Installation**       | Installation venue with sound and projection or large screen for at least one day of the conference. | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
 {: .table }
 
 Note that at a basic level we will provide a two-channel sound system and projection capabilities for all live/remote performances and installations. Performances requiring sptial audio or a Disklavier piano will be scheduled in concerts within our recording studio and will require some additional discussion to confirm arrangements.
