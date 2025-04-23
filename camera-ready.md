@@ -11,7 +11,13 @@ This page (will) provide clear and consistent instructions for preparing your ac
 
 The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your submission is the version that you will be presenting at the conference and will be archived in the [NIME Proceedings Archive](https://nime.org). Every accepted submission will be invited to submit a camera ready version of their accepted document [CMT]({{ cmt_link }}) by the camera ready deadline and **must do so** to be included in the conference (even if minimal or no changes are required).
 
-## Paper Track
+Below we have specific instructions for:
+
+- [paper track](#paper-track)
+- [music track](#music-track)
+- [workshop track](#workshop-track)
+
+## Paper Track {#paper-track}
 
 Here are the camera-ready and presentation requirements for papers.
 
@@ -53,7 +59,7 @@ Your submission's presentation falls under of the following four categories, as 
 - Poster size: A0.
 - Orientation: Portrait.
 - Posters should include (1) the title, authors’ names, and affiliations, (2) a concise overview of the research, (3) clear illustrations of key aspects of your presenting work, and (4) a compelling visual design. 
-- **Please print the poster beforehand and bring with it to the conference venue.**
+- **Please print the poster beforehand and bring with it to the conference venue.** If you want to print your poster in Canberra, [Copy Qik](https://copyqik.com.au), [Officeworks Braddon](https://www.officeworks.com.au/print-copy/p/colour-posters-pcppcopcp), [Kwik Kopy Canberra](https://canberrashop.kwikkopy.com.au/product/posters-a0/34916) are within walking distance of ANU campus.
 
 #### Remote Video Requirements (For Remote Poster Presentations):
 
@@ -64,7 +70,7 @@ Your submission's presentation falls under of the following four categories, as 
 
 
 
-## Music Track
+## Music Track {#music-track}
 
 Here are the camera-ready and presentation requirements for the music track:
 
@@ -91,7 +97,7 @@ We may be able to provide some additional equipment (e.g., DI boxes, XLR cables,
 
 We will provide time line/sound-checking all performances but ask that artists are as prepared as possible for a plug-and-play experience given the tight schedule of the conference.
 
-## Workshop Track
+## Workshop Track {#workshop-track}
 
 Here are the camera-ready and presentaiton requirements for the workshop track
 
