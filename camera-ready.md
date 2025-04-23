@@ -13,6 +13,8 @@ The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your
 
 ## Paper Track
 
+Here are the camera-ready and presentation requirements for papers.
+
 ### Checklist for Camera-Ready
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
@@ -22,17 +24,12 @@ The ["camera ready"](https://en.wikipedia.org/wiki/Camera-ready) version of your
 - If conditionally accepted, your submission PDF has been updated to address any specific requirements of reviewers or meta-reviewer.
 - You are aware and accept that your submission PDF and image will be published on <https://nime2025.org> under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
-
-
 ### Presentation Format
 
 {: .info-box}
 This is the provided presentation format this year, since we received some enquires about it.
 <br>
 The Paper Chairs will communicate the specific format for each submission to the authors soon.
-
-
-
 
 All accepted paper submissions (short, medium or long category) will receive a presentation slot (either **oral** or **poster**) at the conference, independent of onsite or remote attendance.
 
@@ -41,11 +38,12 @@ Your submission's presentation falls under of the following four categories, as 
 
 |               | Oral Presentation                                                    | Poster                  |
 |---------------|-----------------------------------------------------------------------|-------------------------|
-| **Onsite**    | 5/8/12 minutes by paper category (Short/Medium/Long) + Q&A           | A0 Physical Poster      |
+| **Onsite**    | 5/8/12-minute presentation (short/medium/long paper) + Q&A           | A0 Physical Poster      |
 | **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
 {: .table }
 
 #### Key Requirements for All:
+
 - A teaser image (e.g., 1000px wide, jpeg, jpg or png) to display on the conference website's paper gallery ([example](https://nime2025.org/proceedings/100.html)).
 - The associated material (if any) as indicated in the table above.
 - This submission is through the same Camera Ready Submission Form on CMT, the same field used to upload your paper submission file.
@@ -58,6 +56,7 @@ Your submission's presentation falls under of the following four categories, as 
 - **Please print the poster beforehand and bring with it to the conference venue.**
 
 #### Remote Video Requirements (For Remote Poster Presentations):
+
 - Duration limit: 5 minutes.
 - All videos must be encoded in MP4 format using the H.264 codec.
 - Resolution must be precisely 1080p (1920 x 1080) or 4k (3840 x 2160), with a 16:9 aspect ratio. 
@@ -67,12 +66,36 @@ Your submission's presentation falls under of the following four categories, as 
 
 ## Music Track
 
-TBA
+Here are the camera-ready and presentation requirements for the music track:
 
+### Camera Ready Checklist
+
+- Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
+- Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
+- Your submission PDF has the appropriate sections as explained in the [call]({% link call.md %})
+- You have an image 1000px in width to upload in the camera-ready form. 
+- You are aware and accept that your submission PDF and image will be published on <https://nime2025.org> under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+### Presentation Requirements
+
+| Type               | Draft scheduling details                                   | Camera Ready Requirements                                                                            |
+|--------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Live Performance   | 20 minutes of concert time for performance and change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+| Remote Performance | 20 minutes of concert time for performance and  change over.     | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+| Installation       | Installation venue with sound and projection or large screen for at least one day of the conference. | updated submission PDF (see checklist), image for website, plain text list of technical requirements |
+{: .table }
+
+Note that at a basic level we will provide a two-channel sound system and projection capabilities for all live/remote performances and installations. Performances requiring sptial audio or a Disklavier piano will be scheduled in concerts within our recording studio and will require some additional discussion to confirm arrangements.
+
+We may be able to provide some additional equipment (e.g., DI boxes, XLR cables, power boards) that would be typically provided by a concert venue but this is subject to approval by the paper and general chairs. Specific equipment such as computers or interfaces cannot be provided by the conference.
+
+We will provide time line/sound-checking all performances but ask that artists are as prepared as possible for a plug-and-play experience given the tight schedule of the conference.
 
 ## Workshop Track
 
-Checklist 
+Here are the camera-ready and presentaiton requirements for the workshop track
+
+### Checklist 
 
 - Your submission PDF is in the correct format as outlined on the [submission page]({% link submissions.md %}).
 - Your submission PDF is not anonymised and the author names and order match the names and order listed in CMT.
