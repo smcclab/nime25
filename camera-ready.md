@@ -30,6 +30,11 @@ Here are the camera-ready and presentation requirements for papers.
 - If conditionally accepted, your submission PDF has been updated to address any specific requirements of reviewers or meta-reviewer.
 - You are aware and accept that your submission PDF and image will be published on <https://nime2025.org> under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.en).
 
+### Notes on the camera ready PDF file
+
+- You do not need to add CCS concepts for NIME papers (no matter what the latex template warnings say).
+- You should not set `printacmref=true` for NIME papers (no matter what the latex template warnings say).
+
 ### Presentation Format
 
 {: .info-box}
