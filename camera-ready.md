@@ -36,7 +36,7 @@ Here are the camera-ready and presentation requirements for papers.
 - You should not set `printacmref=true` for NIME papers (no matter what the latex template warnings say).
 - The document settings for your file should be `\documentclass[sigconf]{nimeart}` (this produces a clean, non-anonymous PDF with no line or page numbers, )
 
-<!-- Note that you may upload one video file (`mp4` format, up to 350MB) as a supplementary file to your submission which will be archived within the NIME proceedings. -->
+Note that you may upload one video file (`mp4` format, up to 350MB) as a supplementary file to your submission which will be archived within the NIME proceedings.
 
 ### Presentation Format
 
