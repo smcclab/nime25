@@ -34,6 +34,7 @@ Here are the camera-ready and presentation requirements for papers.
 
 - You do not need to add CCS concepts for NIME papers (no matter what the latex template warnings say).
 - You should not set `printacmref=true` for NIME papers (no matter what the latex template warnings say).
+<!-- Note that you may upload one video file (`mp4` format, up to 350MB) as a supplementary file to your submission which will be archived within the NIME proceedings. -->
 
 ### Presentation Format
 
