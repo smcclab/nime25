@@ -47,10 +47,9 @@ The Paper Chairs will communicate the specific format for each submission to the
 
 All accepted paper submissions (short, medium or long category) will receive a presentation slot (either **oral** or **poster**) at the conference, independent of onsite or remote attendance.
 
-**Optional**: Authors with **accepted** work attending the conference **in person** are welcome to bring their system and demonstrate it (if any) during poster sessions.
-
 Your submission's presentation falls under of the following four categories, as notified by the Paper Chairs, which will be sent out soon.
 
+**Optional**: Authors with **accepted** work attending the conference **onsite** are welcome to bring their system and demonstrate it (if applicable) during the poster sessions. In other words, if you are given an onsite oral presentation about a musical system, you are welcome to bring it along to showcase during the poster sessions.
 
 |               | Oral Presentation                                                    | Poster                  |
 |---------------|-----------------------------------------------------------------------|-------------------------|
