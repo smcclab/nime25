@@ -55,7 +55,7 @@ Your submission's presentation falls under of the following four categories, as 
 | **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
 {: .table }
 
-**Optional**: Authors with **accepted** work attending the conference **onsite** are welcome to bring their system and demonstrate it (if applicable) during the poster sessions. In other words, if you are given an onsite oral presentation about a musical system, you are welcome to bring it along to showcase during the poster sessions.
+**Optional**: Authors with **accepted** work attending the conference **onsite** are welcome to bring their system and demonstrate it (if applicable) during the poster sessions. For example, if you will give an onsite oral presentation about a musical system, you are welcome to bring it along to showcase during the poster sessions.
 
 #### Key Requirements for All:
 
