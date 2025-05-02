@@ -82,6 +82,7 @@ Please display the work’s title and author information at the beginning of the
 - All videos must be encoded in MP4 format using the H.264 codec.
 - Resolution must be precisely 1080p (1920 x 1080) or 4k (3840 x 2160), with a 16:9 aspect ratio. 
 - File size limit: 300 MB.
+- Please provide captions for your video presentation in a separate file in ```.srt``` format on CMT. For guide, please check out the SIGCHI [guideline](https://sigchi.org/resources/guides-for-authors/videos/) for reference.
 
 
 
