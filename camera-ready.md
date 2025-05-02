@@ -73,6 +73,8 @@ Your submission's presentation falls under of the following four categories, as 
 
 #### Remote Video Requirements (For Remote Poster Presentations):
 
+- There is no specific presentation style required for the video, but you should include content which you think it's the highlights/main content you want to communicate to the conference attendees so they will be interested in reading your paper. Please display the work’s title and author information at the beginning of the video.
+- All remote poster presentation videos will be played non-stop on a single-screen theatre for attendees to watch during the poster sessions.
 - Duration limit: 5 minutes.
 - All videos must be encoded in MP4 format using the H.264 codec.
 - Resolution must be precisely 1080p (1920 x 1080) or 4k (3840 x 2160), with a 16:9 aspect ratio. 
