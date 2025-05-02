@@ -42,8 +42,8 @@ Note that you may upload one video file (`mp4` format, up to 350MB) as a supplem
 
 {: .info-box}
 You should have received an email from us about your assigned presentation format.
-Please upload the associated required material on CMT by **30 May AOE**
-Please reach out to yichen.wang@anu.edu.au if you have any questions.
+Please upload the associated required material on CMT by **30 May AOE**.
+Please reach out to [yichen.wang@anu.edu.au](yichen.wang@anu.edu.au) if you have any questions.
 
 All accepted paper submissions (short, medium or long category) will receive a presentation slot (either **oral** or **poster**) at the conference, independent of onsite or remote attendance.
 
