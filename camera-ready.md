@@ -61,7 +61,8 @@ Your submission's presentation falls under of the following four categories, as 
 
 - A teaser image (e.g., 1000px wide, jpeg, jpg or png) to display on the conference website's paper gallery ([example](https://nime2025.org/proceedings/100.html)).
 - The associated material (if any) as indicated in the table above.
-- This submission is through the same Camera Ready Submission Form on CMT, the same field used to upload your paper submission file.
+- This submission is through the **same Camera Ready Submission Form** on CMT, the same field used to upload your paper submission file.
+- **Important Date:** Please upload the associated required material by **30 May AOE**.
 
 #### Physical Poster Requirements (Onsite):
 
