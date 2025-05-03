@@ -61,7 +61,7 @@ Your submission's presentation falls under of the following four categories, as 
 
 - A teaser image (e.g., 1000px wide, jpeg, jpg or png) to display on the conference website's paper gallery ([example](https://nime2025.org/proceedings/100.html)).
 - The associated material (if any) as indicated in the table above.
-    - For remote poster: please upload your video on CMT.
+    - For remote poster: please upload your video and a separate ```.srt``` caption file on CMT.
     - For oral presentation and onsite poster: you do not need to upload your presentation materials.
 - This submission is through the **same Camera Ready Submission Form** on CMT, the same field used to upload your paper submission file.
 - **Important Date:** Please upload the associated required material by **30 May AOE**.
