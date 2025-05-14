@@ -46,6 +46,23 @@ Canberra has many [excellent coffee shops](https://www.timeout.com/australia/res
 
 ### Accomodation
 
-There are many accomodation options nearby ANU campus and around Canberra's city centre that are walking distance to the conference venues.
+There are many accommodation options nearby ANU campus and around Canberra's city centre that are walking distance to the conference venues.
+
+Below are a few (personal) recommendations, but please feel free to choose accommodation that best suits your needs and budget.
+
+Within walking distance (note: these are generally more expensive during conference dates):
+- Peppers Gallery Hotel Canberra
+- Quest Canberra City Walk
+- Meriton Suites Canberra
+- Avenue Hotel Canberra
+- Adina Serviced Apartments Canberra James Court
+
+Along the light rail line (more budget-friendly, quick and convenient—about 20 minutes to the main conference venue):
+- Madison Capital Executive Apartments
+- Canberra Rex Hotel
+- Canberra Accommodation Centre (it’s not bad, but bath will be shared)
+- Deco Hotel Canberra
+- Pavilion On Northbourne
+- Mantra MacArthur Hotel
 
 
