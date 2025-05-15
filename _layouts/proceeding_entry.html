@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<!-- TODO: un comment this when all proceedings entries have a session. -->
+{% comment %}
 {% capture session_url %}{{ page.entry.session_code | datapage_url: "sessions" | relative_url }}{% endcapture %}
-
+{% endcomment %}
 
 <article>
   {% if page.title %}
@@ -18,7 +20,7 @@ layout: default
   <div class="my-4 p-2">
     {% if page.entry.image_url %}
     <div class="entry-image">
-      <img src="{{ site.baseurl }}/{{ page.entry.image_url }}" alt="{{ page.title }}" class="img-fluid rounded">
+      <img src="{{ site.baseurl }}/assets/submissions/{{ page.entry.image_url }}" alt="{{ page.title }}" class="img-fluid rounded">
     </div>
     {% endif %}
     <ul>
