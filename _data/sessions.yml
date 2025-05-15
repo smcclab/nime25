@@ -59,11 +59,71 @@
 
 # Day 1
 
-- id: research1
-  title: NIME Day 1
+# - id: research1
+#   title: NIME Day 1
+#   chair: TBA
+#   date: Wednesday 2025-06-25 09:00-17:00 AEST
+#   start: '2025-06-25T09:00:00'
+#   end: '2025-06-25T17:00:00'
+#   location: "Kambri Cinema"
+#   type: papers
+#   image_url: assets/charles-martin-ventilation.jpg
+#   video_url: https://www.youtube.com/live/aL8uG1PRkIY
+#   allDay : false
+
+- id: papers-1
+  title: Papers 1
   chair: TBA
-  date: Wednesday 2025-06-25 09:00-17:00 AEST
+  date: Wednesday 2025-06-25 09:00-10:30 AEST
   start: '2025-06-25T09:00:00'
+  end: '2025-06-25T10:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: papers-2
+  title: Papers 2
+  chair: TBA
+  date: Wednesday 2025-06-25 11:00-12:30 AEST
+  start: '2025-06-25T11:00:00'
+  end: '2025-06-25T12:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: posters-1
+  title: Posters 1
+  chair: TBA
+  date: Wednesday 2025-06-25 13:30-14:30 AEST
+  start: '2025-06-25T13:30:00'
+  end: '2025-06-25T14:30:00'
+  location: "Kambri Foyer"
+  type: posters
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: keynote-1
+  title: Keynote 1
+  chair: TBA
+  date: Wednesday 2025-06-25 14:30-15:30 AEST
+  start: '2025-06-25T14:30:00'
+  end: '2025-06-25T15:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: papers-3
+  title: Papers 3
+  chair: TBA
+  date: Wednesday 2025-06-25 16:00-17:00 AEST
+  start: '2025-06-25T16:00:00'
   end: '2025-06-25T17:00:00'
   location: "Kambri Cinema"
   type: papers
@@ -95,13 +155,73 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-# Day 2
+# Day 2 - Thursday
 
-- id: research2
-  title: NIME Day 2
+# - id: research2
+#   title: NIME Day 2
+#   chair: TBA
+#   date: Thursday 2025-06-26 09:00-17:00 AEST
+#   start: '2025-06-26T09:00:00'
+#   end: '2025-06-26T17:00:00'
+#   location: "Kambri Cinema"
+#   type: papers
+#   image_url: assets/charles-martin-ventilation.jpg
+#   video_url: https://www.youtube.com/live/aL8uG1PRkIY
+#   allDay : false
+
+- id: papers-4
+  title: Papers 4
   chair: TBA
-  date: Thursday 2025-06-26 09:00-17:00 AEST
+  date: Thursday 2025-06-26 09:00-10:30 AEST
   start: '2025-06-26T09:00:00'
+  end: '2025-06-26T10:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: papers-5
+  title: Papers 5
+  chair: TBA
+  date: Thursday 2025-06-26 11:00-12:30 AEST
+  start: '2025-06-26T11:00:00'
+  end: '2025-06-26T12:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: posters-2
+  title: Posters 2
+  chair: TBA
+  date: Thursday 2025-06-26 13:30-14:30 AEST
+  start: '2025-06-26T13:30:00'
+  end: '2025-06-26T14:30:00'
+  location: "Kambri Foyer"
+  type: posters
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: papers-6
+  title: Papers 6 
+  chair: TBA
+  date: Thursday 2025-06-26 14:30-15:30 AEST
+  start: '2025-06-26T14:30:00'
+  end: '2025-06-26T15:30:00'
+  location: "Kambri Cinema"
+  type: papers
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: papers-7
+  title: Papers 7
+  chair: TBA
+  date: Thursday 2025-06-26 16:00-17:00 AEST
+  start: '2025-06-26T16:00:00'
   end: '2025-06-26T17:00:00'
   location: "Kambri Cinema"
   type: papers
