@@ -9,11 +9,23 @@
   image_url: assets/charles-martin-ventilation.jpg
   allDay : false
 
-- id: workshops1
-  title: Workshops 1
+- id: workshops1a
+  title: Workshops 1A
   chair: TBA
-  date: Tuesday 2025-06-24 09:30-12:30 AEST
+  date: Tuesday 2025-06-24 09:00-10:30 AEST
   start: '2025-06-24T09:00:00'
+  end: '2025-06-24T10:30:00'
+  location: "ANU Hanna Neumann Building Area"
+  type: workshops
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: workshops1b
+  title: Workshops 1B
+  chair: TBA
+  date: Tuesday 2025-06-24 11:00-12:30 AEST
+  start: '2025-06-24T11:00:00'
   end: '2025-06-24T12:30:00'
   location: "ANU Hanna Neumann Building Area"
   type: workshops
@@ -21,11 +33,23 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: workshops2
-  title: Workshops 2
+- id: workshops2a
+  title: Workshops 2A
   chair: TBA
-  date: Tuesday 2025-06-24 13:30-17:00 AEST
+  date: Tuesday 2025-06-24 13:30-15:00 AEST
   start: '2025-06-24T13:30:00'
+  end: '2025-06-24T15:00:00'
+  location: "ANU Hanna Neumann Building 145"
+  type: workshops
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+- id: workshops2B
+  title: Workshops 2B
+  chair: TBA
+  date: Tuesday 2025-06-24 15:30-17:00 AEST
+  start: '2025-06-24T15:30:00'
   end: '2025-06-24T17:00:00'
   location: "ANU Hanna Neumann Building 145"
   type: workshops
@@ -34,7 +58,7 @@
   allDay : false
 
 - id: reception
-  title: Conference Welcome
+  title: Welcome
   chair: TBA
   date: Tuesday 2025-06-24 18:00-19:00 AEST
   start: '2025-06-24T18:00:00'
@@ -70,6 +94,15 @@
 #   image_url: assets/charles-martin-ventilation.jpg
 #   video_url: https://www.youtube.com/live/aL8uG1PRkIY
 #   allDay : false
+
+- id: registration2
+  title: Registration
+  start: '2025-06-25T08:30:00'
+  end: '2025-06-25T09:00:00'  
+  location: "Kambri Foyer"
+  type: admin
+  image_url: assets/charles-martin-ventilation.jpg
+  allDay : false
 
 - id: papers-1
   title: Papers 1
@@ -169,6 +202,15 @@
 #   video_url: https://www.youtube.com/live/aL8uG1PRkIY
 #   allDay : false
 
+- id: registration3
+  title: Registration
+  start: '2025-06-26T08:30:00'
+  end: '2025-06-26T09:00:00'  
+  location: "Kambri Foyer"
+  type: admin
+  image_url: assets/charles-martin-ventilation.jpg
+  allDay : false
+
 - id: papers-4
   title: Papers 4
   chair: TBA
@@ -229,6 +271,19 @@
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
+- id: installation-1
+  title: Installation Viewing
+  chair: TBA
+  date: Thursday 2025-06-26 17:00-19:00 AEST
+  start: '2025-06-26T17:00:00'
+  end: '2025-06-26T19:00:00'
+  location: "School of Music"
+  type: installations
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
+
 - id: concert3
   title: Concert 3
   chair: TBA
@@ -266,6 +321,15 @@
 #   image_url: assets/charles-martin-ventilation.jpg
 #   video_url: https://www.youtube.com/live/aL8uG1PRkIY
 #   allDay : false
+
+- id: registration4
+  title: Registration
+  start: '2025-06-27T08:30:00'
+  end: '2025-06-27T09:00:00'  
+  location: "Kambri Foyer"
+  type: admin
+  image_url: assets/charles-martin-ventilation.jpg
+  allDay : false
 
 - id: papers-8
   title: Papers 8
@@ -326,6 +390,19 @@
   image_url: assets/charles-martin-ventilation.jpg
   video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+
+- id: installation-2
+  title: Installation Viewing
+  chair: TBA
+  date: Friday 2025-06-27 17:00-19:00 AEST
+  start: '2025-06-27T17:00:00'
+  end: '2025-06-27T19:00:00'
+  location: "School of Music"
+  type: installations
+  image_url: assets/charles-martin-ventilation.jpg
+  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
 
 - id: concert4
   title: Concert 6
