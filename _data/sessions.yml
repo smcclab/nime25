@@ -18,7 +18,7 @@
   location: "ANU Hanna Neumann Building Area"
   type: workshops
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: workshops1b
@@ -30,7 +30,7 @@
   location: "ANU Hanna Neumann Building Area"
   type: workshops
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: workshops2a
@@ -42,7 +42,7 @@
   location: "ANU Hanna Neumann Building 145"
   type: workshops
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: workshops2B
@@ -54,7 +54,7 @@
   location: "ANU Hanna Neumann Building 145"
   type: workshops
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: reception
@@ -66,7 +66,7 @@
   location: "Kambri Foyer"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: concert1
@@ -78,7 +78,7 @@
   location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 # Day 1
@@ -101,7 +101,7 @@
   end: '2025-06-25T09:00:00'  
   location: "Kambri Foyer"
   type: admin
-  image_url: assets/charles-martin-ventilation.jpg
+  # image_url: assets/charles-martin-ventilation.jpg
   allDay : false
 
 - id: papers-1
@@ -113,7 +113,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-2
@@ -125,7 +125,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: posters-1
@@ -137,7 +137,7 @@
   location: "Kambri Foyer"
   type: posters
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: keynote-1
@@ -149,7 +149,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-3
@@ -161,7 +161,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: concert2
@@ -173,7 +173,7 @@
   location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: night1
@@ -185,7 +185,7 @@
   location: "Big Band Room"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 # Day 2 - Thursday
@@ -220,7 +220,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-5
@@ -232,7 +232,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: posters-2
@@ -244,7 +244,7 @@
   location: "Kambri Foyer"
   type: posters
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-6
@@ -256,7 +256,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-7
@@ -268,7 +268,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: installation-1
@@ -280,7 +280,7 @@
   location: "School of Music"
   type: installations
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 
@@ -293,7 +293,7 @@
   location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: night2
@@ -305,7 +305,7 @@
   location: "Big Band Room"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 # Day 3
@@ -340,7 +340,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: papers-9
@@ -352,7 +352,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: posters-3
@@ -364,7 +364,7 @@
   location: "Kambri Foyer"
   type: posters
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: keynote-2
@@ -376,7 +376,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: plenary-town-hall
@@ -388,7 +388,7 @@
   location: "Kambri Cinema"
   type: papers
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: installation-2
@@ -400,7 +400,7 @@
   location: "School of Music"
   type: installations
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 
@@ -413,7 +413,7 @@
   location: "Big Band Room"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: night3
@@ -425,5 +425,5 @@
   location: "Shadows Nightclub"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
-  video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false

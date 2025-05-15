@@ -3,9 +3,9 @@ layout: default
 ---
 
 <!-- TODO: un comment this when all proceedings entries have a session. -->
-{% comment %}
+{% if page.entry.session_code %}
 {% capture session_url %}{{ page.entry.session_code | datapage_url: "sessions" | relative_url }}{% endcapture %}
-{% endcomment %}
+{% endif %}
 
 <article>
   {% if page.title %}
@@ -25,7 +25,7 @@ layout: default
     {% endif %}
     <ul>
       {% if page.entry.format %}<li>Format: {{ page.entry.format }}</li>{% endif %}
-      {% if page.entry.session_name %}<li>Session: <a href="{{ session_url }}">{{ page.entry.session_name }}</a></li>{% endif %}
+      {% if page.entry.session_code %}<li>Session: <a href="{{ session_url }}">{{ page.entry.session_code }}</a></li>{% endif %}
       {% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
       {% if page.entry.slides_url %}<li><a href="{{ page.entry.slides_url }}">Slides link</a></li>{% endif %}
