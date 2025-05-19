@@ -4,6 +4,10 @@ title: Program
 description: The program of events for NIME2025.
 permalink: /program/
 ---
+{: .info-box}
+The program and website are still under construction, as we are waiting for additional materials to be uploaded by authors. This means some information may not be up to date.
+Please check the website again later. Thank you for your understanding.
+
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}
 
