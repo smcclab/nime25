@@ -63,3 +63,5 @@ page_gen:
   debug: false
 
 submission_site: https://cmt3.research.microsoft.com/NIME2025
+
+exclude: [gs_to_web]
