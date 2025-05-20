@@ -82,6 +82,8 @@ workshops_filtered['id'] = workshops_filtered['id'].astype(int)
 proceedings_df = pd.concat([papers_filtered, music_filtered, workshops_filtered], ignore_index=True)
 
 proceedings_df['id'] = proceedings_df['id'].astype(int)
+proceedings_df['image_url'] = proceedings_df['id'].apply(lambda x: f"{x}.jpg")
+proceedings_df['paper_url'] = proceedings_df['id'].apply(lambda x: f"nime2025_{x}.pdf")
 
 # Output to CSV
 proceedings_df.to_csv('../_data/proceedings.csv', index=False)
