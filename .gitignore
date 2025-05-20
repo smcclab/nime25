@@ -8,3 +8,7 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+gs_to_web/gs_papers.csv
+gs_to_web/gs_music.csv
+gs_to_web/gs_workshops.csv
+gs_to_web/secrets.toml
