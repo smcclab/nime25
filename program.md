@@ -11,7 +11,10 @@ Please check the website again later. Thank you for your understanding.
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}
 
-<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
+{% comment %}
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.17/index.global.min.js'></script>
+{% endcomment %}
+<script src='{% link assets/imports/fullcalendar@6.1.17/index.global.min.js %}'></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     let sessionsData = {{ sorted_sessions | jsonify }};
