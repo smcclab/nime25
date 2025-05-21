@@ -67,4 +67,4 @@ submission_site: https://cmt3.research.microsoft.com/NIME2025
 exclude: [gs_to_web]
 
 # Theme specific options
-link_pdfs: true
+link_pdfs: false

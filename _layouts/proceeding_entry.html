@@ -20,7 +20,14 @@ layout: default
   <div class="my-4 p-2">
     {% if page.entry.image_url %}
     <div class="entry-image">
-      <img src="{{ site.baseurl }}/assets/submissions/{{ page.entry.image_url }}" alt="{{ page.title }}" class="img-fluid rounded">
+      <figure class="figure">
+        <img src="{{ site.baseurl }}/assets/submissions/{{ page.entry.image_url }}" alt="{{ page.title }}" class="figure-img img-fluid rounded">
+        {% if page.entry.image_credit %}
+        <figcaption class="figure-caption">Image credit: {{ page.entry.image_credit }}</figcaption>
+        {% else %}
+        <figcaption class="figure-caption">Image credit: {{ page.entry.authors }}</figcaption>
+        {% endif %}
+      </figure>
     </div>
     {% endif %}
     <ul>
