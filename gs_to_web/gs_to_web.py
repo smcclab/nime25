@@ -59,7 +59,7 @@ workshops_df = pd.read_csv("gs_workshops.csv")
 
 print("Now going to combine them all together to make one proceedings csv to rule them all.")
 
-proc_cols = ["id","track","format","session_code","session_name","session_position","duration","presence","speaker","title","authors","abstract","paper_url","video_url","slides_url","image_url"]
+proc_cols = ["id","track","format","type","session_code","session_name","session_position","duration","presence","speaker","title","authors","abstract","paper_url","video_url","slides_url","image_url"]
 
 # Function to filter dataframes to only include needed columns
 def filter_columns(df, needed_cols):
