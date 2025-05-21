@@ -26,9 +26,13 @@ layout: default
     <ul>
       {% if page.entry.format %}<li>Format: {{ page.entry.format }}</li>{% endif %}
       {% if page.entry.session_code %}<li>Session: <a href="{{ session_url }}">{{ page.entry.session_code }}</a></li>{% endif %}
-      {% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}
+      {% if site.link_pdfs %}{% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}{% endif %}
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
       {% if page.entry.slides_url %}<li><a href="{{ page.entry.slides_url }}">Slides link</a></li>{% endif %}
+      {% if page.entry.presence %}<li>Presence: {{ page.entry.presence }}</li>{% endif %}
+      {% if page.entry.duration %}<li>Duration: {{ page.entry.duration }}</li>{% endif %}
+      {% if page.entry.type %}<li>Type: {{ page.entry.type }}</li>{% endif %}
+      {% if page.entry.speaker %}<li>Presenter: {{ page.entry.speaker }}</li>{% endif %}
     </ul>
     <h2>Abstract:</h2>
     <p>{{ page.entry.abstract }}</p>
