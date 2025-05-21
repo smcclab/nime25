@@ -7,7 +7,6 @@ permalink: /program-list/
 
 {% assign works = site.data.proceedings %}
 
-
 <h2>Works:</h2>
 
 <ul>
