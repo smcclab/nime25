@@ -59,7 +59,11 @@ workshops_df = pd.read_csv("gs_workshops.csv")
 
 print("Now going to combine them all together to make one proceedings csv to rule them all.")
 
-proc_cols = ["id","track","format","type","session_code","session_name","session_position","location","duration","presence","speaker","title","authors","abstract","paper_url","video_url","slides_url","image_url","image_credit"]
+proc_cols = ["id","track","format","type","session_code","session_name",
+             "session_position","location","duration","presence","speaker",
+             "title","authors","abstract",
+             "paper_url","video_url","slides_url","image_url","image_credit",
+             "problems"]
 
 # Function to filter dataframes to only include needed columns
 def filter_columns(df, needed_cols):
@@ -85,6 +89,17 @@ proceedings_df['id'] = proceedings_df['id'].astype(int)
 proceedings_df['image_url'] = proceedings_df['id'].apply(lambda x: f"{x}.jpg")
 proceedings_df['paper_url'] = proceedings_df['id'].apply(lambda x: f"nime2025_{x}.pdf")
 
+# Create a mask for non-empty problems
+mask_with_problems = (
+    proceedings_df['problems'].notna() & 
+    proceedings_df['problems'].astype(str).str.strip().ne('')
+)
+
+proceedings_with_problems_df = proceedings_df[mask_with_problems]
+proceedings_with_problems_df.to_csv('../_data/proceedings_with_problems.csv', index=False)
+proceedings_without_problems_df = proceedings_df[~mask_with_problems]
+proceedings_without_problems_df.to_csv('../_data/proceedings.csv', index=False)
+
 # Output to CSV
-proceedings_df.to_csv('../_data/proceedings.csv', index=False)
+# proceedings_df.to_csv('../_data/proceedings.csv', index=False)
 print("all done!")
