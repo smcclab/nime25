@@ -32,6 +32,7 @@ Please check the website again later. Thank you for your understanding.
         initialView: 'timeGridWeek',
         events: sessionsData,
         initialDate: firstEventDate,
+        slotEventOverlap: false,
     });
     calendar.render();
 
