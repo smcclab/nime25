@@ -7,7 +7,7 @@ permalink: /short-call/
 
 ## Call for Contributions to NIME2025: _entangled NIME_
 
-We invite you to be a part of [NIME2025: _entangled NIME_](https://nime2025.org), the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia with support for in-person and remote presentation.
+We invite you to be a part of [NIME2025: _entangled NIME_](https://nime2025.org), the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal Country, Canberra, Australia with support for in-person and remote presentation.
 
 We invite submissions of new scholarly and creative works in the following categories:
 

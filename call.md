@@ -7,7 +7,7 @@ template_link: https://github.com/NIME-conference/nime-template/releases/tag/v20
 cmt_link: https://cmt3.research.microsoft.com/NIME2025
 ---
 
-We invite you to be a part of NIME2025, _entangled NIME_, the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia with support for in-person and remote presentation.
+We invite you to be a part of NIME2025, _entangled NIME_, the International Conference on New Interfaces for Musical Expression. NIME2025 will take place at The Australian National University, Ngunnawal Country, Canberra, Australia with support for in-person and remote presentation.
 
 We invite submissions of new scholarly and creative works in the following categories:
 
