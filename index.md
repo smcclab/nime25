@@ -14,7 +14,7 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 ## About NIME2025
 
 - June 24--27, 2025 
-- The Australian National University, Ngunnawal and Ngambri Country, Canberra, Australia
+- The Australian National University, Ngunnawal Country, Canberra, Australia
 
 The call for submissions has been released [here](https://nime2025.org/call/). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
 
