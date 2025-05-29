@@ -106,6 +106,7 @@
 
 - id: papers-1
   title: Papers 1
+  subtitle: Collective and Embodied
   chair: TBA
   date: Wednesday 2025-06-25 09:00-10:30 AEST
   start: '2025-06-25T09:00:00'
@@ -118,6 +119,7 @@
 
 - id: papers-2
   title: Papers 2
+  subtitle: Novel Techniques and Technologies
   chair: TBA
   date: Wednesday 2025-06-25 11:00-12:30 AEST
   start: '2025-06-25T11:00:00'
@@ -154,6 +156,7 @@
 
 - id: papers-3
   title: Papers 3
+  subtitle: Body and Motion
   chair: TBA
   date: Wednesday 2025-06-25 16:00-17:00 AEST
   start: '2025-06-25T16:00:00'
@@ -213,6 +216,7 @@
 
 - id: papers-4
   title: Papers 4
+  subtitle: Environment, Sustainability, Longevity
   chair: TBA
   date: Thursday 2025-06-26 09:00-10:30 AEST
   start: '2025-06-26T09:00:00'
@@ -225,6 +229,7 @@
 
 - id: papers-5
   title: Papers 5
+  subtitle: Machine Learning and Co-Creativity
   chair: TBA
   date: Thursday 2025-06-26 11:00-12:30 AEST
   start: '2025-06-26T11:00:00'
@@ -259,6 +264,7 @@
 
 - id: papers-6
   title: Papers 6 
+  subtitle: Accessibility
   chair: TBA
   date: Thursday 2025-06-26 14:30-15:30 AEST
   start: '2025-06-26T14:30:00'
@@ -271,6 +277,7 @@
 
 - id: papers-7
   title: Papers 7
+  subtitle: Entangled NIME
   chair: TBA
   date: Thursday 2025-06-26 16:00-17:00 AEST
   start: '2025-06-26T16:00:00'
@@ -343,6 +350,7 @@
 
 - id: papers-8
   title: Papers 8
+  subtitle: Historical and Cultural Reflections
   chair: TBA
   date: Friday 2025-06-27 09:00-10:30 AEST
   start: '2025-06-27T09:00:00'
@@ -355,6 +363,7 @@
 
 - id: papers-9
   title: Papers 9
+  subtitle: Extended Reality
   chair: TBA
   date: Friday 2025-06-27 11:00-12:30 AEST
   start: '2025-06-27T11:00:00'
