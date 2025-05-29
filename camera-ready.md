@@ -51,7 +51,7 @@ Your submission's presentation falls under of the following four categories, as 
 
 |               | Oral Presentation                                                    | Poster                  |
 |---------------|-----------------------------------------------------------------------|-------------------------|
-| **Onsite**    | 5/8/12-minute presentation (short/medium/long paper) + Q&A           | A0 Physical Poster      |
+| **Onsite**    | 5/10/15-minute presentation (short/medium/long paper) + Q&A           | A0 Physical Poster      |
 | **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
 {: .table }
 

@@ -33,12 +33,15 @@ layout: default
     {% capture proceeding_entry_url %}{{ paper.id | datapage_url: "proceedings" | relative_url }}{% endcapture %}
 
       <li>
-        <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a><br>
+        <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a>  ({{paper.duration}} minutes) <br>
         by {{ paper.authors }}<br>
       </li>
     {% endfor %}
     </ul>
 
+    {% if page.entry.type == "papers" %}
+    <p>Papers have 5 minutes for questions and changeover. Speaking time is 5, 10, or 15 minutes depending on the length (short, medium, long) of each paper.</p>
+    {% endif %}
 
   </div>
 </article>
