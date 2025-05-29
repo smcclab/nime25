@@ -67,4 +67,7 @@ Along the light rail line (more budget-friendly, quick and convenient—about 20
 - Pavilion On Northbourne
 - Mantra MacArthur Hotel
 
+## Map of Venues
+
+- [Kambri to Big Band Room](https://maps.app.goo.gl/J2GaArRxdY42mBCLA)
 
