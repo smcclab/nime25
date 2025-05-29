@@ -21,9 +21,33 @@ Please check the website again later. Thank you for your understanding.
     let firstEventDate = sessionsData[0]["start"]
     <!-- TODO: loop over the array and set url property to the session page. -->
     console.log(sessionsData)
+    eventColours = ["#2e312d","#7e7a72","#8f95a5","#97a7b6","#565b68","#5f6e62","#b69255","#bd5c6f"]
     for (i in sessionsData) {
         let sessionId = sessionsData[i]["id"]
+        let sessionType = sessionsData[i]["type"]
         sessionsData[i]["url"] = `{{ site.baseurl }}/sessions/${sessionId}.html`
+        if (sessionType == "admin") {
+          sessionsData[i]["backgroundColor"] = eventColours[0]
+          sessionsData[i]["borderColor"] = eventColours[0]
+        } else if (sessionType == "papers") {
+          sessionsData[i]["backgroundColor"] = eventColours[1]
+          sessionsData[i]["borderColor"] = eventColours[1]
+        } else if (sessionType == "posters") {
+          sessionsData[i]["backgroundColor"] = eventColours[2]
+          sessionsData[i]["borderColor"] = eventColours[2]
+        } else if (sessionType == "installations") {
+          sessionsData[i]["backgroundColor"] = eventColours[3]
+          sessionsData[i]["borderColor"] = eventColours[3]
+        } else if (sessionType == "concert") {
+          sessionsData[i]["backgroundColor"] = eventColours[4]
+          sessionsData[i]["borderColor"] = eventColours[4]
+        } else if (sessionType == "workshops") {
+          sessionsData[i]["backgroundColor"] = eventColours[5]
+          sessionsData[i]["borderColor"] = eventColours[5]
+        } else if (sessionType == "plenary") {
+          sessionsData[i]["backgroundColor"] = eventColours[6]
+          sessionsData[i]["borderColor"] = eventColours[6]
+        }
     }
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
