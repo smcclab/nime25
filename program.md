@@ -8,6 +8,9 @@ permalink: /program/
 The program and website are still under construction, as we are waiting for additional materials to be uploaded by authors. This means some information may not be up to date.
 Please check the website again later. Thank you for your understanding.
 
+{: .info-box}
+A list of all accepted papers, music, and workshops is [here]({% link program-list.md %})
+
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}
 
