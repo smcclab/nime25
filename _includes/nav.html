@@ -61,8 +61,10 @@
       console.log('Theme toggle clicked');
       const featureImage = document.querySelector('.feature-image');
       const logoImage = document.querySelector('.navbar-brand img');
+      const anuLogo = document.getElementById('anu-logo');
+      const musicACT = document.getElementById('music-act');
       const currentTheme = html.getAttribute('data-bs-theme');
-      
+
       if (currentTheme === 'light') {
           html.setAttribute('data-bs-theme', 'dark');
           themeToggle.innerHTML = '<i class="bi bi-moon-fill"></i> Dark';
@@ -74,6 +76,12 @@
           if (logoImage) {
               logoImage.src = logoImage.dataset.darkImg;
           }
+          if (anuLogo) {
+              anuLogo.src = anuLogo.dataset.darkImg;
+          }
+          if (musicACT) {
+              musicACT.src = musicACT.dataset.darkImg;
+          }
       } else {
           html.setAttribute('data-bs-theme', 'light');
           themeToggle.innerHTML = '<i class="bi bi-sun-fill"></i> Light';
@@ -84,6 +92,13 @@
           }
           if (logoImage) {
               logoImage.src = logoImage.dataset.lightImg;
+          }
+
+          if (anuLogo) {
+           anuLogo.src = anuLogo.dataset.lightImg;
+          }
+          if (musicACT) {
+           musicACT.src = musicACT.dataset.lightImg;
           }
       }
   });

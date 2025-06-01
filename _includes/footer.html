@@ -7,13 +7,26 @@
       </div>
       <div class="row justify-content-center">
           <div class="col-sm-4 p-2">
-            <img src="{% link assets/logos/ANU_Primary_Horizontal_GoldBlack.png %}" class="mx-auto d-block" style="width: 70%">
+          <img 
+          id="anu-logo"
+          src="{% link assets/logos/ANU_Primary_Horizontal_GoldBlack.png %}" 
+          class="mx-auto d-block" 
+          style="width: 70%" 
+          data-light-img="{% link assets/logos/ANU_Primary_Horizontal_GoldBlack.png %}" 
+          data-dark-img="{% link assets/logos/ANU_Primary_Horizontal_GoldWhite.png %}" 
+          alt="ANU Logo">
           </div>
           <!-- <div class="col-sm-1 p-2"> -->
             <!-- <div class="vr"></div> -->
           <!-- </div> -->
           <div class="col-sm-4 p-2">
-            <img src="{% link assets/logos/musicact-horizontal-black.png %}" class="mx-auto d-block" style="width: 100%">
+            <img
+            id = "music-act" 
+            src="{% link assets/logos/musicact-horizontal-black.png %}" 
+          data-light-img="{% link assets/logos/musicact-horizontal-black.png %}" 
+          data-dark-img="{% link assets/logos/musicact-horizontal-white.png %}" 
+          alt = "music ACT"
+            class="mx-auto d-block" style="width: 100%">
           </div>
       </div>
       {% comment %}
