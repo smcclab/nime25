@@ -12,7 +12,7 @@ Please check the website again later. Thank you for your understanding.
 A list of all accepted papers, music, and workshops is listed [here by track]({% link program-by-track.md %}) and [here by session]({% link program-by-session.md %}).
 
 
-{% assign sorted_sessions = site.data.sessions | sort: "date" %}
+{% assign sorted_sessions = site.data.sessions | sort: "start" %}
 
 {% comment %}
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.17/index.global.min.js'></script>

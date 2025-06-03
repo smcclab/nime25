@@ -261,6 +261,7 @@
   type: concert
   image_url: assets/location/som-stairs.jpg
   allDay: false
+  chair: Prof Samantha Bennett (ANU)
 
 - id: papers-6
   title: Papers 6 
