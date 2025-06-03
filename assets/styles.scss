@@ -97,14 +97,21 @@ article {
     }
 }
 
-$ui-background: #7B8593ff;
-$ui-gradient: linear-gradient(90deg, rgb(116, 134, 177), rgb(99, 96, 104));
 
-$ui-0: #373840ff;
-$ui-1: rgb(116, 134, 177);
-$ui-2: rgb(55, 54, 67);
-$ui-3: rgb(99, 96, 104);
-$ui-4: #4d4bcd;
+$ui-0: #2e312d;
+$ui-1: #7e7a72;
+$ui-2: #8f95a5;
+$ui-3: #97a7b6;
+$ui-4: #565b68;
+$ui-5: #5f6e62;
+$ui-6: #b69255;
+$ui-7: #bd5c6f;
+
+$ui-background: $ui-0;
+
+
+$ui-gradient: linear-gradient(90deg, $ui-1, $ui-2);
+
 
 .nav-item {
     .active {
@@ -113,16 +120,16 @@ $ui-4: #4d4bcd;
 
     &:hover {
         font-weight: 900;
-        color: $ui-4;
+        color: $ui-3;
     }
 }
 
 .container a, main a {
-    color: $ui-4;
+    color: $ui-5;
     font-weight: 500;
     
     &:hover {
-        color: #fff;
+        color: #FFF;
         background: $ui-gradient !important;
     }
 }
@@ -165,7 +172,7 @@ $ui-4: #4d4bcd;
   @extend %callout-box;
 }
 
-$info-color: $ui-3;
+$info-color: $ui-6;
 
 .info-box {
   @extend %callout-box;
@@ -173,7 +180,7 @@ $info-color: $ui-3;
   background: get-custom-color-level($info-color, 4);
 }
 
-$warning-color: #FF4F00;
+$warning-color: $ui-7;
 
 .warning-box {
     @extend %callout-box;
