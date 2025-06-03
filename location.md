@@ -1,10 +1,54 @@
 ---
 layout: page  
-title: "Location: About Canberra and the ANU"
+title: "Getting to Canberra and the ANU"
 description: Local information about Canberra and the ANU and venues that will be used for NIME2025.
 image: /assets/location/smc-students.jpg
 permalink: /location/
 ---
+
+
+## Transport
+
+The most common ways to arrive in Canberra from international destinations are by flight or via the Murrays bus.
+
+If your international flight arrives in Sydney, we highly recommend taking the [Murrays bus](https://www.murrays.com.au) from Sydney International Airport. The journey takes approximately 3 hours and arrives in Canberra City Centre. The bus stop is a 10-minute walk to the ANU campus and the suggested accommodation options listed below.
+
+If your international flight arrives in Melbourne or another domestic city (or if you are flying in from Sydney), you will most likely arrive at Canberra Airport. It takes approximately 35 minutes to reach Canberra City by bus (Line 3). Uber and taxi services are also available at the airport, with a typical travel time of 15–20 minutes to the city centre. You can find more information [here](https://www.canberraairport.com.au/transport).
+
+## Accommodation
+
+There are many accommodation options nearby ANU campus and around Canberra's city centre that are walking distance to the conference venues.
+
+Below are a few (personal) recommendations, but please feel free to choose accommodation that best suits your needs and budget.
+
+Within walking distance (note: these are generally more expensive during conference dates):
+- Peppers Gallery Hotel Canberra
+- Quest Canberra City Walk
+- Meriton Suites Canberra
+- Avenue Hotel Canberra
+- Adina Serviced Apartments Canberra James Court
+
+Along the light rail line (more budget-friendly, quick and convenient—about 20 minutes to the main conference venue):
+- Madison Capital Executive Apartments
+- Canberra Rex Hotel
+- Canberra Accommodation Centre (it’s not bad, but bath will be shared)
+- Deco Hotel Canberra
+- Pavilion On Northbourne
+- Mantra MacArthur Hotel
+
+
+## Food and Drink
+
+There are many options for purchasing food and drink on ANU campus. The area around Kambri has [cafés, restaurants and a pub](https://kambri.com.au/eat-drink-shop/).
+
+Canberra has many [excellent coffee shops](https://www.timeout.com/australia/restaurants/best-places-coffee-in-canberra) and [restaurants](https://visitcanberra.com.au/articles/10-casual-restaurants-worth-travelling-for-in-canberra).
+
+## Map of Venues
+
+- [Kambri to Big Band Room](https://maps.app.goo.gl/J2GaArRxdY42mBCLA)
+
+
+## Location: About Canberra and the ANU
 
 Canberra is the capital city of Australia and home to around 450,000 people. 
 We acknowledge the Ngunnawal people as traditional custodians of this land and recognise any other people or families with connection to the lands of the ACT and region.
@@ -37,37 +81,4 @@ The ANU School of Computing has origins in courses dating back to 1971, entering
 In 2019, the [Kambri precinct and Cultural Centre](https://kambri.com.au/venues/cultural-centre/) opened at ANU including four flexible lecture/performance spaces, cafés and dining venues, and state-of-the-art classrooms, teaching, and study spaces. Kambri means “meeting place” to Aboriginal custodians of Canberra and is the source of our city’s name. Kambri will be the central location for NIME2025.
 
 Recent relevant events at ANU include [OzCHI 2022](http://www.ozchi.org/2022/), the [Australasian Computer Music Conference (ACMC) in 2020](https://australasian-computer-music-association.github.io/acmc2020/index.html) (online), the Biennial Conference of the [International Association for the Study of Popular Music in 2019](https://www.iaspm.net/iaspm-xx-canberra-2019-proceedings-are-online/) and the [International Conference on Audio Display (ICAD) in 2016](https://www.icad.org/icad2016/).
-
-## Practical Information
-
-### Food and Drink
-
-There are many options for purchasing food and drink on ANU campus. The area around Kambri has [cafés, restaurants and a pub](https://kambri.com.au/eat-drink-shop/).
-
-Canberra has many [excellent coffee shops](https://www.timeout.com/australia/restaurants/best-places-coffee-in-canberra) and [restaurants](https://visitcanberra.com.au/articles/10-casual-restaurants-worth-travelling-for-in-canberra).
-
-### Accomodation
-
-There are many accommodation options nearby ANU campus and around Canberra's city centre that are walking distance to the conference venues.
-
-Below are a few (personal) recommendations, but please feel free to choose accommodation that best suits your needs and budget.
-
-Within walking distance (note: these are generally more expensive during conference dates):
-- Peppers Gallery Hotel Canberra
-- Quest Canberra City Walk
-- Meriton Suites Canberra
-- Avenue Hotel Canberra
-- Adina Serviced Apartments Canberra James Court
-
-Along the light rail line (more budget-friendly, quick and convenient—about 20 minutes to the main conference venue):
-- Madison Capital Executive Apartments
-- Canberra Rex Hotel
-- Canberra Accommodation Centre (it’s not bad, but bath will be shared)
-- Deco Hotel Canberra
-- Pavilion On Northbourne
-- Mantra MacArthur Hotel
-
-## Map of Venues
-
-- [Kambri to Big Band Room](https://maps.app.goo.gl/J2GaArRxdY42mBCLA)
 
