@@ -9,7 +9,7 @@ The program and website are still under construction, as we are waiting for addi
 Please check the website again later. Thank you for your understanding.
 
 {: .info-box}
-A list of all accepted papers, music, and workshops is [here]({% link program-list.md %})
+A list of all accepted papers, music, and workshops is listed [here by track]({% link program-by-track.md %}) and [here by session]({% link program-by-session.md %}).
 
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}

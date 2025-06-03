@@ -1,10 +1,9 @@
 ---
 layout: page  
-title: Program List
+title: Program by Track
 description: A list of all works to be presented at NIME2025
-permalink: /program-list/
+permalink: /program-by-track/
 ---
-
 
 <h2>Papers:</h2>
 
