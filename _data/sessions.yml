@@ -69,7 +69,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: concert-0
+- id: concert-1
   title: Opening Concert
   chair: TBA
   date: Tuesday 2025-06-24 19:00-21:00 AEST
@@ -167,7 +167,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: concert2
+- id: concert-2
   title: Concert 2
   chair: TBA
   date: Wednesday 2025-06-25 19:00-20:30 AEST
@@ -179,7 +179,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: night1
+- id: concert-3
   title: Night Concert 1
   chair: TBA
   date: Wednesday 2025-06-25 21:00-23:00 AEST
@@ -288,7 +288,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: installation-1
+- id: installations-1
   title: Installation Viewing
   chair: TBA
   date: Thursday 2025-06-26 17:00-19:00 AEST
@@ -301,25 +301,25 @@
   allDay : false
 
 
-- id: concert3
-  title: Concert 3
+- id: concert-4
+  title: Studio Concert
   chair: TBA
   date: Thursday 2025-06-26 19:00-20:30 AEST
   start: '2025-06-26T19:00:00'
-  end: '2025-06-26T21:00:00'
-  location: "Kambri Drama Theatre"
+  end: '2025-06-26T20:00:00'
+  location: "School of Music Recording Studio"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: night2
-  title: Night Concert 2
+- id: concert-5
+  title: Concert 5
   chair: TBA
-  date: Thursday 2025-06-26 21:00-23:00 AEST
-  start: '2025-06-26T21:00:00'
-  end: '2025-06-26T23:00:00'
-  location: "Big Band Room"
+  date: Thursday 2025-06-26 20:30-22:30 AEST
+  start: '2025-06-26T20:30:00'
+  end: '2025-06-26T22:30:00'
+  location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/charles-martin-ventilation.jpg
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
@@ -410,7 +410,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: installation-2
+- id: installations-2
   title: Installation Viewing
   chair: TBA
   date: Friday 2025-06-27 17:00-19:00 AEST
@@ -422,8 +422,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-
-- id: concert4
+- id: concert-6
   title: Concert 6
   chair: TBA
   date: Friday 2025-06-27 19:00-20:30 AEST
@@ -435,7 +434,7 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
-- id: night3
+- id: concert-7
   title: Club Concert and After Party
   chair: TBA
   date: Friday 2025-06-27 21:00-23:59 AEST
