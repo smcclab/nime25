@@ -43,6 +43,11 @@ There are many options for purchasing food and drink on ANU campus. The area aro
 
 Canberra has many [excellent coffee shops](https://www.timeout.com/australia/restaurants/best-places-coffee-in-canberra) and [restaurants](https://visitcanberra.com.au/articles/10-casual-restaurants-worth-travelling-for-in-canberra).
 
+## Climate
+
+While Canberra is not very cold by world standards, it is famously cooler than most other Australian cities.
+[Typical min/max temperatures](http://www.bom.gov.au/climate/averages/tables/cw_070282.shtml) at the end of June are 0C--12C. Puffy jackets are a [Canberra meme!](https://www.facebook.com/photo.php?fbid=10157513037357125&vanity=abccanberra&slug=a.81880677124)
+
 ## Map of Venues
 
 - [Kambri to Big Band Room](https://maps.app.goo.gl/J2GaArRxdY42mBCLA)
