@@ -16,7 +16,12 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 - June 24--27, 2025 
 - The Australian National University, Ngunnawal Country, Canberra, Australia
 
-The call for submissions has been released [here](https://nime2025.org/call/). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
+The [call for submissions](https://nime2025.org/call/) has closed and the [program is available]({% link program.md %}). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
+
+{: .info-box}
+The online platforms for NIME2025 are this website, and the [NIME forum's NIME2025 category](https://forum.nime.org/c/nime2025/20). If you have registered and do not have access to the forum, please get in touch.
+
+
 
 [**New Interfaces for Musical Expression (NIME)**](https://nime.org), is an international conference about new musical interfaces, their artistic use and the technologies involved in building them. Researchers from all over the world share their knowledge and late breaking work during the conference. The conference started as a workshop at the CHI conference in 2001 and, since then, has been held annually around the world.
 
@@ -46,8 +51,7 @@ All dates are 23:59 AoE [(Anywhere on Earth)](https://www.timeanddate.com/time/z
 - **19 February, 2025: Workshop submissions due in CMT**
 - **2 April, 2025: Acceptance decisions and reviews released**
 - **30 April, 2025: Camera ready and presenter registration deadline**
-- **24 June, 2025: NIME Workshops**
-- **25 - 27 June, 2025: NIME Conference**
+- **24 - 27 June, 2025: NIME Conference**
 
 Submission information for all tracks is available here: [https://nime2025.org/submissions/](https://nime2025.org/submissions/). 
 
