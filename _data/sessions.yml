@@ -143,16 +143,38 @@
   allDay : false
 
 - id: keynote-1
-  title: Keynote 1
-  chair: TBA
+  title: "Keynote: Clare Cooper"
+  chair: Pia van Gelder
   date: Wednesday 2025-06-25 14:30-15:30 AEST
   start: '2025-06-25T14:30:00'
   end: '2025-06-25T15:30:00'
   location: "Kambri Cinema"
   type: plenary
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/keynotes/cooper.jpg
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+  abstract: |
+    **title**
+
+    Future Histories of Sonic Entanglements
+
+    **abstract**
+
+    Cooper invites participants to spend some time in a massive, messy, evolving translocal interface comprised of millions of inputs. This keynote takes a pluriversal, wobbly 2035 as it’s starting point and walks us back to an array of present-day predicaments, assumptions, and toolkits. We’ll feed on drivers of change to navigate future contexts, and future histories.
+    
+    As animated and willing participants of one slice of this hyperobject, can we poke at some of the objections and objectives that paralyse and stunt us to find out more about our entangled futures? What has been gleefully abandoned? What has been boldly launched? What has been lovingly maintained?
+    
+    **bio**
+    
+    Clare Cooper (she/her) is currently a design researcher, educator, and noise harpist. Fruitfully attention-deficit her music, design, and research has been presented in 16 countries over the last two decades. She is the co-founder of experimental arts festival the NOW now, and established large-scale improvising orchestras in Sydney (Splinter Orchestra 2001-present) and in Berlin (Splitter Orchester 2009-present), as well as the community skill-share space Frontyard Projects (2016-present) on Gadigal land.
+    
+    Clare is a Senior Lecturer in Design at The University of Sydney, partnering with community health and arts organisations to create strategic advocacy campaigns using novel design futuring methods that she has developed in her research. She recently led the Australian chapter of the ERC-funded Sonic Street Technologies research project. Cooper’s research and sonic works have been published internationally.
+    
+    More details here:
+
+    - [Clare's personal projects site](https://www.gutstring.net)
+    - [Sydney University profile](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/clare-cooper.html)
+    - [LinkedIn](https://www.linkedin.com/in/clare-m-cooper-3099325/)
 
 - id: papers-3
   title: Papers 3
@@ -192,18 +214,6 @@
   allDay : false
 
 # Day 2 - Thursday
-
-# - id: research2
-#   title: NIME Day 2
-#   chair: TBA
-#   date: Thursday 2025-06-26 09:00-17:00 AEST
-#   start: '2025-06-26T09:00:00'
-#   end: '2025-06-26T17:00:00'
-#   location: "Kambri Cinema"
-#   type: papers
-#   image_url: assets/charles-martin-ventilation.jpg
-#   video_url: https://www.youtube.com/live/aL8uG1PRkIY
-#   allDay : false
 
 - id: registration3
   title: Registration
@@ -388,16 +398,36 @@
   allDay : false
 
 - id: keynote-2
-  title: Keynote 2
-  chair: TBA
+  title: "Keynote: Peter Blamey"
+  chair: Charles Martin
   date: Friday 2025-06-27 14:30-15:30 AEST
   start: '2025-06-27T14:30:00'
   end: '2025-06-27T15:30:00'
   location: "Kambri Cinema"
   type: plenary
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/keynotes/blamey.jpg
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+  abstract: |
+    **keynote title**
+
+    Novel Interactions with Materials and Energies/Entangle Me in Noise
+
+    **keynote description**
+
+    This keynote, rather than a traditional lecture, is instead made up of realisations of several interrelated performance works. These works all explore the experiential capacities of small-scale and local energy sourcing in relation to environmental and artefactual forms of light, where sound, alongside its aesthetic aspects, functions as an indicator of physical processes in action. Using everyday materials and simple, open-form performative strategies that place performer and device on an equal footing, these works both play on and with the possibilities for realising, rethinking and relating to the immaterial energetic aspects of our environment.
+
+    **bio**
+
+    [Peter Blamey](https://peterblamey.net) is a Sydney-based artist, living on Gadigal land. His practice is often sound-focused and accomplished with a minimum of means, and includes performances, videos, recordings and installations. Broadly speaking, his work explores (amongst other things) the interconnected themes of energies and residues, often through reimagining our encounters with everyday technologies and the physical world, as well as our experiences of energy generation, use, and waste.
+
+    Peter has performed extensively over the last twenty-five years, including appearances at innumerable experimental music and arts festivals, including Dark Mofo, What is Music?, Liquid Architecture, Electrofringe, Avantwhatever, the Biennale of Sydney, Cementa, ACMA, and ISEA, along with countless other shows. He has collaborated with a range of local and international artists, including Jim Denley, Dale Gorfinkel, and Kusum Normoyle (in the duo Hard Hat), and is currently one third of the group Sodium Tail. Some time ago Peter completed a BA (Hons) Comm at the University of Technology Sydney, before receiving a PhD from the University of Western Sydney in 2008 for research on simple acoustic phenomena and post-Cagean experimental music.
+
+    In 2014, Peter took part in the Instrument Builders Project, a collaboration between Australian and Indonesian artists, resulting in exhibitions in Yogyakarta and at the National Gallery of Victoria. Between 2020 and 2022, his work was included in the touring exhibition _Material Sound_ (Qld, NSW, Vic, Tas), curated by Caleb Kelly. His work has also been exhibited in venues large and small, including Artspace, UTS Gallery, SCA Gallery, SNO projects, Firstdraft, SCALA, 55 Sydenham Rd, ICAN, China Heights, and Serial Space (all NSW), Bus (Vic), West Space (Vic), CACSA (SA), and the Black Mountain College Museum + Art Center, Asheville, NC (USA).
+
+    **photo caption**
+
+    Peter Blamey, live, Tempe Jets, Tempe, NSW, 2022. Photo: Nick Dan.
 
 - id: plenary-town-hall
   title: Town Hall Plenary
