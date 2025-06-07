@@ -29,8 +29,7 @@ layout: default
     {{ page.entry.abstract | markdownify }}
     {% endif %}
 
-    {% assign session_papers = site.data.proceedings | where: "session_code", page.entry.id %}
-    {% unless session_papers == empty %}
+{% assign session_papers = site.data.proceedings | where_exp: "paper", "paper.session_code contains page.entry.id" %}    {% unless session_papers == empty %}
 
     <h2>Presentations:</h2>
     <ul>
