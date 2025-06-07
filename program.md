@@ -77,7 +77,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
 <h2>Sessions</h2>
 
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="row row-cols-1 row-cols-md-3 row-cols-sm-2 g-4">
   {% for session in sorted_sessions %}
     {% capture session_url %}{{ session.id | datapage_url: "sessions" | relative_url }}{% endcapture %}
     <div class="col">
