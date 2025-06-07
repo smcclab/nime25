@@ -42,7 +42,10 @@ layout: default
       {% if page.entry.speaker %}<li>Presenter: {{ page.entry.speaker }}</li>{% endif %}
       {% if page.entry.location %}<li>Location: {{ page.entry.location }}</li>{% endif %}
     </ul>
+
+    {% if page.entry.abstract %}
     <h2>Abstract:</h2>
-    <p>{{ page.entry.abstract }}</p>
+    {{ page.entry.abstract | markdownify }}
+    {% endif %}
   </div>
 </article>
