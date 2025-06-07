@@ -25,7 +25,12 @@ layout: default
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
     </ul>
 
+    {% if page.entry.abstract %}
+    {{ page.entry.abstract | markdownify }}
+    {% endif %}
+
     {% assign session_papers = site.data.proceedings | where: "session_code", page.entry.id %}
+    {% unless session_papers == empty %}
 
     <h2>Presentations:</h2>
     <ul>
@@ -42,6 +47,8 @@ layout: default
     {% if page.entry.type == "papers" %}
     <p>Papers have 5 minutes for questions and changeover. Speaking time is 5, 10, or 15 minutes depending on the length (short, medium, long) of each paper.</p>
     {% endif %}
+
+    {% endunless %}
 
   </div>
 </article>
