@@ -6,6 +6,9 @@ image: /assets/location/smc-students.jpg
 permalink: /location/
 ---
 
+## Accessibility
+
+Please see our [accessibility FAQ]({% link accessibility.md %}) page. If you have any concerns or questions about accessibility, please contact [Alexander Hunter](mailto:alexander.hunter@anu.edu.au).
 
 ## Transport
 
