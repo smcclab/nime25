@@ -60,9 +60,9 @@
 - id: reception
   title: Welcome
   chair: TBA
-  date: Tuesday 2025-06-24 18:00-19:00 AEST
+  date: Tuesday 2025-06-24 18:00-18:30 AEST
   start: '2025-06-24T18:00:00'
-  end: '2025-06-24T19:00:00'
+  end: '2025-06-24T18:30:00'
   location: "Kambri Foyer"
   type: plenary
   image_url: assets/location/kambri-cultural-centre.jpg
@@ -72,9 +72,9 @@
 - id: concert-1
   title: Opening Concert
   chair: TBA
-  date: Tuesday 2025-06-24 19:00-21:00 AEST
-  start: '2025-06-24T19:00:00'
-  end: '2025-06-24T21:00:00'
+  date: Tuesday 2025-06-24 18:30-20:30 AEST
+  start: '2025-06-24T18:30:00'
+  end: '2025-06-24T20:30:00'
   location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/location/kambri-cultural-centre.jpg
@@ -202,7 +202,7 @@
   allDay : false
 
 - id: concert-3
-  title: Night Concert 1
+  title: Concert 3
   chair: TBA
   date: Wednesday 2025-06-25 21:00-23:00 AEST
   start: '2025-06-25T21:00:00'
@@ -403,7 +403,7 @@
   date: Friday 2025-06-27 14:30-15:30 AEST
   start: '2025-06-27T14:30:00'
   end: '2025-06-27T15:30:00'
-  location: "Kambri Cinema"
+  location: "Kambri Drama Theatre"
   type: plenary
   image_url: assets/keynotes/blamey.jpg
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
