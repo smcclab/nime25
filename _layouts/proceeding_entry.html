@@ -3,9 +3,23 @@ layout: default
 ---
 
 <!-- TODO: un comment this when all proceedings entries have a session. -->
+{% comment %}
 {% if page.entry.session_code %}
 {% capture session_url %}{{ page.entry.session_code | datapage_url: "sessions" | relative_url }}{% endcapture %}
 {% endif %}
+<a href="{{ session_url }}">{{ page.entry.session_code }}</a>
+{% endcomment %}
+
+{% if page.entry.session_code %}
+  {% assign session_codes = page.entry.session_code | split: "," %}
+  {% assign session_urls = "" | split: "" %}
+  {% for session_code in session_codes %}
+    {% assign trimmed_code = session_code | strip %}
+    {% assign session_url = trimmed_code | datapage_url: "sessions" | relative_url %}
+    {% assign session_urls = session_urls | push: session_url %}
+  {% endfor %}
+{% endif %}
+
 
 <article>
   {% if page.title %}
@@ -32,7 +46,16 @@ layout: default
     {% endif %}
     <ul>
       {% if page.entry.format %}<li>Format: {{ page.entry.format }}</li>{% endif %}
-      {% if page.entry.session_code %}<li>Session: <a href="{{ session_url }}">{{ page.entry.session_code }}</a></li>{% endif %}
+      {% if page.entry.session_code %}
+      <li>Session: 
+        {% assign num = session_codes.size | minus: 1 %}
+        {% for i in (0..num) %}
+          {% if session_codes[i] %}
+          <a href="{{ session_urls[i] }}">{{ session_codes[i] | strip }}</a>{% unless forloop.last %}, {% endunless %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      </li>
       {% if site.link_pdfs %}{% if page.entry.paper_url %}<li><a href="{{ page.entry.paper_url }}">Paper link</a></li>{% endif %}{% endif %}
       {% if page.entry.video_url %}<li><a href="{{ page.entry.video_url }}">Video link</a></li>{% endif %}
       {% if page.entry.slides_url %}<li><a href="{{ page.entry.slides_url }}">Slides link</a></li>{% endif %}
