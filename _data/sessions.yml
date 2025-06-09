@@ -160,6 +160,7 @@
   location: "Kambri Cinema"
   type: plenary
   image_url: assets/keynotes/cooper.jpg
+  image_credit: "Ryley Lawson"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
   abstract: |
