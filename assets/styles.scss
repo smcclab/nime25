@@ -90,7 +90,7 @@ article {
     .card-img-top {
         width: 100%;    /* Make image width responsive to card width */
         aspect-ratio: 1 / 1;  /* Maintain square aspect ratio */
-        object-fit:contain;
+        object-fit:cover;
     }
     .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
         text-align: center;
