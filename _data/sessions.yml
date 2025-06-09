@@ -77,7 +77,8 @@
   end: '2025-06-24T20:30:00'
   location: "Kambri Drama Theatre"
   type: concert
-  image_url: assets/location/kambri-cultural-centre.jpg
+  image_url: assets/submissions/238.jpg
+  image_credit: "Leah Barclay; Toby Gifford"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -113,7 +114,8 @@
   end: '2025-06-25T10:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/68.jpg
+  image_credit: "Qiaosheng Lyu; Ryo Ikeshiro"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -126,7 +128,8 @@
   end: '2025-06-25T12:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/115.jpg
+  image_credit: "Victor Shepardson; Halla Steinunn Stefánsdóttir; Thor Magnusson"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -138,7 +141,8 @@
   end: '2025-06-25T14:30:00'
   location: "Kambri Foyer"
   type: posters
-  image_url: assets/location/kambri-cultural-centre.jpg
+  image_url: assets/submissions/8.jpg
+  image_credit: "Sabina Hyoju Ahn; Ryan Millett; Seyeon Park"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -185,7 +189,8 @@
   end: '2025-06-25T17:00:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/11.jpg
+  image_credit: "Pasquale Mainolfi"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -197,7 +202,8 @@
   end: '2025-06-25T20:30:00'
   location: "Kambri Drama Theatre"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/257.jpg
+  image_credit: "Sophie Rose"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -209,7 +215,8 @@
   end: '2025-06-25T23:00:00'
   location: "Big Band Room"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/183.jpg
+  image_credit: "Lilian Zhao"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -222,6 +229,7 @@
   location: "Kambri Foyer"
   type: admin
   image_url: assets/location/kambri-cultural-centre.jpg
+  # image_credit: "Charles Martin"
   allDay : false
 
 - id: papers-4
@@ -233,7 +241,8 @@
   end: '2025-06-26T10:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/96.jpg
+  image_credit: "Xinran Chen; Iurii Kuzmin; Mela Bettega; Raul Masu"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -246,7 +255,8 @@
   end: '2025-06-26T12:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/131.jpg
+  image_credit: "Sandy Ma"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -258,7 +268,8 @@
   end: '2025-06-26T14:30:00'
   location: "Kambri Foyer"
   type: posters
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/135.jpg
+  image_credit: "Darlene Castro"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -270,6 +281,7 @@
   location: "School of Music Recording Studio (Level 5)"
   type: concert
   image_url: assets/location/som-stairs.jpg
+  image_credit: "Charles Martin"
   allDay: false
   chair: Prof Samantha Bennett (ANU)
 
@@ -282,7 +294,8 @@
   end: '2025-06-26T15:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/37.jpg
+  image_credit: "Mat Dalgleish"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -295,7 +308,8 @@
   end: '2025-06-26T17:00:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/21.jpg
+  image_credit: "Jasmine Butt; Benedict Gaster; Nathan Renney; Maisie Palmer"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -307,7 +321,8 @@
   end: '2025-06-26T19:00:00'
   location: "School of Music"
   type: installations
-  image_url: assets/location/som-stairs.jpg
+  image_url: assets/submissions/52.jpg
+  image_credit: "Xuedan Gao; Xinchen Liu"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -320,7 +335,8 @@
   end: '2025-06-26T20:00:00'
   location: "School of Music Recording Studio"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/location/som-stairs.jpg
+  image_credit: "Charles Martin"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -332,7 +348,8 @@
   end: '2025-06-26T22:30:00'
   location: "Kambri Drama Theatre"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/95.jpg
+  image_credit: "Ludwig Zeller; Anselm Bauer"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -357,6 +374,7 @@
   location: "Kambri Foyer"
   type: admin
   image_url: assets/location/kambri-cultural-centre.jpg
+  # image_credit: "Charles Martin"
   allDay : false
 
 - id: papers-8
@@ -368,7 +386,8 @@
   end: '2025-06-27T10:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/195.jpg
+  image_credit: "Yann Seznec"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -381,7 +400,8 @@
   end: '2025-06-27T12:30:00'
   location: "Kambri Cinema"
   type: papers
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/58.jpg
+  image_credit: "David Kim-Boyle"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -393,7 +413,8 @@
   end: '2025-06-27T14:30:00'
   location: "Kambri Foyer"
   type: posters
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/184.jpg
+  image_credit: "Davor Vincze; Roberto Alonso; Peter Nelson"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -406,6 +427,7 @@
   location: "Kambri Drama Theatre"
   type: plenary
   image_url: assets/keynotes/blamey.jpg
+  image_credit: "Nick Dan"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
   abstract: |
@@ -438,6 +460,7 @@
   location: "Kambri Cinema"
   type: plenary
   image_url: assets/charles-martin-ventilation.jpg
+  
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -449,7 +472,8 @@
   end: '2025-06-27T19:00:00'
   location: "School of Music"
   type: installations
-  image_url: assets/location/som-stairs.jpg
+  image_url: assets/submissions/159.jpg
+  image_credit: "Jacob Hedges; Daniel Garrett; Jaxon Sharp"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -461,7 +485,8 @@
   end: '2025-06-27T20:30:00'
   location: "Big Band Room"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/293.jpg
+  image_credit: "Botao Hu; Yuemin Huang; Mingze Chai; Xiaobo Hu; Yilan Tao; Rem RunGu Lin"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
@@ -473,6 +498,7 @@
   end: '2025-06-27T23:59:00'
   location: "Shadows Nightclub"
   type: concert
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/submissions/262.jpg
+  image_credit: "Tara Pattenden"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
