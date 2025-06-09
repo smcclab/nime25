@@ -8,8 +8,9 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 ---
 
 <div style="position: relative; padding-bottom: 2em; width: 80%; margin: 0 auto;">
-  <lite-youtube videoid="O9L2ZYHiMjY"></lite-youtube>
+  <lite-youtube videoid="qh237XAfRto"></lite-youtube>
 </div>
+
 
 ## About NIME2025
 
