@@ -56,7 +56,13 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
     var calendar = new FullCalendar.Calendar(calendarEl, {
         themeSystem: 'bootstrap5',
         timeZone: 'AEST',
-        initialView: 'timeGridWeek',
+        initialView: 'timeGridFourDay',
+        views: {
+          timeGridFourDay: {
+            type: 'timeGrid',
+            duration: { days: 4 }
+          }
+        },
         events: sessionsData,
         initialDate: firstEventDate,
         slotEventOverlap: false,
