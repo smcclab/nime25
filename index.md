@@ -15,20 +15,26 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 ## About NIME2025
 
 - June 24--27, 2025 
-- The Australian National University, Ngunnawal Country, Canberra, Australia
+- The Australian National University, Ngunnawal Country, Canberra, Australia and Online
 
 The [call for submissions](https://nime2025.org/call/) has closed and the [program is available]({% link program.md %}). If you have any questions, please ask on the [forum](https://forum.nime.org) where committee and community members will be able to help. 
+
+## NIME2025 at a glance
 
 {: .info-box}
 The online platforms for NIME2025 are this website, and the [NIME forum's NIME2025 category](https://forum.nime.org/c/nime2025/20). If you have registered and do not have access to the forum, please get in touch.
 
-
-
-[**New Interfaces for Musical Expression (NIME)**](https://nime.org), is an international conference about new musical interfaces, their artistic use and the technologies involved in building them. Researchers from all over the world share their knowledge and late breaking work during the conference. The conference started as a workshop at the CHI conference in 2001 and, since then, has been held annually around the world.
+- [program]({% link program.md %})
+- [accessibility]({% link accessibility.md %})
+- [local information]({% link location.md %})
+- [remote information and streaming links](https://forum.nime.org/c/nime2025/20)
+- [getting started online](https://forum.nime.org/t/welcome-to-nime2025/807)
 
 ## A bit about _entangled NIME_
 
-The theme of NIME2025 is _**­entangled NIME**_. This theme recognises the multilayered contexts of activity and impact involved in music making with new technology. In an era where music creation and performance are increasingly intertwined with social, cultural, and environmental factors, entanglement emphasises how musical interfaces are not simply tools but active agents in the complex web of human and technological relationships. From personal expression to collective experiences, from creative spontaneity to long-term artistic evolution, entangled NIME seeks to explore how new musical interfaces shape, and are shaped by, the environments, communities, and individuals they engage.
+[**New Interfaces for Musical Expression (NIME)**](https://nime.org), is an international conference about new musical interfaces, their artistic use and the technologies involved in building them. Researchers from all over the world share their knowledge and late breaking work during the conference. The conference started as a workshop at the CHI conference in 2001 and, since then, has been held annually around the world.
+
+The theme of NIME2025 is _**entangled NIME**_. This theme recognises the multilayered contexts of activity and impact involved in music making with new technology. In an era where music creation and performance are increasingly intertwined with social, cultural, and environmental factors, entanglement emphasises how musical interfaces are not simply tools but active agents in the complex web of human and technological relationships. From personal expression to collective experiences, from creative spontaneity to long-term artistic evolution, entangled NIME seeks to explore how new musical interfaces shape, and are shaped by, the environments, communities, and individuals they engage.
  
 Through this lens, we invite researchers, artists, and technologists to reflect on how musical interfaces not only respond to immediate user input but also evolve with the musician over time, adapt to diverse cultural practices, and dynamically interact with the broader societal and ecological landscapes. Whether it’s the integration of AI as a co-creator, the ethical considerations of sustainable design, or the incorporation of gestures and environmental factors into performance, the entangled NIME theme calls for deeper examination of the reciprocal and non-linear interactions that emerge between musicians, technologies, and the worlds they inhabit.
 
