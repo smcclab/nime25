@@ -95,9 +95,9 @@ mask_with_problems = (
     proceedings_df['problems'].astype(str).str.strip().ne('')
 )
 
-proceedings_with_problems_df = proceedings_df[mask_with_problems]
+proceedings_with_problems_df = proceedings_df[mask_with_problems].sort_values(by='id')
 proceedings_with_problems_df.to_csv('../_data/proceedings_with_problems.csv', index=False)
-proceedings_without_problems_df = proceedings_df[~mask_with_problems]
+proceedings_without_problems_df = proceedings_df[~mask_with_problems].sort_values(by='id')
 proceedings_without_problems_df.to_csv('../_data/proceedings.csv', index=False)
 
 # Output to CSV
