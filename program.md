@@ -94,7 +94,6 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
             <strong>Date:</strong> {{ session.date | date: "%A, %B %d, %Y" }}<br>
             <strong>Time:</strong> {{ session.date | date: "%I:%M %p" }} AEST<br>
             <strong>Location:</strong> {{ session.location }}<br>
-            <strong>Chair:</strong> {{ session.chair }}
           </p>
         </div>
         <div class="card-footer">
