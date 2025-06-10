@@ -330,6 +330,10 @@
   image_url: assets/location/som-stairs.jpg
   image_credit: "Charles Martin"
   allDay : false
+  abstract: |
+    Buffet dinner provided at the Athenauem, Ground Floor, ANU School of Music. 
+    
+    During this time, you will be able to grab dinner and a drink and then peruse installations throughout the ANU School of Music building.
 
 - id: installations-1
   title: Installation Viewing
