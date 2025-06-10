@@ -17,7 +17,10 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
 {% comment %}
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.17/index.global.min.js'></script>
 {% endcomment %}
+<script src='https://cdn.jsdelivr.net/npm/moment@2.29.4/min/moment.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/moment-timezone@0.5.40/builds/moment-timezone-with-data.min.js'></script>
 <script src='{% link assets/imports/fullcalendar@6.1.17/index.global.min.js %}'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/moment-timezone@6.1.17/index.global.min.js'></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     let sessionsData = {{ sorted_sessions | jsonify }};
@@ -55,7 +58,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
         themeSystem: 'bootstrap5',
-        timeZone: 'AEST',
+        timeZone: 'local',
         initialView: 'timeGridFourDay',
         views: {
           timeGridFourDay: {
@@ -66,18 +69,94 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
         events: sessionsData,
         initialDate: firstEventDate,
         slotEventOverlap: false,
+        nowIndicator: true,
     });
     calendar.render();
-
-    <!-- experiments with the session data... -->
-    console.log(sessionsData)
-    var event = calendar.getEventById('research1')
-    console.log(event)
-
-    var start = event.start // a property (a Date object)
-    console.log(start.toISOString()) // "2018-09-01T00:00:00.000Z"
+    const timezoneSelector = document.getElementById('timezone-selector');
+    const timezoneDisplay = document.getElementById('current-timezone-display');
+    // Function to populate timezone options
+    async function populateTimezones() {
+        try {
+            const response = await fetch('{% link assets/timezones.json %}');
+            const timezones = await response.json();
+            // Clear existing options except the first two (local and UTC)
+            const existingOptions = timezoneSelector.querySelectorAll('option');
+            for (let i = 2; i < existingOptions.length; i++) {
+                existingOptions[i].remove();
+            }
+            // Add Australia/Canberra as the first option after local and UTC
+            const canberraOption = document.createElement('option');
+            canberraOption.value = 'Australia/Canberra';
+            canberraOption.textContent = 'Australia / Canberra (Default)';
+            canberraOption.selected = true; // Set as selected by default
+            timezoneSelector.appendChild(canberraOption);
+            // Add timezone options
+            timezones.forEach(timezone => {
+                const option = document.createElement('option');
+                option.value = timezone;
+                // Create a more readable display name
+                const displayName = timezone.replace(/\//g, ' / ').replace(/_/g, ' ');
+                option.textContent = displayName;
+                timezoneSelector.appendChild(option);
+            });
+            console.log(`Added ${timezones.length} timezone options`);
+        } catch (error) {
+            console.error('Failed to load timezones:', error);
+        }
+    }
+    // Load timezones when page loads
+    populateTimezones();
+    // Add the event listener
+    timezoneSelector.addEventListener('change', function() {
+        const selectedTimezone = this.value;
+        updateTimezone(selectedTimezone);
+    });
+    // Function to update the timezone display
+    function updateTimezone(timezone) {
+        calendar.setOption('timeZone', timezone);
+        calendar.render();
+        if (!timezoneDisplay) return;
+        let displayText = 'Calendar Timezone: ';
+        if (timezone === 'local') {
+            displayText += 'Local Time';
+        } else if (timezone === 'UTC') {
+            displayText += 'UTC';
+        } else {
+            // Format timezone name for display
+            displayText += timezone.replace(/\//g, ' / ').replace(/_/g, ' ');
+        }
+        // Optional: Add current time in selected timezone
+        try {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString('en-US', {
+                timeZone: timezone === 'local' ? undefined : timezone,
+                hour12: false,
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            displayText += ` (${timeString})`;
+        } catch (error) {
+            // If timezone is invalid, just show the timezone name
+            console.warn('Invalid timezone for time display:', timezone);
+        }
+        timezoneDisplay.textContent = displayText;
+    }
+    // Initialize display on page load
+    updateTimezone('Australia/Canberra');
   });
 </script>
+
+<div>
+  Timezone:
+  <select id='timezone-selector'>
+    <option value='local'>local</option>
+    <option value='UTC'>UTC</option>
+  </select>
+  <span id='current-timezone-display' style='margin-left: 10px; font-weight: bold; color: #666;'>
+        Current: Local Time
+  </span>
+</div>
+
 <div id='calendar'></div>
 
 <h2>Sessions</h2>
