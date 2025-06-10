@@ -58,7 +58,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
         themeSystem: 'bootstrap5',
-        timeZone: 'local',
+        // timeZone: 'local',
         initialView: 'timeGridFourDay',
         views: {
           timeGridFourDay: {
