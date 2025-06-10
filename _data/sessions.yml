@@ -320,12 +320,24 @@
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
+- id: dinner
+  title: Buffet Dinner (School of Music Athenaeum)
+  date: Thursday 2025-06-26 17:30-19:30 AEST
+  start: '2025-06-26T17:30:00'
+  end: '2025-06-26T19:30:00'
+  location: "School of Music"
+  type: admin
+  # image_url: assets/submissions/52.jpg
+  # image_credit: "Xuedan Gao; Xinchen Liu"
+  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  allDay : false
+
 - id: installations-1
   title: Installation Viewing
   chair: TBA
-  date: Thursday 2025-06-26 17:00-19:00 AEST
+  date: Thursday 2025-06-26 17:00-20:30 AEST
   start: '2025-06-26T17:00:00'
-  end: '2025-06-26T19:00:00'
+  end: '2025-06-26T20:30:00'
   location: "School of Music"
   type: installations
   image_url: assets/submissions/52.jpg
@@ -337,9 +349,9 @@
 - id: concert-4
   title: Studio Concert
   chair: TBA
-  date: Thursday 2025-06-26 19:00-20:30 AEST
-  start: '2025-06-26T19:00:00'
-  end: '2025-06-26T20:00:00'
+  date: Thursday 2025-06-26 19:30-20:30 AEST
+  start: '2025-06-26T19:30:00'
+  end: '2025-06-26T20:30:00'
   location: "School of Music Recording Studio"
   type: concert
   image_url: assets/location/som-stairs.jpg
@@ -350,9 +362,9 @@
 - id: concert-5
   title: Concert 5
   chair: TBA
-  date: Thursday 2025-06-26 20:30-22:30 AEST
-  start: '2025-06-26T20:30:00'
-  end: '2025-06-26T22:30:00'
+  date: Thursday 2025-06-26 21:00-23:00 AEST
+  start: '2025-06-26T21:00:00'
+  end: '2025-06-26T23:00:00'
   location: "Kambri Drama Theatre"
   type: concert
   image_url: assets/submissions/95.jpg
