@@ -327,9 +327,8 @@
   end: '2025-06-26T19:30:00'
   location: "School of Music"
   type: admin
-  # image_url: assets/submissions/52.jpg
-  # image_credit: "Xuedan Gao; Xinchen Liu"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  image_url: assets/location/som-stairs.jpg
+  image_credit: "Charles Martin"
   allDay : false
 
 - id: installations-1
