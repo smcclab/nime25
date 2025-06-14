@@ -62,7 +62,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
         initialView: 'timeGridFourDay',
         views: {
           timeGridFourDay: {
-            type: 'timeGrid',a
+            type: 'timeGrid',
             duration: { days: 4 }
           }
         },
@@ -70,17 +70,18 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
         initialDate: firstEventDate,
         slotEventOverlap: false,
         nowIndicator: true,
-        eventContent: function(arg) {
-      const title = arg.event.title;
-      const subtitle = arg.event.extendedProps.subtitle;
-      return {
-        html:`
-          <div class="fc-event-title">
-            ${title}
-            ${subtitle ? `<div class="fc-event-subtitle" style="font-size: 0.85em; color:rgb(255, 255, 255);">${subtitle}</div>` : ''}
-          </div>`
-      };
-    }
+                eventContent: function(arg) {
+              const title = arg.event.title;
+              const subtitle = arg.event.extendedProps.subtitle;
+              return {
+                html:`
+                  <div class="fc-event-title">
+                    ${title}
+                    ${subtitle ? `<div class="fc-event-subtitle" style="font-size: 0.85em; color:rgb(255, 255, 255);">${subtitle}</div>` : ''}
+                  </div>
+                  `
+              };
+            }
     });
     calendar.render();
     const timezoneSelector = document.getElementById('timezone-selector');
@@ -183,9 +184,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
         {% endif %}
         <div class="card-body">
           <h5 class="card-title">
-            <a href="{{ session_url }}" class="text-decoration-none text-dark">
-              {{ session.title }} : {{ session.subtitle }}
-            </a>
+            <a href="{{ session_url }}" class="text-decoration-none text-dark">{{ session.title }}</a>
           </h5>
           <h6 class="card-subtitle mb-2 text-muted">{{ session.type | capitalize }} Session</h6>
           <p class="card-text">
