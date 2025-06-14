@@ -62,7 +62,7 @@ A list of all accepted papers, music, and workshops is listed [here by track]({%
         initialView: 'timeGridFourDay',
         views: {
           timeGridFourDay: {
-            type: 'timeGrid',
+            type: 'timeGrid',a
             duration: { days: 4 }
           }
         },
