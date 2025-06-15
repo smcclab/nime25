@@ -482,7 +482,7 @@
   end: '2025-06-27T17:00:00+10:00'
   location: "Kambri Cinema"
   type: plenary
-  image_url: assets/charles-martin-ventilation.jpg
+  image_url: assets/location/nime.jpg
   
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
