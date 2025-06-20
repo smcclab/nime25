@@ -87,7 +87,7 @@ proceedings_df = pd.concat([papers_filtered, music_filtered, workshops_filtered]
 
 proceedings_df['id'] = proceedings_df['id'].astype(int)
 proceedings_df['image_url'] = proceedings_df['id'].apply(lambda x: f"{x}.jpg")
-proceedings_df['paper_url'] = proceedings_df['id'].apply(lambda x: f"nime2025_{x}.pdf")
+# proceedings_df['paper_url'] = proceedings_df['id'].apply(lambda x: f"nime2025_{x}.pdf")
 
 # Create a mask for non-empty problems
 mask_with_problems = (
