@@ -51,8 +51,8 @@ Your submission's presentation falls under of the following four categories, as 
 
 |               | Oral Presentation                                                    | Poster                  |
 |---------------|-----------------------------------------------------------------------|-------------------------|
-| **Onsite**    | 5/10/15-minute presentation (short/medium/long paper) + Q&A           | A0 Physical Poster      |
-| **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video |
+| **Onsite**    | 5/10/15-minute presentation (short/medium/long paper) + Q&A           | A0 Physical Poster, in-person Q&A |
+| **Remote**    | Synchronous remote presentation (live during session) + Q&A          | 5-minute recorded video, asynchronous Q&A via the [forum](https://forum.nime.org/c/nime2025/20) |
 {: .table }
 
 **Optional**: Authors with **accepted** work attending the conference **onsite** are welcome to bring their system and demonstrate it (if applicable) during the poster sessions. For example, if you will give an onsite oral presentation about a musical system, you are welcome to bring it along to showcase during the poster sessions.
