@@ -3,68 +3,87 @@
   im: "assets/committee/charles-martin.jpg"
   role: General Chair
   url: "https://charlesmartin.au"
+
 - name: Pia van Gelder
   aff: ANU School of Art and Design
   im: "assets/committee/pia-van-gelder.jpg"
   role: General Chair
   url: "https://researchportalplus.anu.edu.au/en/persons/pia-van-gelder"
+
 - name: Doga Buse Cavdir
   aff: IT University of Copenhagen
   im: "assets/committee/doga-buse-cavdir.jpg"
   role: Paper Chair
   url: "https://www.dogacavdir.com/"
+
 - name: Florent Berthaut
   aff: Universitié de Lille
   im: "assets/committee/florent-berthaut.jpg"
   role: Paper Chair
   url: "https://pro.univ-lille.fr/florent-berthaut"  
+
 - name: Yichen Wang
   aff: ANU School of Computing
   im: "assets/committee/yichen-wang.jpg"
   role: Poster Chair
   url: "https://yichenwangs.github.io/"
+
 - name: Sophie Rose
   aff: University of Melbourne
   im: "assets/committee/sophie-rose.jpg"
   role: Music Chair
   url: "https://sophiemusicrose.com/Bio/"
+
 - name: Jos Mulder
   aff: ANU School of Music
   im: "assets/committee/jos-mulder.jpg"
   role: Music Chair
   url: "https://researchportalplus.anu.edu.au/en/persons/jos-mulder"
+
 - name: Nicole Carroll
   aff: Queensland University of Technology
   im: "assets/committee/nicole-carroll.jpg"
   role: Music Chair
   url: "http://nicolecarrollmusic.com"
+
 - name: Alexander Hunter
   aff: ANU School of Music
   im: "assets/committee/alexander-hunter.jpg"
   role: Accessibility Chair
   url: "https://www.alexanderhunter.com.au"
+
 - name: Minsik Choi
   aff: ANU School of Computing
   im: "assets/committee/minsik-choi.jpg"
   role: Workshop Chair
   url: "https://yorkcla.github.io"
+
 - name: Alon Ilsar 
   aff: SensiLab, Monash University
   im: "assets/committee/alon-ilsar.jpg"
   role: Workshop Chair
   url: "https://sensilab.monash.edu/people/alon-ilsar/"  
+
 - name: Albert-Ngabo Niyonsenga
   aff:  McGill IDMIL & ANU SMCClab
   im: "assets/committee/albert-niyonsenga.jpg"
   role: Hybrid Chair
   url: "https://www.idmil.org/people/albert-ngabo-niyonsenga/"
+
 - name: Patrick Hartono
   aff:  Goldsmiths, University of London
   im: "assets/committee/patrick-hartono.jpg"
   role: Social Chair
   url: "https://patrickhartono.com"  
+
 - name: Sam Trolland
   aff: SensiLab, Monash University
   role: Proceedings Chair
   im: "assets/committee/sam-trolland.jpg"
   url: "https://sensilab.monash.edu/people/sam-trolland/"
+
+- name: Sandy Martin
+  aff: ANU SMCClab
+  role: Student Volunteer Chair
+  im: "assets/committee/sandy-ma.jpg"
+  url: "https://snud.me"
