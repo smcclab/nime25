@@ -44,7 +44,7 @@ layout: default
     {% capture proceeding_entry_url %}{{ paper.id | datapage_url: "proceedings" | relative_url }}{% endcapture %}
 
       <li>
-        <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a>  ({{paper.duration}} minutes)  {% if paper.paper_url %}<a href="{{ paper.paper_url }}">(PDF link)</a>{% endif %}<br>
+        <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a>  {% if paper.duration %}({{paper.duration}} minutes){% endif %}  {% if paper.paper_url %}<a href="{{ paper.paper_url }}">(PDF link)</a>{% endif %}<br>
         by {{ paper.authors }}<br>      
 
       </li>
