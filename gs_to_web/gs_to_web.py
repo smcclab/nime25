@@ -87,13 +87,21 @@ proceedings_df = pd.concat([papers_filtered, music_filtered, workshops_filtered]
 
 proceedings_df['id'] = proceedings_df['id'].astype(int)
 proceedings_df['image_url'] = proceedings_df['id'].apply(lambda x: f"{x}.jpg")
-proceedings_df['duration'] = pd.to_numeric(proceedings_df['duration'], errors='coerce', downcast='integer')
-proceedings_df['duration'] = proceedings_df['duration']
-proceedings_df['duration'] = proceedings_df['duration'].fillna('')
-mask = proceedings_df['duration'] != ''
-proceedings_df.loc[mask, 'duration'] = proceedings_df.loc[mask, 'duration'].astype(int)
-print(proceedings_df['duration'])
+# proceedings_df['duration'] = pd.to_numeric(proceedings_df['duration'], errors='coerce', downcast='integer')
+# proceedings_df['duration'] = proceedings_df['duration'].fillna('')
+# mask = proceedings_df['duration'] != ''
+# proceedings_df.loc[mask, 'duration'] = proceedings_df.loc[mask, 'duration'].astype(int)
+# print(proceedings_df['duration'])
 
+def change_numbers_to_int(column):
+    proceedings_df[column] = pd.to_numeric(proceedings_df[column], errors='coerce', downcast='integer')
+    proceedings_df[column] = proceedings_df[column].fillna('')
+    mask = proceedings_df[column] != ''
+    proceedings_df.loc[mask, column] = proceedings_df.loc[mask, column].astype(int)
+    print(proceedings_df[column])
+
+change_numbers_to_int('duration')
+change_numbers_to_int('session_position')
 
 
 # Create a mask for non-empty problems
