@@ -87,10 +87,14 @@ proceedings_df = pd.concat([papers_filtered, music_filtered, workshops_filtered]
 
 proceedings_df['id'] = proceedings_df['id'].astype(int)
 proceedings_df['image_url'] = proceedings_df['id'].apply(lambda x: f"{x}.jpg")
-# proceedings_df['paper_url'] = proceedings_df['id'].apply(lambda x: f"nime2025_{x}.pdf")
 proceedings_df['duration'] = pd.to_numeric(proceedings_df['duration'], errors='coerce', downcast='integer')
-# mask = proceedings_df['duration'] != ''
-# proceedings_df.loc[mask, 'duration'] = proceedings_df.loc[mask, 'duration'].astype(int)
+proceedings_df['duration'] = proceedings_df['duration']
+proceedings_df['duration'] = proceedings_df['duration'].fillna('')
+mask = proceedings_df['duration'] != ''
+proceedings_df.loc[mask, 'duration'] = proceedings_df.loc[mask, 'duration'].astype(int)
+print(proceedings_df['duration'])
+
+
 
 # Create a mask for non-empty problems
 mask_with_problems = (
