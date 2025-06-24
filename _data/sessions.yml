@@ -359,6 +359,9 @@
   image_credit: "Charles Martin"
   # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
+  abstract: |
+    This concert of works for Disklavier will run multiple times between 19:30 and 20:30 during the installation viewing session. There will be limited seating as the concert is in the studio live room.
+
 
 - id: concert-5
   title: Concert 5
