@@ -67,7 +67,7 @@
 
 - id: concert-1
   title: Opening Concert
-  chair: TBA
+  chair: Sophie Rose
   date: Tuesday 2025-06-24 18:30-20:30 AEST
   start: '2025-06-24T18:30:00+10:00'
   end: '2025-06-24T20:30:00+10:00'
@@ -79,18 +79,6 @@
   allDay : false
 
 # Day 1
-
-# - id: research1
-#   title: NIME Day 1
-#   chair: TBA
-#   date: Wednesday 2025-06-25 09:00-17:00 AEST
-#   start: '2025-06-25T09:00:00+10:00'
-#   end: '2025-06-25T17:00:00+10:00'
-#   location: "Kambri Cinema"
-#   type: papers
-#   image_url: assets/charles-martin-ventilation.jpg
-#   video_url: https://www.youtube.com/live/aL8uG1PRkIY
-#   allDay : false
 
 - id: registration2
   title: Registration
@@ -194,7 +182,7 @@
 
 - id: concert-2
   title: Concert 2
-  chair: TBA
+  chair: Nicole Carroll
   date: Wednesday 2025-06-25 19:00-20:30 AEST
   start: '2025-06-25T19:00:00+10:00'
   end: '2025-06-25T20:30:00+10:00'
@@ -207,7 +195,7 @@
 
 - id: concert-3
   title: Concert 3
-  chair: TBA
+  chair: Alexander Hunter
   date: Wednesday 2025-06-25 21:00-23:00 AEST
   start: '2025-06-25T21:00:00+10:00'
   end: '2025-06-25T23:00:00+10:00'
@@ -335,7 +323,7 @@
 
 - id: installations-1
   title: Installation Viewing
-  chair: TBA
+  chair: Pia van Gelder
   date: Thursday 2025-06-26 17:00-20:30 AEST
   start: '2025-06-26T17:00:00+10:00'
   end: '2025-06-26T20:30:00+10:00'
@@ -349,7 +337,7 @@
 
 - id: concert-4
   title: Studio Concert
-  chair: TBA
+  chair: Nicole Carroll
   date: Thursday 2025-06-26 19:30-20:30 AEST
   start: '2025-06-26T19:30:00+10:00'
   end: '2025-06-26T20:30:00+10:00'
@@ -365,7 +353,7 @@
 
 - id: concert-5
   title: Concert 5
-  chair: TBA
+  chair: Sophie Rose
   date: Thursday 2025-06-26 21:00-23:00 AEST
   start: '2025-06-26T21:00:00+10:00'
   end: '2025-06-26T23:00:00+10:00'
@@ -377,18 +365,6 @@
   allDay : false
 
 # Day 3
-
-# - id: research3
-#   title: NIME Day 3
-#   chair: TBA
-#   date: Friday 2025-06-27 09:00-17:00 AEST
-#   start: '2025-06-27T09:00:00+10:00'
-#   end: '2025-06-27T17:00:00+10:00'
-#   location: "Kambri Cinema"
-#   type: papers
-#   image_url: assets/charles-martin-ventilation.jpg
-#   video_url: https://www.youtube.com/live/aL8uG1PRkIY
-#   allDay : false
 
 - id: registration4
   title: Registration
@@ -477,7 +453,7 @@
 
 - id: plenary-town-hall
   title: Town Hall Plenary
-  chair: TBA
+  chair: Charles Martin
   date: Friday 2025-06-27 16:00-17:00 AEST
   start: '2025-06-27T16:00:00+10:00'
   end: '2025-06-27T17:00:00+10:00'
@@ -490,7 +466,7 @@
 
 - id: installations-2
   title: Installation Viewing
-  chair: TBA
+  chair: Pia van Gelder
   date: Friday 2025-06-27 17:00-19:00 AEST
   start: '2025-06-27T17:00:00+10:00'
   end: '2025-06-27T19:00:00+10:00'
@@ -503,7 +479,7 @@
 
 - id: concert-6
   title: Concert 6
-  chair: TBA
+  chair: Nicole Carroll
   date: Friday 2025-06-27 19:00-20:30 AEST
   start: '2025-06-27T19:00:00+10:00'
   end: '2025-06-27T20:30:00+10:00'
@@ -516,7 +492,7 @@
 
 - id: concert-7
   title: Synth & Signal (Club Concert and After Party)
-  chair: TBA
+  chair: Sophie Rose
   date: Friday 2025-06-27 21:00-23:59 AEST
   start: '2025-06-27T21:00:00+10:00'
   end: '2025-06-27T23:59:00'
