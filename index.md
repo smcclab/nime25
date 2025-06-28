@@ -11,6 +11,8 @@ feature_image_dark: /assets/NIME2025_background_dark.png
   <lite-youtube videoid="qh237XAfRto"></lite-youtube>
 </div>
 
+{: .info-box}
+That is it - thank you for joining NIME2025 - hope to see you next year in [London](https://nime2026.org/)!
 
 ## About NIME2025
 
