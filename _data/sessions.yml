@@ -459,10 +459,216 @@
   end: '2025-06-27T17:00:00+10:00'
   location: "Kambri Cinema"
   type: plenary
-  image_url: assets/location/nime.jpg
-  
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  image_url: assets/location/kambri-cinema.jpg
+  video_url: https://www.youtube.com/watch?v=jscxvST0qE0
   allDay : false
+  abstract: |
+    ## NIME 2025 Town Hall Slides
+
+    - Friday, 27 June 2025
+    - Cinema, Lowitja O'Donoghue Cultural Centre, Australian National University, Ngunnawal Country (Canberra), Australia
+
+    ## Conference Attendance
+
+    - Total attendees: 199
+    - By presence:
+      - Remote: 50 (-ish)
+      - In person: 149 (-ish)
+    - By type:
+      - Non-Student: 58- Student: 106
+      - Committee: 14
+      - Guests:  8
+      - Volunteers: 13
+
+    **1 remote participant saves up to ~3000 kg of carbon emissions (based on London-Sydney economy air fare). So we saved up to 150000 kg of carbon emissions.**
+
+    ## Submissions and Acceptance
+
+    - Paper Track (Short, Medium, Long)
+      - Submissions: 195
+      - Accepted: 96 (49%)
+    - Music Track (Live/Remote Performances + Installations)
+      - Submissions: 104
+      - Accepted: 44 (42%)
+    - Workshops Track
+      - Submissions: 12
+      - Accepted: 9 (75%)
+    - Total submissions (all tracks): 311
+
+    ## Committee
+
+    - **General Chairs:** Charles Martin, Pia van Gelder
+    - **Paper/Poster Chairs:** Florent Berthaut, Doga Cavdir, Yichen Wang
+    - **Music Chairs:** Sophie Rose, Nicole Carroll, Jos Mulder
+    - **Workshop Chairs:** Minsik Choi, Alon Ilsar
+    - **Accessibility:** Alexander Hunter 
+    - **Hybrid:** Albert-Ngabo Niyonsenga
+    - **Proceedings:** Sam Trolland
+    - **Student Volunteers:** Sandy Ma
+    - **Social Media:** Patrick Hartono
+
+    ## Special Thanks to PhD students on the committee..
+
+    ANU SMCClab (sound, music and creative computing lab):
+
+    - Yichen Wang (posters!)
+    - Sandy Ma (ambassadors/volunteers!)
+    - Minsik Choi (workshops!)
+    - Albert Niyonsenga (hybrid STREAMING!)
+
+    Monash Sensilab:
+
+    - Sam Trolland (proceedings!)
+
+    These folks were crucial for the success of NIME2025! Thank you all so, so much.
+
+    ## Sponsors
+
+    - The Australian National University 
+      - School of Computing
+      - School of Music
+      - School of Art and Design
+    - MusicACT (Closing Concert)
+    - Prize Sponsor: Bela
+
+    ## A word from the NIME board
+
+    - The NIME board is NIME’s governing body. It presently has 8 members and meets ~10 times per year.
+    - NIME is an informal collective (no legal organisation or bank account), but board provides continuity, develops community and manages procedural issues (publishing proceedings etc).
+    - Participate in the NIME community!
+      - NIME Forum: <https://forum.nime.org>
+      - NIME mailing list: <https://nime.org/mailinglist/>
+    - Nominate for the board! (next elections will be in 2026)
+      - April 2026: election for two committee roles (2x members-at-large)
+    - News from Committees (Juan!)
+
+    ## Existing committees (and networks)
+
+    - Diversity
+      - Courtney Reed
+      - João Tragtenberg
+      - Andrew McMillan, 
+      - Yichen Wang, 
+      - Zeynep Ozcan
+
+    - Environmental
+      - Raul Masu
+      - Ha-Moon Young, 
+      - Florent Berthaut, 
+      - Benedict Gaster
+
+    - Ethics
+      - Kerem Ergener
+      - Doga Cadvir,
+      - Natalia Fuchs
+
+    - WiNIME
+      - Isabela Corintha
+      - Aida Khorsandi,
+      - Eleni-Ira Panourgia
+
+    - LATAM NIME
+      - João Tragtenberg
+      - Alvaro Lopez
+      - 70+ network members
+
+    - Info: <https://www.nime.org/committees/>
+
+    ## Prizes
+
+    Three categories:
+
+    - Best Paper (winner + two highly commended)
+      - Panel: Paper + General Chairs
+    - Best Music (winner + two highly commended) 
+      - Panel: Music + General Chairs
+    - Pamela Z Award for Innovation, Diversity and Inclusion
+        - Panel: Paper + Music + General Chairs
+
+    Prize Sponsor: Bela! <https://bela.io/gem>
+
+    - Category winners (Paper, Music, Pamela Z)
+      - Bela Gem Multi (10 in / 10 out)
+    - Highly commended
+      - Bela Gem Stereo (2 in / 2 out)
+
+    ## Best Paper
+
+    **Winner:**
+
+    - (10) Looping slowly: Diffraction through the lens of nostalgia by Benedict Gaster; Nathan Renney; Jasmine Butt
+
+    **Highly Commended:**
+
+    - (137) The Imperfect Copy: Role Playing Reenactments of Historical Electronic Sound Instruments by Derek Holzer; Henrik Frisk; André Holzapfel
+    - (78) Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping by Seth Thorn; Anani Vasquez; Corey Reutlinger; Margarita Pivovarova; Mirka Koro.
+
+    ## Best Music
+
+    **Winner:**
+
+    - (178) Carpet Entanglement by Joseph Burgess
+
+    **Highly Commended:**
+
+    - (292) Playing the Sound Image by risako shibata; miki kanda; kenta tanaka; ryoho kobayashi; yuta uozumi; shinya fujii
+    - (190) Orbis by by Yukihiro Sugawara; Kotaro Watanabe; Shinnosuke Hirose; Moe Miyake; Kenshiro Taira; Sakura Takada; Ryoho Kobayashi; Yuta Uozumi; Kei Fujiwara; Shinya Fujii
+
+    ## Pamela Z Award for Innovation, Diversity and Inclusion
+
+    **Winner:**
+
+    - (68) Between Garment and Prosthesis: The Design of an E-Textile Musical Interface by Qiaosheng Lyu; Ryo Ikeshiro.
+
+    **Highly Commended:**
+
+    - (43) State Change by Molly Joyce
+    - (253) The Sound Tree Project: Developing Personal and Collective Expression with Accessible Digital Musical Instruments by Steph O’Hara; Alon Ilsar.
+
+    ## What’s left tonight?
+
+    - Installation Viewing (School of Music): 5pm-7pm
+    - Concert 6 (Big Band Room) 7pm-8:30pm
+    - Closing Concert (Shadows Night Club) 9pm-12am
+    - NIME2025 have free access but need to register via Humanitix
+    - Features three NIME artists + three local artists (ex-ANU students!)
+    - 15-minute walk from Big Band Room (East Row / Bus interchange)
+    - Shadows concert registration: <https://events.humanitix.com/synth-and-signal-2025> Use code: `NIME2025`
+
+    ## And now for next year…
+
+    **NIME 2026: 23-26 June 2026, London, UK**
+
+    - General Chairs:
+      - Andrew McPherson (Imperial College London)
+      - Courtney N. Reed (Loughborough University London)
+    - Evening Programme: Rich Mix, East London
+    - Day Programme: Loughborough University London, Queen Elizabeth Olympic Park
+    - Papers: 
+      - Benedict Gaster UWE, Bristol, UK
+      - Anna Xambó QMUL, (London, UK)
+      - João Tragtenberg (UFPE, Recife, BR)
+    - Music:
+      - Lia Mice (ICMP, London, UK)
+      - Tara Pattenden (Griffith University, Brisbane, AU)
+    - Accessibility
+      - Hugh Aynsley (UWE, Bristol, UK)
+      - Mat Dalgleish (U. of Staffordshire, UK)
+    - Poster/Demo
+      - Paul Strohmeier (MPI, Saarbrücken, DE)
+    - Workshops
+      - Pete Bennett (University of Bristol, UK)
+    - Installations
+      - Sofy Yuditskaya (NYU, USA)
+
+    ...and you? more soon!
+
+    ## Open Questions
+
+    - What shall we gleefully abandon?
+    - What shall we boldly launch?
+    - What shall we lovingly maintain?
+
 
 - id: installations-2
   title: Installation Viewing
