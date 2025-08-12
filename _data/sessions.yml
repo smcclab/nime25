@@ -20,7 +20,6 @@
   type: workshops
   image_url: assets/submissions/330.jpg
   image_credit: "Ciaran Frame; Steph O'Hara; Sam Trolland; Alon Ilsar"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: workshops-2
@@ -33,7 +32,6 @@
   type: workshops
   image_url: assets/submissions/336.jpg
   image_credit: "Jason Smith; Bryan Pardo"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: workshops-0
@@ -46,7 +44,6 @@
   type: workshops
   image_url: assets/submissions/217.jpg
   image_credit: "Chris Kiefer; Andrea Martelloni"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: reception
@@ -58,7 +55,6 @@
   location: "Kambri Foyer"
   type: plenary
   image_url: assets/location/kambri-cultural-centre.jpg
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
   abstract: |
     The conference welcome will take place at the Lowitja O'Donoghue Cultural Centre at Kambri in the centre of campus.
@@ -75,7 +71,7 @@
   type: concert
   image_url: assets/submissions/238.jpg
   image_credit: "Leah Barclay; Toby Gifford"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/kwWyqySe_5k
   allDay : false
 
 # Day 1
@@ -101,7 +97,7 @@
   type: papers
   image_url: assets/submissions/68.jpg
   image_credit: "Qiaosheng Lyu; Ryo Ikeshiro"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/VkqUgpM-23Y
   allDay : false
 
 - id: papers-2
@@ -115,7 +111,7 @@
   type: papers
   image_url: assets/submissions/115.jpg
   image_credit: "Victor Shepardson; Halla Steinunn Stefánsdóttir; Thor Magnusson"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/jBl-az28ENw
   allDay : false
 
 - id: posters-1
@@ -177,7 +173,7 @@
   type: papers
   image_url: assets/submissions/11.jpg
   image_credit: "Pasquale Mainolfi"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/S9gjixBO5f0
   allDay : false
 
 - id: concert-2
@@ -190,7 +186,7 @@
   type: concert
   image_url: assets/submissions/257.jpg
   image_credit: "Sophie Rose"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/_8WIjCUOHuU
   allDay : false
 
 - id: concert-3
@@ -203,7 +199,7 @@
   type: concert
   image_url: assets/submissions/183.jpg
   image_credit: "Lilian Zhao"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/3mBqeJObMRg
   allDay : false
 
 # Day 2 - Thursday
@@ -230,7 +226,7 @@
   type: papers
   image_url: assets/submissions/96.jpg
   image_credit: "Xinran Chen; Iurii Kuzmin; Mela Bettega; Raul Masu"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/UmX51Sezk3o
   allDay : false
 
 - id: papers-5
@@ -244,7 +240,7 @@
   type: papers
   image_url: assets/submissions/131.jpg
   image_credit: "Sandy Ma"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/SvVPt_ljs3Q
   allDay : false
 
 - id: posters-2
@@ -289,7 +285,7 @@
   type: papers
   image_url: assets/submissions/37.jpg
   image_credit: "Mat Dalgleish"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/KZC5g7uDvEM
   allDay : false
 
 - id: papers-7
@@ -303,7 +299,7 @@
   type: papers
   image_url: assets/submissions/21.jpg
   image_credit: "Jasmine Butt; Benedict Gaster; Nathan Renney; Maisie Palmer"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/tABKP-g8efE
   allDay : false
 
 - id: dinner
@@ -345,7 +341,7 @@
   type: concert
   image_url: assets/location/som-stairs.jpg
   image_credit: "Charles Martin"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/3KzKPL2NEEs
   allDay : false
   abstract: |
     This concert of works for Disklavier will run multiple times between 19:30 and 20:30 during the installation viewing session. There will be limited seating as the concert is in the studio live room.
@@ -361,7 +357,7 @@
   type: concert
   image_url: assets/submissions/95.jpg
   image_credit: "Ludwig Zeller; Anselm Bauer"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/5kKkZ5fz_J8
   allDay : false
 
 # Day 3
@@ -388,7 +384,7 @@
   type: papers
   image_url: assets/submissions/195.jpg
   image_credit: "Yann Seznec"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/7WGtiEz0jro
   allDay : false
 
 - id: papers-9
@@ -402,7 +398,7 @@
   type: papers
   image_url: assets/submissions/58.jpg
   image_credit: "David Kim-Boyle"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/wDJqIgoWSrI
   allDay : false
 
 - id: posters-3
@@ -688,7 +684,6 @@
   type: installations
   image_url: assets/submissions/159.jpg
   image_credit: "Jacob Hedges; Daniel Garrett; Jaxon Sharp"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
   allDay : false
 
 - id: concert-6
@@ -701,7 +696,7 @@
   type: concert
   image_url: assets/submissions/293.jpg
   image_credit: "Botao Hu; Yuemin Huang; Mingze Chai; Xiaobo Hu; Yilan Tao; Rem RunGu Lin"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/Mccb3JNiutc
   allDay : false
 
 - id: concert-7
@@ -714,7 +709,7 @@
   type: concert
   image_url: assets/submissions/262.jpg
   image_credit: "Tara Pattenden"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  # video_url: https://youtube.com/live/wX4JJXQyZEw
   allDay : false
   abstract: |
     _Synth & Signal_ is co-curated and supported by [MusicACT](https://www.musicact.com.au) ([instagram](https://www.instagram.com/yourmusicact/)), the ACT's peak-body for contemporary music.
