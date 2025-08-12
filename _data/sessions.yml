@@ -128,7 +128,7 @@
   type: posters
   image_url: assets/submissions/8.jpg
   image_credit: "Sabina Hyoju Ahn; Ryan Millett; Seyeon Park"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  video_url: https://youtube.com/live/wijsLzzkak4
   allDay : false
 
 - id: keynote-1
@@ -141,7 +141,7 @@
   type: plenary
   image_url: assets/keynotes/cooper.jpg
   image_credit: "Ryley Lawson"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  video_url: https://youtube.com/live/T9ELxZxoidQ
   allDay : false
   abstract: |
     **title**
@@ -257,7 +257,7 @@
   type: posters
   image_url: assets/submissions/135.jpg
   image_credit: "Darlene Castro"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  video_url: https://youtube.com/live/WgOvt4rO0OI
   allDay : false
 
 - id: fairlight
@@ -415,7 +415,7 @@
   type: posters
   image_url: assets/submissions/184.jpg
   image_credit: "Davor Vincze; Roberto Alonso; Peter Nelson"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  video_url: https://youtube.com/live/jGTjMcAEhtU
   allDay : false
 
 - id: keynote-2
@@ -428,7 +428,7 @@
   type: plenary
   image_url: assets/keynotes/blamey.jpg
   image_credit: "Nick Dan"
-  # video_url: https://www.youtube.com/live/aL8uG1PRkIY
+  video_url: https://www.youtube.com/live/WLeItneiNtg
   allDay : false
   abstract: |
     **keynote title**
