@@ -1,0 +1,70 @@
+# This is a demo config file showing a minimal set of default keys and keys used by the theme.
+title: NIME 2025
+email: charles.martin@anu.edu.au
+tagline: Write a short description of the site here. # a short description
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the official website of NIME'25.
+baseurl: "/web_archive/2025" # the subpath of your site, e.g. /blog
+url: "https://nime.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+footer_copyright: The Australian National University
+# logo: /assets/NIME2025_type.svg
+logo_light: /assets/NIME2025_type_light-1.svg
+logo_dark: /assets/NIME2025_type_dark.svg
+favicon: /assets/favicon.ico
+
+plugins:
+  - jekyll-figure
+  - jekyll-datapage-generator
+  - jekyll-seo-tag
+
+navigation_header:
+- title: Home
+  url: /
+- title: Call
+  url: /call/
+- title: Submissions
+  url: /submissions/
+- title: Camera-Ready
+  url: /camera-ready/
+- title: Registration
+  url: /registration/
+- title: Reviewing
+  url: /reviewing/
+- title: Committee
+  url: /committee/
+- title: Program
+  url: /program/
+- title: Visit
+  url: /location/
+- title: Contact
+  url: /contact/
+
+# this is the setup for the page_gen plugin which generates individual pages for data files in the _data directory.
+page_gen:
+- data: proceedings
+  template: proceeding_entry
+  dir: proceedings
+  index_files: false
+  name: id
+  title: title
+  extension: html
+  page_data_prefix: entry
+  debug: false
+- data: sessions
+  template: session_entry
+  dir: sessions
+  index_files: false
+  name: id
+  title: title
+  extension: html
+  page_data_prefix: entry
+  debug: false
+
+submission_site: https://cmt3.research.microsoft.com/NIME2025
+
+exclude: [gs_to_web]
+
+# Theme specific options
+link_pdfs: false
