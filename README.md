@@ -48,3 +48,9 @@ To add a custom directory to your theme-gem, please edit the regexp in `academic
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Building for the archive
+
+To build for the archive, run this command:
+
+`bundle exec jekyll build --config _config_archive.yml`
