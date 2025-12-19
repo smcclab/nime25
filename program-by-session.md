@@ -13,8 +13,8 @@ permalink: /program-by-session/
 {% if session.type != "admin" and session.type != "plenary" %}
   {% capture session_url %}{{ session.id | datapage_url: "sessions" | relative_url }}{% endcapture %}
   {% assign session_papers = site.data.proceedings | where: "session_code", session.id %}
-  <h5><a href="{{ session_url }}">{{ session.title }}</a></h5>
-  <h6>{{ session.type | capitalize }} Session</h6>
+  <h5><a href="{{ session_url }}">{{ session.title }}{% if session.subtitle %}: {{ session.subtitle }}{% endif %}</a></h5>
+  <h6>{{ session.type | capitalize }} Session {% if session.video_url %}(<a href="{{ session.video_url }}">Video Link</a>){% endif %}</h6>
   <p>
     <strong>Date:</strong> {{ session.date }}<br>
     <strong>Location:</strong> {{ session.location }}<br>
@@ -25,7 +25,7 @@ permalink: /program-by-session/
     {% for paper in session_papers %}
     {% capture proceeding_entry_url %}{{ paper.id | datapage_url: "proceedings" | relative_url }}{% endcapture %}
       <li>
-        ({{ paper.id }}) <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a>  ({{paper.duration}} minutes)
+        ({{ paper.id }}) <a href="{{ proceeding_entry_url }}"><strong>{{ paper.title }}</strong></a>  ({{paper.duration}} minutes{% if paper.format == "poster"%}, {{ paper.presence }}{% endif %})
         by {{ paper.authors }}
       </li>
     {% endfor %}

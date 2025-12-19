@@ -62,7 +62,8 @@
     The welcome will feature Senior Ngunnawal Elder, [Aunty Violet Sheridan](https://www.regionalaustralia.org.au/Conference2024/Conference2025/Speakers/Aunty_Violet_Sheridan.aspx).
 
 - id: concert-1
-  title: Opening Concert
+  title: Concert 1
+  subtitle: Opening Concert
   chair: Sophie Rose
   date: Tuesday 2025-06-24 18:30-20:30 AEST
   start: '2025-06-24T18:30:00+10:00'
@@ -331,7 +332,8 @@
 
 
 - id: concert-4
-  title: Studio Concert
+  title: Concert 4
+  subtitle: Studio Concert
   chair: Nicole Carroll
   date: Thursday 2025-06-26 19:30-20:30 AEST
   start: '2025-06-26T19:30:00+10:00'
@@ -699,7 +701,8 @@
   allDay : false
 
 - id: concert-7
-  title: Synth & Signal (Club Concert and After Party)
+  title: Concert 7 Synth & Signal
+  subtitle: Club Concert and After Party
   chair: Sophie Rose
   date: Friday 2025-06-27 21:00-23:59 AEST
   start: '2025-06-27T21:00:00+10:00'
