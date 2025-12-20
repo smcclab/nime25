@@ -72,7 +72,7 @@
   type: concert
   image_url: assets/submissions/238.jpg
   image_credit: "Leah Barclay; Toby Gifford"
-  video_url: https://youtube.com/live/kwWyqySe_5k
+  video_url: https://youtu.be/EiruCuMAFZ4
   allDay : false
 
 # Day 1
@@ -98,7 +98,7 @@
   type: papers
   image_url: assets/submissions/68.jpg
   image_credit: "Qiaosheng Lyu; Ryo Ikeshiro"
-  video_url: https://youtube.com/live/VkqUgpM-23Y
+  video_url: https://youtu.be/64N7oyUN9p4
   allDay : false
 
 - id: papers-2
@@ -112,7 +112,7 @@
   type: papers
   image_url: assets/submissions/115.jpg
   image_credit: "Victor Shepardson; Halla Steinunn Stefánsdóttir; Thor Magnusson"
-  video_url: https://youtube.com/live/jBl-az28ENw
+  video_url: https://youtu.be/l_QNys6XXcg
   allDay : false
 
 - id: posters-1
@@ -125,7 +125,7 @@
   type: posters
   image_url: assets/submissions/8.jpg
   image_credit: "Sabina Hyoju Ahn; Ryan Millett; Seyeon Park"
-  video_url: https://youtube.com/live/wijsLzzkak4
+  video_url: https://youtu.be/j55Rl5sWne4
   allDay : false
 
 - id: keynote-1
@@ -138,7 +138,7 @@
   type: plenary
   image_url: assets/keynotes/cooper.jpg
   image_credit: "Ryley Lawson"
-  video_url: https://youtube.com/live/T9ELxZxoidQ
+  video_url: https://youtu.be/cbsnj0ZC7zA
   allDay : false
   abstract: |
     **title**
@@ -174,7 +174,7 @@
   type: papers
   image_url: assets/submissions/11.jpg
   image_credit: "Pasquale Mainolfi"
-  video_url: https://youtube.com/live/S9gjixBO5f0
+  video_url: https://youtu.be/Hs2T-wRSapY
   allDay : false
 
 - id: concert-2
@@ -187,7 +187,7 @@
   type: concert
   image_url: assets/submissions/257.jpg
   image_credit: "Sophie Rose"
-  video_url: https://youtube.com/live/_8WIjCUOHuU
+  video_url: https://youtu.be/UmtBO_CW-kw
   allDay : false
 
 - id: concert-3
@@ -200,7 +200,7 @@
   type: concert
   image_url: assets/submissions/183.jpg
   image_credit: "Lilian Zhao"
-  video_url: https://youtube.com/live/3mBqeJObMRg
+  video_url: https://youtu.be/zS2Vv8HG9zA
   allDay : false
 
 # Day 2 - Thursday
@@ -227,7 +227,7 @@
   type: papers
   image_url: assets/submissions/96.jpg
   image_credit: "Xinran Chen; Iurii Kuzmin; Mela Bettega; Raul Masu"
-  video_url: https://youtube.com/live/UmX51Sezk3o
+  video_url: https://youtu.be/wIEJVfAmukA
   allDay : false
 
 - id: papers-5
@@ -241,7 +241,7 @@
   type: papers
   image_url: assets/submissions/131.jpg
   image_credit: "Sandy Ma"
-  video_url: https://youtube.com/live/SvVPt_ljs3Q
+  video_url: https://youtu.be/l1_SPh-Elv4
   allDay : false
 
 - id: posters-2
@@ -254,7 +254,7 @@
   type: posters
   image_url: assets/submissions/135.jpg
   image_credit: "Darlene Castro"
-  video_url: https://youtube.com/live/WgOvt4rO0OI
+  video_url: https://youtu.be/Yhzc54Qdid8
   allDay : false
 
 - id: fairlight
@@ -286,7 +286,7 @@
   type: papers
   image_url: assets/submissions/37.jpg
   image_credit: "Mat Dalgleish"
-  video_url: https://youtube.com/live/KZC5g7uDvEM
+  video_url: https://youtu.be/OIoSA-1EBoA
   allDay : false
 
 - id: papers-7
@@ -300,7 +300,7 @@
   type: papers
   image_url: assets/submissions/21.jpg
   image_credit: "Jasmine Butt; Benedict Gaster; Nathan Renney; Maisie Palmer"
-  video_url: https://youtube.com/live/tABKP-g8efE
+  video_url: https://youtu.be/EkkL1y1nSok
   allDay : false
 
 - id: dinner
@@ -342,7 +342,7 @@
   type: concert
   image_url: assets/location/som-stairs.jpg
   image_credit: "Charles Martin"
-  video_url: https://youtube.com/live/3KzKPL2NEEs
+  video_url: https://youtu.be/GFeDY536Nac
   allDay : false
   abstract: |
     This concert of works for Disklavier will run multiple times between 19:30 and 20:30 during the installation viewing session. There will be limited seating as the concert is in the studio live room.
@@ -358,7 +358,7 @@
   type: concert
   image_url: assets/submissions/95.jpg
   image_credit: "Ludwig Zeller; Anselm Bauer"
-  video_url: https://youtube.com/live/5kKkZ5fz_J8
+  video_url: https://youtu.be/ySHC-oIvMWk
   allDay : false
 
 # Day 3
@@ -385,7 +385,7 @@
   type: papers
   image_url: assets/submissions/195.jpg
   image_credit: "Yann Seznec"
-  video_url: https://youtube.com/live/7WGtiEz0jro
+  video_url: https://youtu.be/Okg5H40Q2qE
   allDay : false
 
 - id: papers-9
@@ -399,7 +399,7 @@
   type: papers
   image_url: assets/submissions/58.jpg
   image_credit: "David Kim-Boyle"
-  video_url: https://youtube.com/live/wDJqIgoWSrI
+  video_url: https://youtu.be/p0lyarGv46Y
   allDay : false
 
 - id: posters-3
@@ -412,7 +412,7 @@
   type: posters
   image_url: assets/submissions/184.jpg
   image_credit: "Davor Vincze; Roberto Alonso; Peter Nelson"
-  video_url: https://youtube.com/live/jGTjMcAEhtU
+  video_url: https://youtu.be/TGTWoBJRfyI
   allDay : false
 
 - id: keynote-2
@@ -425,7 +425,7 @@
   type: plenary
   image_url: assets/keynotes/blamey.jpg
   image_credit: "Nick Dan"
-  video_url: https://www.youtube.com/live/WLeItneiNtg
+  video_url: https://youtu.be/YZjtxUYBGsk
   allDay : false
   abstract: |
     **keynote title**
@@ -457,7 +457,7 @@
   location: "Kambri Cinema"
   type: plenary
   image_url: assets/location/kambri-cinema.jpg
-  video_url: https://www.youtube.com/watch?v=jscxvST0qE0
+  video_url: https://youtu.be/VoxEdqZWFFg
   allDay : false
   abstract: |
     ## NIME 2025 Town Hall Slides
@@ -697,7 +697,7 @@
   type: concert
   image_url: assets/submissions/293.jpg
   image_credit: "Botao Hu; Yuemin Huang; Mingze Chai; Xiaobo Hu; Yilan Tao; Rem RunGu Lin"
-  video_url: https://youtube.com/live/Mccb3JNiutc
+  video_url: https://youtu.be/87G7dc9_eUk
   allDay : false
 
 - id: concert-7
@@ -711,7 +711,7 @@
   type: concert
   image_url: assets/submissions/262.jpg
   image_credit: "Tara Pattenden"
-  video_url: https://youtube.com/live/wX4JJXQyZEw
+  video_url: https://youtu.be/SkM8TR_oQ7A
   allDay : false
   abstract: |
     _Synth & Signal_ is co-curated and supported by [MusicACT](https://www.musicact.com.au) ([instagram](https://www.instagram.com/yourmusicact/)), the ACT's peak-body for contemporary music.
