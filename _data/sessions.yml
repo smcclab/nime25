@@ -72,7 +72,15 @@
   type: concert
   image_url: assets/submissions/238.jpg
   image_credit: "Leah Barclay; Toby Gifford"
+<<<<<<< HEAD
   video_url: https://youtu.be/EiruCuMAFZ4
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/EiruCuMAFZ4?si=I5JPtxd_i1kNOqqW
+=======
+  video_url: https://youtu.be/EiruCuMAFZ4
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 # Day 1
@@ -98,7 +106,15 @@
   type: papers
   image_url: assets/submissions/68.jpg
   image_credit: "Qiaosheng Lyu; Ryo Ikeshiro"
+<<<<<<< HEAD
   video_url: https://youtu.be/64N7oyUN9p4
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/64N7oyUN9p4?si=kYukaysnkid_sjjI
+=======
+  video_url: https://youtu.be/64N7oyUN9p4
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: papers-2
@@ -112,7 +128,15 @@
   type: papers
   image_url: assets/submissions/115.jpg
   image_credit: "Victor Shepardson; Halla Steinunn Stefánsdóttir; Thor Magnusson"
+<<<<<<< HEAD
   video_url: https://youtu.be/l_QNys6XXcg
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/l_QNys6XXcg?si=cFkZN3ccVT9vQH0x
+=======
+  video_url: https://youtu.be/l_QNys6XXcg
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: posters-1
@@ -125,7 +149,15 @@
   type: posters
   image_url: assets/submissions/8.jpg
   image_credit: "Sabina Hyoju Ahn; Ryan Millett; Seyeon Park"
+<<<<<<< HEAD
   video_url: https://youtu.be/j55Rl5sWne4
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/j55Rl5sWne4?si=N83i2EbQ1YW2Txmd
+=======
+  video_url: https://youtu.be/j55Rl5sWne4
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: keynote-1
@@ -138,7 +170,15 @@
   type: plenary
   image_url: assets/keynotes/cooper.jpg
   image_credit: "Ryley Lawson"
+<<<<<<< HEAD
   video_url: https://youtu.be/cbsnj0ZC7zA
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/cbsnj0ZC7zA?si=0bebSU_qCAxGehP0
+=======
+  video_url: https://youtu.be/cbsnj0ZC7zA
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
   abstract: |
     **title**
@@ -174,7 +214,15 @@
   type: papers
   image_url: assets/submissions/11.jpg
   image_credit: "Pasquale Mainolfi"
+<<<<<<< HEAD
   video_url: https://youtu.be/Hs2T-wRSapY
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/Hs2T-wRSapY?si=wn5ttHF50tTAcPJ-
+=======
+  video_url: https://youtu.be/Hs2T-wRSapY
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: concert-2
@@ -187,7 +235,15 @@
   type: concert
   image_url: assets/submissions/257.jpg
   image_credit: "Sophie Rose"
+<<<<<<< HEAD
   video_url: https://youtu.be/UmtBO_CW-kw
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/UmtBO_CW-kw?si=hQJwwE5JZ4K6WdA0
+=======
+  video_url: https://youtu.be/UmtBO_CW-kw
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: concert-3
@@ -200,7 +256,15 @@
   type: concert
   image_url: assets/submissions/183.jpg
   image_credit: "Lilian Zhao"
+<<<<<<< HEAD
   video_url: https://youtu.be/zS2Vv8HG9zA
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/zS2Vv8HG9zA?si=dyP4P3F4DH0SN41p
+=======
+  video_url: https://youtu.be/zS2Vv8HG9zA
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 # Day 2 - Thursday
@@ -227,7 +291,15 @@
   type: papers
   image_url: assets/submissions/96.jpg
   image_credit: "Xinran Chen; Iurii Kuzmin; Mela Bettega; Raul Masu"
+<<<<<<< HEAD
   video_url: https://youtu.be/wIEJVfAmukA
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/wIEJVfAmukA?si=G3tSC3ttVyvAcIkl
+=======
+  video_url: https://youtu.be/wIEJVfAmukA
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: papers-5
@@ -241,7 +313,15 @@
   type: papers
   image_url: assets/submissions/131.jpg
   image_credit: "Sandy Ma"
+<<<<<<< HEAD
   video_url: https://youtu.be/l1_SPh-Elv4
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/l1_SPh-Elv4?si=3SuqmW_E_cAXgYDx
+=======
+  video_url: https://youtu.be/l1_SPh-Elv4
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: posters-2
@@ -254,7 +334,15 @@
   type: posters
   image_url: assets/submissions/135.jpg
   image_credit: "Darlene Castro"
+<<<<<<< HEAD
   video_url: https://youtu.be/Yhzc54Qdid8
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/Yhzc54Qdid8?si=vQ3IHYD5-a20C3cM
+=======
+  video_url: https://youtu.be/Yhzc54Qdid8
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: fairlight
@@ -286,7 +374,15 @@
   type: papers
   image_url: assets/submissions/37.jpg
   image_credit: "Mat Dalgleish"
+<<<<<<< HEAD
   video_url: https://youtu.be/OIoSA-1EBoA
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/OIoSA-1EBoA?si=qBYRwmIsHP6b8RWj
+=======
+  video_url: https://youtu.be/OIoSA-1EBoA
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: papers-7
@@ -300,7 +396,15 @@
   type: papers
   image_url: assets/submissions/21.jpg
   image_credit: "Jasmine Butt; Benedict Gaster; Nathan Renney; Maisie Palmer"
+<<<<<<< HEAD
   video_url: https://youtu.be/EkkL1y1nSok
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/EkkL1y1nSok?si=3OeHl4cx313133vu
+=======
+  video_url: https://youtu.be/EkkL1y1nSok
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: dinner
@@ -342,7 +446,15 @@
   type: concert
   image_url: assets/location/som-stairs.jpg
   image_credit: "Charles Martin"
+<<<<<<< HEAD
   video_url: https://youtu.be/GFeDY536Nac
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/GFeDY536Nac?si=qmUdMr2l7u-Yy4b9
+=======
+  video_url: https://youtu.be/GFeDY536Nac
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
   abstract: |
     This concert of works for Disklavier will run multiple times between 19:30 and 20:30 during the installation viewing session. There will be limited seating as the concert is in the studio live room.
@@ -358,7 +470,15 @@
   type: concert
   image_url: assets/submissions/95.jpg
   image_credit: "Ludwig Zeller; Anselm Bauer"
+<<<<<<< HEAD
   video_url: https://youtu.be/ySHC-oIvMWk
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/ySHC-oIvMWk?si=_FHCCzeNigGkHe_j
+=======
+  video_url: https://youtu.be/ySHC-oIvMWk
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 # Day 3
@@ -385,7 +505,15 @@
   type: papers
   image_url: assets/submissions/195.jpg
   image_credit: "Yann Seznec"
+<<<<<<< HEAD
   video_url: https://youtu.be/Okg5H40Q2qE
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/Okg5H40Q2qE?si=Tu66aG_FjS9hHKJn
+=======
+  video_url: https://youtu.be/Okg5H40Q2qE
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: papers-9
@@ -399,7 +527,15 @@
   type: papers
   image_url: assets/submissions/58.jpg
   image_credit: "David Kim-Boyle"
+<<<<<<< HEAD
   video_url: https://youtu.be/p0lyarGv46Y
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/p0lyarGv46Y?si=NguEtvF7pJ08JPZY
+=======
+  video_url: https://youtu.be/p0lyarGv46Y
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: posters-3
@@ -412,7 +548,15 @@
   type: posters
   image_url: assets/submissions/184.jpg
   image_credit: "Davor Vincze; Roberto Alonso; Peter Nelson"
+<<<<<<< HEAD
   video_url: https://youtu.be/TGTWoBJRfyI
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/TGTWoBJRfyI?si=lHKDrhPPvp2kMc6D
+=======
+  video_url: https://youtu.be/TGTWoBJRfyI
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: keynote-2
@@ -425,7 +569,15 @@
   type: plenary
   image_url: assets/keynotes/blamey.jpg
   image_credit: "Nick Dan"
+<<<<<<< HEAD
   video_url: https://youtu.be/YZjtxUYBGsk
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/YZjtxUYBGsk?si=wjj4aBiG3vVaF2Cn
+=======
+  video_url: https://youtu.be/YZjtxUYBGsk
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
   abstract: |
     **keynote title**
@@ -457,7 +609,15 @@
   location: "Kambri Cinema"
   type: plenary
   image_url: assets/location/kambri-cinema.jpg
+<<<<<<< HEAD
   video_url: https://youtu.be/VoxEdqZWFFg
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/VoxEdqZWFFg?si=qKiMkzk2LYlfi-Hl
+=======
+  video_url: https://youtu.be/VoxEdqZWFFg
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
   abstract: |
     ## NIME 2025 Town Hall Slides
@@ -697,7 +857,15 @@
   type: concert
   image_url: assets/submissions/293.jpg
   image_credit: "Botao Hu; Yuemin Huang; Mingze Chai; Xiaobo Hu; Yilan Tao; Rem RunGu Lin"
+<<<<<<< HEAD
   video_url: https://youtu.be/87G7dc9_eUk
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/87G7dc9_eUk?si=r8JRbleQ0CwHwhvL
+=======
+  video_url: https://youtu.be/87G7dc9_eUk
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
 
 - id: concert-7
@@ -711,7 +879,15 @@
   type: concert
   image_url: assets/submissions/262.jpg
   image_credit: "Tara Pattenden"
+<<<<<<< HEAD
   video_url: https://youtu.be/SkM8TR_oQ7A
+=======
+<<<<<<< HEAD
+  video_url: https://youtu.be/SkM8TR_oQ7A?si=Fek2wfuaj4dizXnO
+=======
+  video_url: https://youtu.be/SkM8TR_oQ7A
+>>>>>>> ae824a7 (update video URLs in sessions.yml to use new correct links)
+>>>>>>> 307ff29 (update video URLs in sessions.yml to use new correct links)
   allDay : false
   abstract: |
     _Synth & Signal_ is co-curated and supported by [MusicACT](https://www.musicact.com.au) ([instagram](https://www.instagram.com/yourmusicact/)), the ACT's peak-body for contemporary music.
